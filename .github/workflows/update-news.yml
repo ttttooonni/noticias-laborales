@@ -1,0 +1,46 @@
+name: Update news
+
+on:
+  schedule:
+    - cron: "20 * * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/update_news.py"
+      - "sources.json"
+      - "data/editorial.json"
+      - "data/seed.json"
+
+# contents:write is enough to commit the collected JSON.
+permissions:
+  contents: write
+
+# Do not cancel a run that may already be pushing — overlapping crons are rare
+# and aborting mid-push can leave main in a partial state.
+concurrency:
+  group: update-news
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Collect news
+        run: python scripts/update_news.py
+      - name: Stamp service worker cache
+        run: python scripts/stamp_sw.py
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/noticias.json sw.js
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: update news $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi

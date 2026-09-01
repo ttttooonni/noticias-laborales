@@ -7,9 +7,7 @@
       "label": "FUENTE OFICIAL",
       "kind": "rss",
       "url": "https://www.boe.es/rss/canal.php?c=ccolectivos",
-      "categories": [
-        "Convenios"
-      ],
+      "categories": ["Convenios"],
       "weight": 100
     },
     {
@@ -19,10 +17,7 @@
       "label": "FUENTE OFICIAL",
       "kind": "rss",
       "url": "https://www.boe.es/rss/canal_leg.php?c=131&l=l",
-      "categories": [
-        "Derechos laborales",
-        "Empleo"
-      ],
+      "categories": ["Derechos laborales"],
       "weight": 100
     },
     {
@@ -32,25 +27,8 @@
       "label": "FUENTE OFICIAL",
       "kind": "rss",
       "url": "https://www.boe.es/rss/canal_leg.php?c=125&l=l",
-      "categories": [
-        "Derechos laborales",
-        "Salarios"
-      ],
+      "categories": ["Derechos laborales"],
       "weight": 100
-    },
-    {
-      "id": "seguridad-social",
-      "name": "Seguridad Social",
-      "type": "OFICIAL",
-      "label": "SEGURIDAD SOCIAL",
-      "kind": "rss",
-      "url": "https://www.seg-social.es/wps/portal/wss/internet/RSS",
-      "categories": [
-        "Seguridad Social"
-      ],
-      "weight": 100,
-      "enabled": false,
-      "note": "La página oficial ofrece varios canales RSS; se debe fijar el canal concreto antes de automatizarlo."
     },
     {
       "id": "boc-resoluciones",
@@ -59,12 +37,8 @@
       "label": "BOC",
       "kind": "rss",
       "url": "https://www.gobiernodecanarias.org/boc/feeds/capitulo/otras_resoluciones.rss",
-      "categories": [
-        "Canarias",
-        "Derechos laborales",
-        "Convenios"
-      ],
-      "weight": 100
+      "categories": ["Canarias"],
+      "weight": 90
     },
     {
       "id": "canarias-empleo",
@@ -73,54 +47,18 @@
       "label": "CANARIAS",
       "kind": "rss",
       "url": "https://www3.gobiernodecanarias.org/noticias/category/consejerias/turismo-y-empleo/feed",
-      "categories": [
-        "Canarias",
-        "Empleo",
-        "Hostelería"
-      ],
+      "categories": ["Canarias"],
       "weight": 95
     },
     {
-      "id": "cgpj-tsj-canarias",
-      "name": "Poder Judicial — TSJ Canarias",
-      "type": "JUSTICIA",
-      "label": "SENTENCIA",
+      "id": "ugt-canarias",
+      "name": "UGT Canarias — Noticias",
+      "type": "UGT",
+      "label": "UGT CANARIAS",
       "kind": "rss",
-      "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/RSS/TSJ-Canarias/Noticias-Judiciales-TSJ-Canarias/",
-      "categories": [
-        "Sentencias",
-        "Canarias"
-      ],
-      "weight": 100,
-      "enabled": false,
-      "note": "El CGPJ confirma que existe RSS específico para Noticias Judiciales del TSJ Canarias; el endpoint puede requerir ajuste si cambia la ruta."
-    },
-    {
-      "id": "cgpj",
-      "name": "Poder Judicial — Noticias Judiciales",
-      "type": "JUSTICIA",
-      "label": "SENTENCIA",
-      "kind": "rss",
-      "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/RSS/Noticias-Judiciales/",
-      "categories": [
-        "Sentencias"
-      ],
-      "weight": 100,
-      "enabled": false,
-      "note": "El CGPJ publica RSS de Noticias Judiciales y canales específicos por órgano."
-    },
-    {
-      "id": "cgpj-ts",
-      "name": "Poder Judicial — Tribunal Supremo",
-      "type": "JUSTICIA",
-      "label": "TRIBUNAL SUPREMO",
-      "kind": "rss",
-      "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/RSS/Tribunal-Supremo/Noticias-Judiciales/",
-      "categories": [
-        "Sentencias"
-      ],
-      "weight": 100,
-      "enabled": false
+      "url": "https://canarias.ugt.org/index.php/noticias?format=feed&type=rss",
+      "categories": ["UGT", "Canarias"],
+      "weight": 85
     },
     {
       "id": "ugt",
@@ -129,31 +67,54 @@
       "label": "UGT INFORMA",
       "kind": "html",
       "url": "https://www.ugt.es/noticias",
-      "categories": [
-        "UGT",
-        "Derechos laborales",
-        "Salarios",
-        "Empleo"
-      ],
+      "categories": ["UGT"],
       "weight": 80,
-      "enabled": false,
-      "note": "La web se mantiene como fuente editorial. Se activará con extractor HTML específico y pruebas de estructura."
+      "note": "Drupal. Se intenta descubrir el RSS desde el HTML; si el canal está vacío se parsea el listado."
     },
     {
-      "id": "ugt-canarias",
-      "name": "UGT Canarias — Noticias",
-      "type": "UGT",
-      "label": "UGT CANARIAS",
-      "kind": "html",
-      "url": "https://canarias.ugt.org/index.php/noticias",
-      "categories": [
-        "UGT",
-        "Canarias",
-        "Hostelería"
-      ],
-      "weight": 85,
+      "id": "seguridad-social",
+      "name": "Seguridad Social",
+      "type": "OFICIAL",
+      "label": "SEGURIDAD SOCIAL",
+      "kind": "rss",
+      "url": "https://www.seg-social.es/wps/portal/wss/internet/RSS",
+      "categories": ["Derechos laborales"],
+      "weight": 100,
       "enabled": false,
-      "note": "Pendiente de extractor HTML específico para evitar depender de una estructura web no garantizada."
+      "note": "Hay que fijar el canal RSS concreto."
+    },
+    {
+      "id": "cgpj-tsj-canarias",
+      "name": "Poder Judicial — TSJ Canarias",
+      "type": "JUSTICIA",
+      "label": "SENTENCIA",
+      "kind": "rss",
+      "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/RSS/TSJ-Canarias/Noticias-Judiciales-TSJ-Canarias/",
+      "categories": ["Sentencias", "Canarias"],
+      "weight": 100,
+      "enabled": false
+    },
+    {
+      "id": "cgpj",
+      "name": "Poder Judicial — Noticias Judiciales",
+      "type": "JUSTICIA",
+      "label": "SENTENCIA",
+      "kind": "rss",
+      "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/RSS/Noticias-Judiciales/",
+      "categories": ["Sentencias"],
+      "weight": 100,
+      "enabled": false
+    },
+    {
+      "id": "cgpj-ts",
+      "name": "Poder Judicial — Tribunal Supremo",
+      "type": "JUSTICIA",
+      "label": "TRIBUNAL SUPREMO",
+      "kind": "rss",
+      "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/RSS/Tribunal-Supremo/Noticias-Judiciales/",
+      "categories": ["Sentencias"],
+      "weight": 100,
+      "enabled": false
     }
   ]
 }

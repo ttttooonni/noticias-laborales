@@ -1,0 +1,53 @@
+{
+  "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18419": {
+    "title": "El BOE publica el acuerdo parcial de las tablas salariales del convenio estatal de publicidad para 2026",
+    "what_happened": "El BOE de 1 de septiembre de 2026 recoge la resolución de 30 de julio de 2026 que registra y publica el acuerdo parcial sobre las tablas salariales del convenio estatal de publicidad.",
+    "who_affected": "Personas trabajadoras incluidas en el ámbito del convenio estatal de empresas de publicidad.",
+    "impact": "Actualiza las tablas salariales previstas en el convenio. La cuantía concreta debe comprobarse en el texto oficial."
+  },
+  "https://www3.gobiernodecanarias.org/noticias/empleo-destina-585-millones-de-euros-a-la-formacion-de-personas-desempleadas-en-canarias": {
+    "title": "Canarias destina 58,5 millones de euros a formación para mejorar la empleabilidad",
+    "what_happened": "La Consejería de Turismo y Empleo ha abierto una convocatoria de 58,5 millones de euros para acciones formativas en modalidad presencial, virtual asíncrona o teleformación.",
+    "who_affected": "Principalmente personas trabajadoras desempleadas y entidades de formación que quieran desarrollar las acciones subvencionadas.",
+    "impact": "Puede ampliar las oportunidades de formación y recualificación de personas desempleadas en Canarias."
+  },
+  "https://www3.gobiernodecanarias.org/noticias/canarias-reduce-la-siniestralidad-laboral-en-el-primer-semestre-del-ano-tras-registrar-482-accidentes-menos": {
+    "what_happened": "Entre enero y junio de 2026 se notificaron 11.504 accidentes de trabajo con baja durante la jornada laboral: 11.447 leves, 53 graves o muy graves y 4 mortales.",
+    "who_affected": "Personas trabajadoras y empresas de todos los sectores de Canarias.",
+    "impact": "La evolución es positiva, pero la propia Administración señala que la prevención y la inspección deben seguir reforzándose porque persisten accidentes graves y mortales."
+  },
+  "https://canarias.ugt.org/index.php/noticias/ugt-alcanza-el-primer-preacuerdo-de-convenio-con-subidas-salariales-de-mas-del-45-para-el-personal-de-salvamento-y-socorrismo": {
+    "pin": true,
+    "what_happened": "El preacuerdo contempla una jornada de 1.690 horas anuales, equivalente a 37,5 horas semanales, una actualización salarial anual del 3% y mejoras en las tablas salariales.",
+    "who_affected": "Trabajadoras y trabajadores del sector de salvamento y socorrismo en espacios naturales de Canarias.",
+    "impact": "Si el acuerdo se formaliza como convenio, supondrá un marco laboral específico para el sector y mejoras en salario, jornada y condiciones de trabajo.",
+    "ugt_position": "UGT presenta el acuerdo como un avance histórico para profesionalizar el sector y mejorar sus condiciones laborales."
+  },
+  "https://canarias.ugt.org/index.php/noticias/ugt-canarias-firma-el-primer-convenio-regional-de-salvamento-y-socorrismo-con-subidas-salariales-de-hasta-el-62-76": {
+    "pin": true,
+    "who_affected": "Personal de salvamento y socorrismo en espacios naturales de Canarias.",
+    "impact": "El convenio regional dota por primera vez de un marco laboral propio al sector, con subidas salariales, reducción de jornada y reconocimiento de categorías.",
+    "ugt_position": "UGT Canarias presenta la firma como un logro histórico para un colectivo esencial en playas y zonas de baño."
+  },
+  "https://canarias.ugt.org/index.php/noticias/ugt-fica-logra-que-disa-gran-canaria-restituya-los-turnos-y-las-vacaciones-establecidas-en-el-convenio": {
+    "pin": true,
+    "what_happened": "Según UGT-FICA Canarias, la empresa había implantado una organización distinta de la recogida en el convenio sin acuerdo ni negociación con el comité de empresa.",
+    "who_affected": "Personal del equipo de descarga de Salinetas de Disa Gran Canaria.",
+    "impact": "La restitución de turnos y vacaciones devuelve las condiciones previstas en el convenio, según la organización sindical.",
+    "ugt_position": "UGT-FICA considera que la medida protege la negociación colectiva y la conciliación de la plantilla."
+  },
+  "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Notas-de-prensa/El-Tribunal-Supremo-fija-criterio-contra-el-abuso-en-la-contratacion-temporal-de-personal-laboral-en-las-Administraciones-publicas-tras-la-sentencia-de-TJUE": {
+    "pin": true,
+    "who_affected": "Personal laboral temporal de las Administraciones Públicas afectado por situaciones de abuso de temporalidad.",
+    "impact": "La doctrina puede influir en reclamaciones y litigios sobre las consecuencias del uso abusivo de contratos temporales en el sector público."
+  },
+  "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Notas-de-prensa/El-Tribunal-Supremo-reconoce-el-derecho-de-la-trabajadora-cuyo-caso-llego-al-TJUE-para-exigir-una-indemnizacion-por-danos-y-perjuicios-por-el-abuso-en-la-contratacion-temporal": {
+    "pin": true,
+    "who_affected": "Personas trabajadoras afectadas por abuso en la contratación temporal, especialmente en el ámbito de las Administraciones Públicas.",
+    "impact": "Refuerza la relevancia de analizar individualmente las consecuencias indemnizatorias de situaciones de abuso de temporalidad."
+  },
+  "https://www3.gobiernodecanarias.org/noticias/turismo-destina-150-000-euros-al-programa-de-becas-de-hecansa-para-el-curso-2026-2027": {
+    "who_affected": "Alumnado que curse estudios durante el curso 2026/2027 en los hoteles escuela de Santa Brígida y Santa Cruz de Tenerife.",
+    "impact": "Facilita el acceso a formación vinculada al sector turístico y ayuda a afrontar gastos de traslado entre islas."
+  }
+}
