@@ -1,0 +1,159 @@
+{
+  "sources": [
+    {
+      "id": "boe-convenios",
+      "name": "BOE — Convenios colectivos",
+      "type": "OFICIAL",
+      "label": "FUENTE OFICIAL",
+      "kind": "rss",
+      "url": "https://www.boe.es/rss/canal.php?c=ccolectivos",
+      "categories": [
+        "Convenios"
+      ],
+      "weight": 100
+    },
+    {
+      "id": "boe-trabajo",
+      "name": "BOE — Trabajo y empleo",
+      "type": "OFICIAL",
+      "label": "FUENTE OFICIAL",
+      "kind": "rss",
+      "url": "https://www.boe.es/rss/canal_leg.php?c=131&l=l",
+      "categories": [
+        "Derechos laborales",
+        "Empleo"
+      ],
+      "weight": 100
+    },
+    {
+      "id": "boe-seguridad-social",
+      "name": "BOE — Seguridad Social",
+      "type": "OFICIAL",
+      "label": "FUENTE OFICIAL",
+      "kind": "rss",
+      "url": "https://www.boe.es/rss/canal_leg.php?c=125&l=l",
+      "categories": [
+        "Derechos laborales",
+        "Salarios"
+      ],
+      "weight": 100
+    },
+    {
+      "id": "seguridad-social",
+      "name": "Seguridad Social",
+      "type": "OFICIAL",
+      "label": "SEGURIDAD SOCIAL",
+      "kind": "rss",
+      "url": "https://www.seg-social.es/wps/portal/wss/internet/RSS",
+      "categories": [
+        "Seguridad Social"
+      ],
+      "weight": 100,
+      "enabled": false,
+      "note": "La página oficial ofrece varios canales RSS; se debe fijar el canal concreto antes de automatizarlo."
+    },
+    {
+      "id": "boc-resoluciones",
+      "name": "BOC — Otras resoluciones",
+      "type": "OFICIAL",
+      "label": "BOC",
+      "kind": "rss",
+      "url": "https://www.gobiernodecanarias.org/boc/feeds/capitulo/otras_resoluciones.rss",
+      "categories": [
+        "Canarias",
+        "Derechos laborales",
+        "Convenios"
+      ],
+      "weight": 100
+    },
+    {
+      "id": "canarias-empleo",
+      "name": "Gobierno de Canarias — Turismo y Empleo",
+      "type": "OFICIAL",
+      "label": "CANARIAS",
+      "kind": "rss",
+      "url": "https://www3.gobiernodecanarias.org/noticias/category/consejerias/turismo-y-empleo/feed",
+      "categories": [
+        "Canarias",
+        "Empleo",
+        "Hostelería"
+      ],
+      "weight": 95
+    },
+    {
+      "id": "cgpj-tsj-canarias",
+      "name": "Poder Judicial — TSJ Canarias",
+      "type": "JUSTICIA",
+      "label": "SENTENCIA",
+      "kind": "rss",
+      "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/RSS/TSJ-Canarias/Noticias-Judiciales-TSJ-Canarias/",
+      "categories": [
+        "Sentencias",
+        "Canarias"
+      ],
+      "weight": 100,
+      "enabled": false,
+      "note": "El CGPJ confirma que existe RSS específico para Noticias Judiciales del TSJ Canarias; el endpoint puede requerir ajuste si cambia la ruta."
+    },
+    {
+      "id": "cgpj",
+      "name": "Poder Judicial — Noticias Judiciales",
+      "type": "JUSTICIA",
+      "label": "SENTENCIA",
+      "kind": "rss",
+      "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/RSS/Noticias-Judiciales/",
+      "categories": [
+        "Sentencias"
+      ],
+      "weight": 100,
+      "enabled": false,
+      "note": "El CGPJ publica RSS de Noticias Judiciales y canales específicos por órgano."
+    },
+    {
+      "id": "cgpj-ts",
+      "name": "Poder Judicial — Tribunal Supremo",
+      "type": "JUSTICIA",
+      "label": "TRIBUNAL SUPREMO",
+      "kind": "rss",
+      "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/RSS/Tribunal-Supremo/Noticias-Judiciales/",
+      "categories": [
+        "Sentencias"
+      ],
+      "weight": 100,
+      "enabled": false
+    },
+    {
+      "id": "ugt",
+      "name": "UGT — Actualidad",
+      "type": "UGT",
+      "label": "UGT INFORMA",
+      "kind": "html",
+      "url": "https://www.ugt.es/noticias",
+      "categories": [
+        "UGT",
+        "Derechos laborales",
+        "Salarios",
+        "Empleo"
+      ],
+      "weight": 80,
+      "enabled": false,
+      "note": "La web se mantiene como fuente editorial. Se activará con extractor HTML específico y pruebas de estructura."
+    },
+    {
+      "id": "ugt-canarias",
+      "name": "UGT Canarias — Noticias",
+      "type": "UGT",
+      "label": "UGT CANARIAS",
+      "kind": "html",
+      "url": "https://canarias.ugt.org/index.php/noticias",
+      "categories": [
+        "UGT",
+        "Canarias",
+        "Hostelería"
+      ],
+      "weight": 85,
+      "enabled": false,
+      "note": "Pendiente de extractor HTML específico para evitar depender de una estructura web no garantizada."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Noticias Laborales",
+  "short_name": "Noticias Laborales",
+  "description": "Actualidad laboral, sentencias, convenios, salarios y empleo.",
+  "lang": "es-ES",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f5f5",
+  "theme_color": "#e30613",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

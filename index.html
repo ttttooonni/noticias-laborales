@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#e30613">
+  <meta name="description" content="Noticias laborales verificadas: actualidad, sentencias, convenios, salarios y empleo.">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" href="./icons/icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css">
+  <title>Noticias Laborales</title>
+</head>
+<body>
+  <header class="topbar">
+    <button class="icon-btn" id="menuBtn" aria-label="Abrir menú">☰</button>
+    <div class="brand"><span class="brand-ugt">UGT</span><span>Noticias Laborales</span></div>
+    <button class="icon-btn" id="refreshBtn" aria-label="Actualizar noticias">↻</button>
+  </header>
+
+  <aside class="drawer" id="drawer" aria-hidden="true">
+    <div class="drawer-head">
+      <div class="brand-block"><strong>UGT</strong><span>NOTICIAS<br>LABORALES</span></div>
+      <button class="icon-btn" id="closeMenu" aria-label="Cerrar menú">×</button>
+    </div>
+    <nav>
+      <button data-filter="Todas">Inicio</button>
+      <button data-filter="Última hora">Última hora</button>
+      <button data-filter="Derechos laborales">Derechos laborales</button>
+      <button data-filter="Sentencias">Sentencias</button>
+      <button data-filter="Convenios">Convenios</button>
+      <button data-filter="Salarios">Salarios</button>
+      <button data-filter="Empleo">Empleo</button>
+      <button data-filter="Canarias">Canarias</button>
+      <button data-filter="Hostelería">Hostelería</button>
+      <button data-filter="UGT">UGT informa</button>
+    </nav>
+  </aside>
+  <div class="overlay" id="overlay"></div>
+
+  <main>
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">INFORMACIÓN LABORAL</p>
+        <h1>El trabajo,<br><em>explicado.</em></h1>
+        <p class="subtitle">Noticias, sentencias y cambios laborales con fuente identificada y contexto para las personas trabajadoras.</p>
+      </div>
+      <div class="live-pill"><span></span><small>ACTUALIZADO</small><strong id="lastUpdate">Cargando…</strong></div>
+    </section>
+
+    <section class="pulse" aria-label="Pulso laboral">
+      <div class="pulse-title"><span>●</span><strong>HOY EN EL TRABAJO</strong></div>
+      <div class="pulse-stats" id="pulseStats"></div>
+    </section>
+
+    <section class="ticker" aria-label="Última hora">
+      <strong>ÚLTIMA HORA</strong>
+      <div class="ticker-window"><div class="ticker-track" id="tickerTrack"></div></div>
+    </section>
+
+    <section class="topics" id="topics"></section>
+
+    <section class="section-head">
+      <div><p class="eyebrow">EN DIRECTO</p><h2 id="sectionTitle">Últimas noticias</h2></div>
+      <span class="count" id="count"></span>
+    </section>
+
+    <section class="news-feed" id="newsGrid">
+      <div class="loading">Cargando noticias…</div>
+    </section>
+
+    <div class="feed-end"><span>●</span><strong>Has llegado al final</strong><small>Vuelve cuando quieras. El feed se actualiza automáticamente.</small></div>
+  </main>
+
+  <dialog id="articleDialog">
+    <article id="articleContent"></article>
+  </dialog>
+
+  <footer>
+    <div><strong>Noticias Laborales</strong><br><span>Fuentes oficiales y sindicales verificables.</span></div>
+    <button id="installBtn" class="install" hidden>Instalar app</button>
+  </footer>
+
+<script src="./app.js"></script>
+</body>
+</html>
