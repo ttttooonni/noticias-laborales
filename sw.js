@@ -1,4 +1,4 @@
-const CACHE = 'noticias-laborales-18792b63c2ae';
+const CACHE = 'noticias-laborales-b089f68f2972';
 const CORE = ['./', './index.html', './styles.css', './app.js', './manifest.webmanifest', './data/noticias.json', './icons/icon.svg'];
 
 self.addEventListener('install', (event) => {
