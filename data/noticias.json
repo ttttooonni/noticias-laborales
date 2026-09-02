@@ -1,6 +1,25 @@
 {
-  "updated_at": "2026-09-02T11:23+00:00",
+  "updated_at": "2026-09-02T16:37+00:00",
   "items": [
+    {
+      "id": "311c85ff913d25ad",
+      "title": "Canarias reduce en 4.899 personas el paro de larga duración y marca en agosto su cifra más baja desde 2009",
+      "source": "Gobierno de Canarias — Turismo y Empleo",
+      "source_type": "OFICIAL",
+      "source_label": "CANARIAS",
+      "published": "2026-09-02T15:06:09+00:00",
+      "categories": [
+        "Canarias",
+        "Empleo"
+      ],
+      "type": "noticia",
+      "summary": "El desempleo registrado en las islas desciende en 5.756 personas en un año, aunque aumenta ligeramente con respecto a julio Todos los grupos de edad registran menos desempleo que hace un año Canarias cerró agosto con 144.459 personas desempleadas, 5.756 menos que en el mismo mes de 2025 (-3,83%), manteniendo así la tendencia descendente del […]",
+      "what_happened": "El desempleo registrado en las islas desciende en 5.756 personas en un año, aunque aumenta ligeramente con respecto a julio Todos los grupos de edad registran menos desempleo que hace un año Canarias cerró agosto con 144.459 personas desempleadas, 5.756 menos que en el mismo mes de 2025 (-3,83%), manteniendo así la tendencia descendente del […]",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www3.gobiernodecanarias.org/noticias/canarias-reduce-en-4-899-personas-el-paro-de-larga-duracion-y-marca-en-agosto-su-cifra-mas-baja-desde-2009"
+    },
     {
       "id": "boe-a-2026-18429",
       "title": "Real Decreto-ley 22/2026, de 1 de septiembre, por el que se aprueban medidas urgentes de carácter social y económico de apoyo a la ciudad de Ceuta.",
@@ -36,7 +55,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://boe.es/buscar/doc.php?id=DOUE-Z-2026-70053"
+      "url": "https://boe.es/buscar/doc.php?id=DOUE-Z-2026-70053",
+      "pin": false
     },
     {
       "id": "boe-a-2026-18419",
@@ -684,6 +704,11 @@
   ],
   "health": {
     "sources_checked": 7,
-    "failures": []
+    "failures": [
+      {
+        "source": "UGT Canarias — Noticias",
+        "error": "HTTP Error 415: Unsupported Media Type"
+      }
+    ]
   }
 }
