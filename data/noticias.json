@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T16:37+00:00",
+  "updated_at": "2026-09-02T19:49+00:00",
   "items": [
     {
       "id": "311c85ff913d25ad",
@@ -18,7 +18,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www3.gobiernodecanarias.org/noticias/canarias-reduce-en-4-899-personas-el-paro-de-larga-duracion-y-marca-en-agosto-su-cifra-mas-baja-desde-2009"
+      "url": "https://www3.gobiernodecanarias.org/noticias/canarias-reduce-en-4-899-personas-el-paro-de-larga-duracion-y-marca-en-agosto-su-cifra-mas-baja-desde-2009",
+      "pin": false
     },
     {
       "id": "boe-a-2026-18429",
@@ -704,11 +705,6 @@
   ],
   "health": {
     "sources_checked": 7,
-    "failures": [
-      {
-        "source": "UGT Canarias — Noticias",
-        "error": "HTTP Error 415: Unsupported Media Type"
-      }
-    ]
+    "failures": []
   }
 }
