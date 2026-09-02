@@ -1,6 +1,43 @@
 {
-  "updated_at": "2026-09-02T05:52+00:00",
+  "updated_at": "2026-09-02T11:23+00:00",
   "items": [
+    {
+      "id": "boe-a-2026-18429",
+      "title": "Real Decreto-ley 22/2026, de 1 de septiembre, por el que se aprueban medidas urgentes de carácter social y económico de apoyo a la ciudad de Ceuta.",
+      "source": "BOE — Seguridad Social",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-09-01T22:00:00+00:00",
+      "categories": [
+        "Derechos laborales"
+      ],
+      "type": "noticia",
+      "summary": "Jefatura del Estado - Publicado el 02/09/2026 - Referencia: BOE-A-2026-18429",
+      "what_happened": "Jefatura del Estado - Publicado el 02/09/2026 - Referencia: BOE-A-2026-18429",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18429",
+      "pin": false
+    },
+    {
+      "id": "23229d5e7e2f36f3",
+      "title": "Comisión Administrativa de Coordinación de los Sistemas de Seguridad Social - Costes Medios de las prestaciones en especie.",
+      "source": "BOE — Seguridad Social",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-09-01T22:00:00+00:00",
+      "categories": [
+        "Derechos laborales"
+      ],
+      "type": "noticia",
+      "summary": "Unión Europea - Publicado el 02/09/2026 - Referencia: DOUE-Z-2026-70053",
+      "what_happened": "Unión Europea - Publicado el 02/09/2026 - Referencia: DOUE-Z-2026-70053",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://boe.es/buscar/doc.php?id=DOUE-Z-2026-70053"
+    },
     {
       "id": "boe-a-2026-18419",
       "title": "El BOE publica el acuerdo parcial de las tablas salariales del convenio estatal de publicidad para 2026",
