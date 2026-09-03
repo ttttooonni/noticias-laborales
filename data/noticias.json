@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T05:51+00:00",
+  "updated_at": "2026-09-03T11:19+00:00",
   "items": [
     {
       "id": "boe-a-2026-18565",
@@ -17,7 +17,26 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18565"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18565",
+      "pin": false
+    },
+    {
+      "id": "92c35edb46ef401e",
+      "title": "Comunicación de la Comisión - Directrices sobre la aplicación del Reglamento (UE) 2024/3015, por el que se prohíben en el mercado de la Unión los productos realizados con trabajo forzoso.",
+      "source": "BOE — Trabajo y empleo",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-09-02T22:00:00+00:00",
+      "categories": [
+        "Derechos laborales"
+      ],
+      "type": "noticia",
+      "summary": "Unión Europea - Publicado el 03/09/2026 - Referencia: DOUE-Z-2026-70054",
+      "what_happened": "Unión Europea - Publicado el 03/09/2026 - Referencia: DOUE-Z-2026-70054",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://boe.es/buscar/doc.php?id=DOUE-Z-2026-70054"
     },
     {
       "id": "1a576ac6b4d63e56",
