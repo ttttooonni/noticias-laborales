@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T11:19+00:00",
+  "updated_at": "2026-09-03T15:03+00:00",
   "items": [
     {
       "id": "boe-a-2026-18565",
@@ -36,7 +36,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://boe.es/buscar/doc.php?id=DOUE-Z-2026-70054"
+      "url": "https://boe.es/buscar/doc.php?id=DOUE-Z-2026-70054",
+      "pin": false
     },
     {
       "id": "1a576ac6b4d63e56",
