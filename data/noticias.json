@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T09:42+00:00",
+  "updated_at": "2026-09-04T14:23+00:00",
   "items": [
     {
       "id": "boe-a-2026-18632",
@@ -17,7 +17,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18632"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18632",
+      "pin": false
     },
     {
       "id": "boe-a-2026-18631",
@@ -35,7 +36,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18631"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18631",
+      "pin": false
     },
     {
       "id": "boe-a-2026-18630",
@@ -54,7 +56,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18630"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18630",
+      "pin": false
     },
     {
       "id": "boe-a-2026-18629",
@@ -72,7 +75,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18629"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18629",
+      "pin": false
     },
     {
       "id": "boe-a-2026-18628",
@@ -90,7 +94,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18628"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18628",
+      "pin": false
     },
     {
       "id": "boe-a-2026-18627",
@@ -108,7 +113,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18627"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18627",
+      "pin": false
     },
     {
       "id": "83a53e29df72ca0b",
@@ -126,7 +132,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://boe.es/buscar/doc.php?id=DOUE-L-2026-81348"
+      "url": "https://boe.es/buscar/doc.php?id=DOUE-L-2026-81348",
+      "pin": false
     },
     {
       "id": "boe-a-2026-18565",
@@ -755,26 +762,6 @@
       "impact": "",
       "ugt_position": "",
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18028",
-      "pin": false
-    },
-    {
-      "id": "5075c16d87473acf",
-      "title": "Canarias reduce la siniestralidad laboral en el primer semestre del año tras registrar 482 accidentes menos",
-      "source": "Gobierno de Canarias — Turismo y Empleo",
-      "source_type": "OFICIAL",
-      "source_label": "CANARIAS",
-      "published": "2026-08-21T10:49:15+00:00",
-      "categories": [
-        "Canarias",
-        "Derechos laborales"
-      ],
-      "type": "noticia",
-      "summary": "Los casos mortales descienden en once respecto al mismo periodo del año anterior; mientras que los graves y muy graves caen en 41 incidentes, confirmando una tendencia positiva iniciada en 2024 La siniestralidad laboral baja en todos los sectores económicos, aunque lo hace con especial firmeza en la Construcción, donde el descenso es de un […]",
-      "what_happened": "Entre enero y junio de 2026 se notificaron 11.504 accidentes de trabajo con baja durante la jornada laboral: 11.447 leves, 53 graves o muy graves y 4 mortales.",
-      "who_affected": "Personas trabajadoras y empresas de todos los sectores de Canarias.",
-      "impact": "La evolución es positiva, pero la propia Administración señala que la prevención y la inspección deben seguir reforzándose porque persisten accidentes graves y mortales.",
-      "ugt_position": "",
-      "url": "https://www3.gobiernodecanarias.org/noticias/canarias-reduce-la-siniestralidad-laboral-en-el-primer-semestre-del-ano-tras-registrar-482-accidentes-menos",
       "pin": false
     },
     {
