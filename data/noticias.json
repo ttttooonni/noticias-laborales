@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T21:31+00:00",
+  "updated_at": "2026-09-05T00:08+00:00",
   "items": [
     {
       "id": "boe-a-2026-18632",
@@ -746,25 +746,6 @@
       "pin": false
     },
     {
-      "id": "boe-a-2026-18028",
-      "title": "Resolución de 12 de agosto de 2026, de la Dirección General de Trabajo, por la que se registra y publica el III Convenio colectivo de tripulantes de cabina de pasajeros de EasyJet Airline Spain, Sucursal en España.",
-      "source": "BOE — Convenios colectivos",
-      "source_type": "OFICIAL",
-      "source_label": "FUENTE OFICIAL",
-      "published": "2026-08-21T22:00:00+00:00",
-      "categories": [
-        "Convenios"
-      ],
-      "type": "noticia",
-      "summary": "Ministerio de Trabajo y Economía Social - Publicado el 22/08/2026 - Referencia: BOE-A-2026-18028",
-      "what_happened": "Ministerio de Trabajo y Economía Social - Publicado el 22/08/2026 - Referencia: BOE-A-2026-18028",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18028",
-      "pin": false
-    },
-    {
       "id": "ee08d1a96bf6f91d",
       "title": "UGT Canarias firma el primer convenio regional de salvamento y socorrismo con subidas salariales de hasta el 62,76%",
       "source": "UGT Canarias — Noticias",
@@ -878,6 +859,11 @@
   ],
   "health": {
     "sources_checked": 7,
-    "failures": []
+    "failures": [
+      {
+        "source": "UGT Canarias — Noticias",
+        "error": "HTTP Error 415: Unsupported Media Type"
+      }
+    ]
   }
 }
