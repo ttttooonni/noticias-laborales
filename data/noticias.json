@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T20:36+00:00",
+  "updated_at": "2026-09-07T23:32+00:00",
   "items": [
     {
       "id": "da541f70e725230c",
@@ -687,64 +687,6 @@
       "pin": false
     },
     {
-      "id": "boe-a-2026-18142",
-      "title": "Resolución de 12 de agosto de 2026, de la Dirección General de Trabajo, por la que se registra y publica el XIV Convenio colectivo de Aceites del Sur-Coosur, SA.",
-      "source": "BOE — Convenios colectivos",
-      "source_type": "OFICIAL",
-      "source_label": "FUENTE OFICIAL",
-      "published": "2026-08-24T22:00:00+00:00",
-      "categories": [
-        "Convenios"
-      ],
-      "type": "noticia",
-      "summary": "Ministerio de Trabajo y Economía Social - Publicado el 25/08/2026 - Referencia: BOE-A-2026-18142",
-      "what_happened": "Ministerio de Trabajo y Economía Social - Publicado el 25/08/2026 - Referencia: BOE-A-2026-18142",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18142",
-      "pin": false
-    },
-    {
-      "id": "boe-a-2026-18141",
-      "title": "Resolución de 30 de julio de 2026, de la Dirección General de Trabajo, por la que se registra y publica el Convenio colectivo de Imerys Diatomita Alicante, SA.",
-      "source": "BOE — Convenios colectivos",
-      "source_type": "OFICIAL",
-      "source_label": "FUENTE OFICIAL",
-      "published": "2026-08-24T22:00:00+00:00",
-      "categories": [
-        "Convenios"
-      ],
-      "type": "noticia",
-      "summary": "Ministerio de Trabajo y Economía Social - Publicado el 25/08/2026 - Referencia: BOE-A-2026-18141",
-      "what_happened": "Ministerio de Trabajo y Economía Social - Publicado el 25/08/2026 - Referencia: BOE-A-2026-18141",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18141",
-      "pin": false
-    },
-    {
-      "id": "bb64c2e9bcd085e9",
-      "title": "Secretaría General Técnica.- Resolución de 7 de agosto de 2026, por la que se ordena la publicación del Convenio Específico al Convenio Marco de Cooperación para el desarrollo de actuaciones conjuntas en materia de juventud, suscrito el 17 de diciembre de 2024, entre la Consejería de Bienestar Social, Igualdad, Juventud, Infancia y Familias, la Universidad de La Laguna y la Fundación General de la Universidad de La Laguna para la realización del proyecto “Brújula: herramientas para una planificación de políticas y actuaciones de prevención de la violencia contra las mujeres en los espacios universitarios”.",
-      "source": "BOC — Otras resoluciones",
-      "source_type": "OFICIAL",
-      "source_label": "BOC",
-      "published": "2026-08-24T22:00:00+00:00",
-      "categories": [
-        "Canarias",
-        "Derechos laborales"
-      ],
-      "type": "noticia",
-      "summary": "III. Otras Resoluciones - Consejería de Bienestar Social, Igualdad, Juventud, Infancia y Familias 3062 Secretaría General Técnica.- Resolución de 7 de agosto de 2026, por la que se ordena la publicación del Convenio Específico al Convenio Marco de Cooperación para el desarrollo de actuaciones conjuntas en materia de juventud, suscrito el 17 de diciembre de 2",
-      "what_happened": "III. Otras Resoluciones - Consejería de Bienestar Social, Igualdad, Juventud, Infancia y Familias 3062 Secretaría General Técnica.- Resolución de 7 de agosto de 2026, por la que se ordena la publicación del Convenio Específico al Convenio Marco de Cooperación para el desarrollo de actuaciones conjuntas en materia de juventud, suscrito el 17 de diciembre de 2024, entre la Consejería de Bienestar Social, Igualdad, Juventud, Infancia y Familias, la Universidad de La Laguna y la Fundación General de la Universidad de La Laguna para la realización del proyecto “Brújula: herramientas para una planificación de políticas y actuaciones de prevención de la violencia contra las mujeres en los espacios",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/170/004.html",
-      "pin": false
-    },
-    {
       "id": "ee08d1a96bf6f91d",
       "title": "UGT Canarias firma el primer convenio regional de salvamento y socorrismo con subidas salariales de hasta el 62,76%",
       "source": "UGT Canarias — Noticias",
@@ -858,11 +800,6 @@
   ],
   "health": {
     "sources_checked": 7,
-    "failures": [
-      {
-        "source": "UGT Canarias — Noticias",
-        "error": "HTTP Error 415: Unsupported Media Type"
-      }
-    ]
+    "failures": []
   }
 }
