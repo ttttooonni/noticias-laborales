@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T10:22+00:00",
+  "updated_at": "2026-09-07T16:29+00:00",
   "items": [
     {
       "id": "da541f70e725230c",
@@ -17,7 +17,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://boe.es/buscar/doc.php?id=DOUE-L-2026-81356"
+      "url": "https://boe.es/buscar/doc.php?id=DOUE-L-2026-81356",
+      "pin": false
     },
     {
       "id": "boe-a-2026-18632",
