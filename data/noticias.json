@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T09:44+00:00",
+  "updated_at": "2026-09-08T14:35+00:00",
   "items": [
     {
       "id": "2d9d7c4e11950133",
@@ -17,7 +17,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://boe.es/buscar/doc.php?id=DOUE-L-2026-81363"
+      "url": "https://boe.es/buscar/doc.php?id=DOUE-L-2026-81363",
+      "pin": false
     },
     {
       "id": "da541f70e725230c",
@@ -682,26 +683,6 @@
       "impact": "",
       "ugt_position": "",
       "url": "https://gobiernodecanarias.org/boc/2026/171/003.html",
-      "pin": false
-    },
-    {
-      "id": "1d1644dea68f04b2",
-      "title": "Empleo certifica a veinte personas formadas como instructoras de perros de asistencia",
-      "source": "Gobierno de Canarias — Turismo y Empleo",
-      "source_type": "OFICIAL",
-      "source_label": "CANARIAS",
-      "published": "2026-08-25T12:56:51+00:00",
-      "categories": [
-        "Canarias",
-        "Empleo"
-      ],
-      "type": "noticia",
-      "summary": "A través del Servicio Canario de Empleo y la Asociación Canaria Terapican, y en colaboración con el Ayuntamiento de Telde, el alumnado ha culminado este programa de formación novedoso en España que ha permitido entrenar a diez perros de asistencia Los estudiantes se han formado en las cinco especialidades recogidas en la Ley 3/2017, de […]",
-      "what_happened": "A través del Servicio Canario de Empleo y la Asociación Canaria Terapican, y en colaboración con el Ayuntamiento de Telde, el alumnado ha culminado este programa de formación novedoso en España que ha permitido entrenar a diez perros de asistencia Los estudiantes se han formado en las cinco especialidades recogidas en la Ley 3/2017, de […]",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://www3.gobiernodecanarias.org/noticias/empleo-certifica-a-veinte-personas-formadas-como-instructoras-de-perros-de-asistencia",
       "pin": false
     },
     {
