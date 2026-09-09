@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T18:39+00:00",
+  "updated_at": "2026-09-09T21:43+00:00",
   "items": [
     {
       "id": "boe-a-2026-18828",
@@ -759,6 +759,11 @@
   ],
   "health": {
     "sources_checked": 7,
-    "failures": []
+    "failures": [
+      {
+        "source": "UGT Canarias — Noticias",
+        "error": "HTTP Error 415: Unsupported Media Type"
+      }
+    ]
   }
 }
