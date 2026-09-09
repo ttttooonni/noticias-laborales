@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T09:49+00:00",
+  "updated_at": "2026-09-09T14:38+00:00",
   "items": [
     {
       "id": "boe-a-2026-18828",
@@ -18,7 +18,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18828"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18828",
+      "pin": false
     },
     {
       "id": "2d9d7c4e11950133",
@@ -642,27 +643,6 @@
       "impact": "",
       "ugt_position": "",
       "url": "https://boe.es/diario_boe/txt.php?id=BOE-B-2026-27919",
-      "pin": false
-    },
-    {
-      "id": "f6813d29ce6d633c",
-      "title": "Turismo destina 150.000 euros al programa de becas de Hecansa para el curso 2026-2027",
-      "source": "Gobierno de Canarias — Turismo y Empleo",
-      "source_type": "OFICIAL",
-      "source_label": "CANARIAS",
-      "published": "2026-08-26T10:05:50+00:00",
-      "categories": [
-        "Canarias",
-        "Hostelería",
-        "Empleo"
-      ],
-      "type": "noticia",
-      "summary": "Las ayudas contemplan hasta el 100 % del importe de la matrícula, además de apoyo para residencia y manutención El plazo de solicitud permanecerá abierto hasta el 25 de septiembre para el alumnado que cumpla los requisitos establecidos La Consejería de Turismo y Empleo del Gobierno de Canarias, a través de la empresa pública Hoteles […]",
-      "what_happened": "La Consejería de Turismo y Empleo, a través de Hecansa, ha habilitado un programa de becas para el curso 2026/2027. El plazo permanece abierto hasta el 25 de septiembre.",
-      "who_affected": "Alumnado que curse estudios durante el curso 2026/2027 en los hoteles escuela de Santa Brígida y Santa Cruz de Tenerife.",
-      "impact": "Facilita el acceso a formación vinculada al sector turístico y ayuda a afrontar gastos de traslado entre islas.",
-      "ugt_position": "",
-      "url": "https://www3.gobiernodecanarias.org/noticias/turismo-destina-150-000-euros-al-programa-de-becas-de-hecansa-para-el-curso-2026-2027",
       "pin": false
     },
     {
