@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T09:47+00:00",
+  "updated_at": "2026-09-10T14:28+00:00",
   "items": [
     {
       "id": "2c44359c9115fc2b",
@@ -18,7 +18,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://canarias.ugt.org/index.php/noticias/ugt-canarias-rechaza-la-instrumentalizacion-politica-de-la-solidaridad-con-ceuta-y-condena-los-discursos-racistas-y-la-violencia"
+      "url": "https://canarias.ugt.org/index.php/noticias/ugt-canarias-rechaza-la-instrumentalizacion-politica-de-la-solidaridad-con-ceuta-y-condena-los-discursos-racistas-y-la-violencia",
+      "pin": false
     },
     {
       "id": "bd2037de2b04c281",
@@ -37,7 +38,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://canarias.ugt.org/index.php/noticias/fesmc-ugt-canarias-pone-sus-servicios-juridicos-a-disposicion-de-los-periodistas-agredidos-durante-las-manifestaciones-de-ayer"
+      "url": "https://canarias.ugt.org/index.php/noticias/fesmc-ugt-canarias-pone-sus-servicios-juridicos-a-disposicion-de-los-periodistas-agredidos-durante-las-manifestaciones-de-ayer",
+      "pin": false
     },
     {
       "id": "23c9e73dc84bc5d9",
@@ -56,7 +58,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://canarias.ugt.org/index.php/noticias/ugt-canarias-rechaza-la-ampliacion-de-las-aperturas-de-las-grandes-zonas-comerciales-y-advierte-que-la-medida-destruira-trabajo-y-comercio-local"
+      "url": "https://canarias.ugt.org/index.php/noticias/ugt-canarias-rechaza-la-ampliacion-de-las-aperturas-de-las-grandes-zonas-comerciales-y-advierte-que-la-medida-destruira-trabajo-y-comercio-local",
+      "pin": false
     },
     {
       "id": "boe-a-2026-18975",
@@ -74,7 +77,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18975"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18975",
+      "pin": false
     },
     {
       "id": "boe-a-2026-18908",
@@ -93,7 +97,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18908"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18908",
+      "pin": false
     },
     {
       "id": "boe-a-2026-18828",
