@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T21:43+00:00",
+  "updated_at": "2026-09-10T00:17+00:00",
   "items": [
     {
       "id": "boe-a-2026-18828",
@@ -586,66 +586,6 @@
       "pin": false
     },
     {
-      "id": "boe-a-2026-18255",
-      "title": "Resolución de 12 de agosto de 2026, de la Dirección General de Trabajo, por la que se registra y publica la Sentencia de la Sala de lo Social de la Audiencia Nacional relativa al III Convenio colectivo de la Sociedad Estatal Correos y Telégrafos, SA.",
-      "source": "BOE — Convenios colectivos",
-      "source_type": "OFICIAL",
-      "source_label": "FUENTE OFICIAL",
-      "published": "2026-08-26T22:00:00+00:00",
-      "categories": [
-        "Convenios",
-        "Sentencias"
-      ],
-      "type": "sentencia",
-      "summary": "Ministerio de Trabajo y Economía Social - Publicado el 27/08/2026 - Referencia: BOE-A-2026-18255",
-      "what_happened": "Ministerio de Trabajo y Economía Social - Publicado el 27/08/2026 - Referencia: BOE-A-2026-18255",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18255",
-      "pin": false
-    },
-    {
-      "id": "db26393b92c749a5",
-      "title": "Extracto de la Resolución de 26 de agosto de 2026, de la Dirección Provincial del SEPE en Cádiz, por la que se anuncia convocatoria pública extraordinaria de subvenciones, en régimen de concesión directa, para la contratación de personas desempleadas, preferentemente eventuales incluidas en el Sistema Especial para Trabajadores por Cuenta Ajena Agrarios de la Seguridad Social, para la ejecución de proyectos de interés general y social y de garantía de rentas, con cargo a los fondos del PFEA 2026",
-      "source": "BOE — Trabajo y empleo",
-      "source_type": "OFICIAL",
-      "source_label": "FUENTE OFICIAL",
-      "published": "2026-08-26T22:00:00+00:00",
-      "categories": [
-        "Derechos laborales",
-        "Empleo"
-      ],
-      "type": "noticia",
-      "summary": "Ministerio de Trabajo y Economía Social - Publicado el 27/08/2026 - Referencia: BOE-B-2026-27920",
-      "what_happened": "Ministerio de Trabajo y Economía Social - Publicado el 27/08/2026 - Referencia: BOE-B-2026-27920",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://boe.es/diario_boe/txt.php?id=BOE-B-2026-27920",
-      "pin": false
-    },
-    {
-      "id": "25b919454d493eec",
-      "title": "Extracto de la Resolución, de 17 de agosto de 2026, de la Secretaría de Estado de Educación, por la que se convocan ayudas destinadas a fomentar la negociación colectiva en el ámbito de la enseñanza privada sostenida total o parcialmente con fondos públicos, correspondientes al año 2026.",
-      "source": "BOE — Trabajo y empleo",
-      "source_type": "OFICIAL",
-      "source_label": "FUENTE OFICIAL",
-      "published": "2026-08-26T22:00:00+00:00",
-      "categories": [
-        "Derechos laborales",
-        "Convenios"
-      ],
-      "type": "noticia",
-      "summary": "Ministerio de Educación, Formación Profesional y Deportes - Publicado el 27/08/2026 - Referencia: BOE-B-2026-27919",
-      "what_happened": "Ministerio de Educación, Formación Profesional y Deportes - Publicado el 27/08/2026 - Referencia: BOE-B-2026-27919",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://boe.es/diario_boe/txt.php?id=BOE-B-2026-27919",
-      "pin": false
-    },
-    {
       "id": "ee08d1a96bf6f91d",
       "title": "UGT Canarias firma el primer convenio regional de salvamento y socorrismo con subidas salariales de hasta el 62,76%",
       "source": "UGT Canarias — Noticias",
@@ -759,11 +699,6 @@
   ],
   "health": {
     "sources_checked": 7,
-    "failures": [
-      {
-        "source": "UGT Canarias — Noticias",
-        "error": "HTTP Error 415: Unsupported Media Type"
-      }
-    ]
+    "failures": []
   }
 }
