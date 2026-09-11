@@ -1,6 +1,43 @@
 {
-  "updated_at": "2026-09-11T04:45+00:00",
+  "updated_at": "2026-09-11T09:47+00:00",
   "items": [
+    {
+      "id": "boe-a-2026-19041",
+      "title": "Resolución de 28 de agosto de 2026, de la Dirección General de Trabajo, por la que se registra y publica el III Convenio colectivo de pilotos de easyJet Airline Company Limited, sucursal en España.",
+      "source": "BOE — Convenios colectivos",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-09-10T22:00:00+00:00",
+      "categories": [
+        "Convenios"
+      ],
+      "type": "noticia",
+      "summary": "Ministerio de Trabajo y Economía Social - Publicado el 11/09/2026 - Referencia: BOE-A-2026-19041",
+      "what_happened": "Ministerio de Trabajo y Economía Social - Publicado el 11/09/2026 - Referencia: BOE-A-2026-19041",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19041"
+    },
+    {
+      "id": "boe-a-2026-18994",
+      "title": "Resolución de 9 de septiembre de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 20/2026, de 29 de julio, por el que se establecen medidas urgentes de protección laboral y social frente a los incendios forestales.",
+      "source": "BOE — Seguridad Social",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-09-10T22:00:00+00:00",
+      "categories": [
+        "Derechos laborales"
+      ],
+      "type": "noticia",
+      "summary": "Cortes Generales - Publicado el 11/09/2026 - Referencia: BOE-A-2026-18994",
+      "what_happened": "Cortes Generales - Publicado el 11/09/2026 - Referencia: BOE-A-2026-18994",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18994",
+      "pin": false
+    },
     {
       "id": "2c44359c9115fc2b",
       "title": "UGT Canarias rechaza la instrumentalización política de la solidaridad con Ceuta y condena los discursos racistas y la violencia",
