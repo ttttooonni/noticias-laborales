@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T09:47+00:00",
+  "updated_at": "2026-09-11T14:28+00:00",
   "items": [
     {
       "id": "boe-a-2026-19041",
@@ -17,7 +17,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19041"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19041",
+      "pin": false
     },
     {
       "id": "boe-a-2026-18994",
@@ -678,26 +679,6 @@
       "impact": "",
       "ugt_position": "",
       "url": "https://gobiernodecanarias.org/boc/2026/175/013.html",
-      "pin": false
-    },
-    {
-      "id": "b6ebfc268cdb671e",
-      "title": "Canarias destina 58,5 millones de euros a formación para mejorar la empleabilidad",
-      "source": "Gobierno de Canarias — Turismo y Empleo",
-      "source_type": "OFICIAL",
-      "source_label": "CANARIAS",
-      "published": "2026-08-28T11:28:15+00:00",
-      "categories": [
-        "Canarias",
-        "Empleo"
-      ],
-      "type": "noticia",
-      "summary": "La convocatoria formativa de 2026 financiará acciones orientadas a mejorar la empleabilidad a la vez que responde a las necesidades de cualificación del tejido productivo de las islas Las entidades de formación interesadas disponen hasta el 16 de septiembre para presentar sus solicitudes para desarrollar propuestas tanto en la modalidad presencial como en la",
-      "what_happened": "La Consejería de Turismo y Empleo ha abierto una convocatoria de 58,5 millones de euros para acciones formativas en modalidad presencial, virtual asíncrona o teleformación.",
-      "who_affected": "Principalmente personas trabajadoras desempleadas y entidades de formación que quieran desarrollar las acciones subvencionadas.",
-      "impact": "Puede ampliar las oportunidades de formación y recualificación de personas desempleadas en Canarias.",
-      "ugt_position": "",
-      "url": "https://www3.gobiernodecanarias.org/noticias/empleo-destina-585-millones-de-euros-a-la-formacion-de-personas-desempleadas-en-canarias",
       "pin": false
     },
     {
