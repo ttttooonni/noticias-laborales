@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T01:03+00:00",
+  "updated_at": "2026-09-13T06:13+00:00",
   "items": [
     {
       "id": "0cca405ca5d9f054",
@@ -816,6 +816,11 @@
   ],
   "health": {
     "sources_checked": 7,
-    "failures": []
+    "failures": [
+      {
+        "source": "UGT Canarias — Noticias",
+        "error": "HTTP Error 415: Unsupported Media Type"
+      }
+    ]
   }
 }
