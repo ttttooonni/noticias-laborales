@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T06:21+00:00",
+  "updated_at": "2026-09-14T14:07+00:00",
   "items": [
     {
       "id": "boe-a-2026-19181",
@@ -17,7 +17,26 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19181"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19181",
+      "pin": false
+    },
+    {
+      "id": "17612a4edc254366",
+      "title": "Reglamento de Ejecución (UE) 2026/2031 de la Comisión, de 11 de septiembre de 2026, por el que se modifica el Reglamento de Ejecución (UE) 2017/373 en lo que respecta a los requisitos para las actividades contratadas por los proveedores de servicios.",
+      "source": "BOE — Trabajo y empleo",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-09-13T22:00:00+00:00",
+      "categories": [
+        "Derechos laborales"
+      ],
+      "type": "noticia",
+      "summary": "Unión Europea - Publicado el 14/09/2026 - Referencia: DOUE-L-2026-81389",
+      "what_happened": "Unión Europea - Publicado el 14/09/2026 - Referencia: DOUE-L-2026-81389",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://boe.es/buscar/doc.php?id=DOUE-L-2026-81389"
     },
     {
       "id": "0cca405ca5d9f054",
