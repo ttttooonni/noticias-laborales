@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T00:24+00:00",
+  "updated_at": "2026-09-16T06:05+00:00",
   "items": [
     {
       "id": "6b78e82ed5e1cfb7",
@@ -17,7 +17,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/186/005.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/186/005.html",
+      "pin": false
     },
     {
       "id": "boe-a-2026-19247",
