@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-09-15T21:24+00:00",
+  "updated_at": "2026-09-16T00:24+00:00",
   "items": [
+    {
+      "id": "6b78e82ed5e1cfb7",
+      "title": "Dirección General de la Función Pública.- Resolución de 31 de julio de 2026, por la que se establecen los criterios de valoración de la carrera profesional del personal estatutario, a efectos de la provisión por concurso de puestos de trabajo de Administración General y la valoración del mérito profesional consistente en la participación en órganos colegiados de selección o de provisión.",
+      "source": "BOC — Otras resoluciones",
+      "source_type": "OFICIAL",
+      "source_label": "BOC",
+      "published": "2026-09-15T22:00:00+00:00",
+      "categories": [
+        "Canarias"
+      ],
+      "type": "noticia",
+      "summary": "III. Otras Resoluciones - Consejería de Presidencia, Administraciones Públicas, Justicia y Seguridad 3265 Dirección General de la Función Pública.- Resolución de 31 de julio de 2026, por la que se establecen los criterios de valoración de la carrera profesional del personal estatutario, a efectos de la provisión por concurso de puestos de trabajo de Administ",
+      "what_happened": "III. Otras Resoluciones - Consejería de Presidencia, Administraciones Públicas, Justicia y Seguridad 3265 Dirección General de la Función Pública.- Resolución de 31 de julio de 2026, por la que se establecen los criterios de valoración de la carrera profesional del personal estatutario, a efectos de la provisión por concurso de puestos de trabajo de Administración General y la valoración del mérito profesional consistente en la participación en órganos colegiados de selección o de provisión. CVE: BOC-A-2026-186-3265 Firma electrónica: Descargar",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://gobiernodecanarias.org/boc/2026/186/005.html"
+    },
     {
       "id": "boe-a-2026-19247",
       "title": "Resolución de 7 de septiembre de 2026, de la Dirección General de Trabajo, por la que se registra y publica el Convenio colectivo de establecimientos financieros de crédito.",
@@ -524,44 +542,6 @@
       "impact": "",
       "ugt_position": "",
       "url": "https://www3.gobiernodecanarias.org/noticias/canarias-reduce-en-4-899-personas-el-paro-de-larga-duracion-y-marca-en-agosto-su-cifra-mas-baja-desde-2009",
-      "pin": false
-    },
-    {
-      "id": "boe-a-2026-18429",
-      "title": "Real Decreto-ley 22/2026, de 1 de septiembre, por el que se aprueban medidas urgentes de carácter social y económico de apoyo a la ciudad de Ceuta.",
-      "source": "BOE — Seguridad Social",
-      "source_type": "OFICIAL",
-      "source_label": "FUENTE OFICIAL",
-      "published": "2026-09-01T22:00:00+00:00",
-      "categories": [
-        "Derechos laborales"
-      ],
-      "type": "noticia",
-      "summary": "Jefatura del Estado - Publicado el 02/09/2026 - Referencia: BOE-A-2026-18429",
-      "what_happened": "Jefatura del Estado - Publicado el 02/09/2026 - Referencia: BOE-A-2026-18429",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-18429",
-      "pin": false
-    },
-    {
-      "id": "23229d5e7e2f36f3",
-      "title": "Comisión Administrativa de Coordinación de los Sistemas de Seguridad Social - Costes Medios de las prestaciones en especie.",
-      "source": "BOE — Seguridad Social",
-      "source_type": "OFICIAL",
-      "source_label": "FUENTE OFICIAL",
-      "published": "2026-09-01T22:00:00+00:00",
-      "categories": [
-        "Derechos laborales"
-      ],
-      "type": "noticia",
-      "summary": "Unión Europea - Publicado el 02/09/2026 - Referencia: DOUE-Z-2026-70053",
-      "what_happened": "Unión Europea - Publicado el 02/09/2026 - Referencia: DOUE-Z-2026-70053",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://boe.es/buscar/doc.php?id=DOUE-Z-2026-70053",
       "pin": false
     },
     {
