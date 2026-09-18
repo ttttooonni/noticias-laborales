@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T00:23+00:00",
+  "updated_at": "2026-09-18T05:57+00:00",
   "items": [
     {
       "id": "a9c988216d277e63",
@@ -18,7 +18,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/188/005.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/188/005.html",
+      "pin": false
     },
     {
       "id": "14596abd699a1ca1",
@@ -39,7 +40,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/188/006.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/188/006.html",
+      "pin": false
     },
     {
       "id": "d33c0312665c19ed",
