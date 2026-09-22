@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T07:44+00:00",
+  "updated_at": "2026-09-22T13:26+00:00",
   "items": [
     {
       "id": "boe-a-2026-19684",
@@ -17,7 +17,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19684"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19684",
+      "pin": false
     },
     {
       "id": "boe-a-2026-19632",
@@ -36,7 +37,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19632"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19632",
+      "pin": false
     },
     {
       "id": "boe-a-2026-19628",
@@ -54,7 +56,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19628"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19628",
+      "pin": false
     },
     {
       "id": "boe-a-2026-19606",
