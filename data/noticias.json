@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T06:01+00:00",
+  "updated_at": "2026-09-23T11:42+00:00",
   "items": [
     {
       "id": "boe-a-2026-19751",
@@ -17,7 +17,27 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19751"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19751",
+      "pin": false
+    },
+    {
+      "id": "d4fd42b0bc2ada02",
+      "title": "Extracto de la Resolución de 21 de septiembre de 2026, de la Dirección General del Servicio Público de Empleo Estatal, por la que se aprueba la convocatoria para la concesión de subvenciones públicas, destinadas a financiar en el ejercicio 2026, la contratación de personas jóvenes desempleadas menores de treinta años en el marco de «Proyectos de primera experiencia en administraciones públicas»",
+      "source": "BOE — Trabajo y empleo",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-09-22T22:00:00+00:00",
+      "categories": [
+        "Derechos laborales",
+        "Empleo"
+      ],
+      "type": "noticia",
+      "summary": "Ministerio de Trabajo y Economía Social - Publicado el 23/09/2026 - Referencia: BOE-B-2026-30719",
+      "what_happened": "Ministerio de Trabajo y Economía Social - Publicado el 23/09/2026 - Referencia: BOE-B-2026-30719",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://boe.es/diario_boe/txt.php?id=BOE-B-2026-30719"
     },
     {
       "id": "c9d2bd533240a9ec",
