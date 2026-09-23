@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T11:42+00:00",
+  "updated_at": "2026-09-23T17:06+00:00",
   "items": [
     {
       "id": "boe-a-2026-19751",
@@ -37,7 +37,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://boe.es/diario_boe/txt.php?id=BOE-B-2026-30719"
+      "url": "https://boe.es/diario_boe/txt.php?id=BOE-B-2026-30719",
+      "pin": false
     },
     {
       "id": "c9d2bd533240a9ec",
