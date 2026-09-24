@@ -1,6 +1,43 @@
 {
-  "updated_at": "2026-09-24T04:56+00:00",
+  "updated_at": "2026-09-24T10:04+00:00",
   "items": [
+    {
+      "id": "d391aab3bf772a37",
+      "title": "Modificación de las Indemnizaciones por residencia e insularidad en la Comunidad Autónoma de Canarias",
+      "source": "UGT Canarias — Noticias",
+      "source_type": "UGT",
+      "source_label": "UGT CANARIAS",
+      "published": "2026-09-24T04:45:22+00:00",
+      "categories": [
+        "UGT",
+        "Canarias"
+      ],
+      "type": "noticia",
+      "summary": "El pasado febrero se publicó el Acuerdo Marco por la mejora del empleo público y el servicio a la ciudadanía, firmado en noviembre de 2025, por el que se impulsaba la adecuación de las cantidades de la Indemnización por residencia e insularidad a la realidad actual tras décadas de no actualizarse.",
+      "what_happened": "El pasado febrero se publicó el Acuerdo Marco por la mejora del empleo público y el servicio a la ciudadanía, firmado en noviembre de 2025, por el que se impulsaba la adecuación de las cantidades de la Indemnización por residencia e insularidad a la realidad actual tras décadas de no actualizarse.",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://canarias.ugt.org/index.php/noticias/modificacion-de-las-indemnizaciones-por-residencia-e-insularidad-en-la-comunidad-autonoma-de-canarias"
+    },
+    {
+      "id": "09e4e8954cadec78",
+      "title": "Reglamento de Ejecución (UE) 2026/2111 de la Comisión, de 23 de septiembre de 2026, por el que se corrige el Reglamento de Ejecución (UE) 2025/2143 en lo que respecta a la fecha de aplicación de determinadas disposiciones.",
+      "source": "BOE — Trabajo y empleo",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-09-23T22:00:00+00:00",
+      "categories": [
+        "Derechos laborales"
+      ],
+      "type": "noticia",
+      "summary": "Unión Europea - Publicado el 24/09/2026 - Referencia: DOUE-L-2026-81462",
+      "what_happened": "Unión Europea - Publicado el 24/09/2026 - Referencia: DOUE-L-2026-81462",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://boe.es/buscar/doc.php?id=DOUE-L-2026-81462"
+    },
     {
       "id": "boe-a-2026-19751",
       "title": "Resolución de 10 de septiembre de 2026, de la Dirección General de Trabajo, por la que se registra y publica el Convenio colectivo estatal de artes gráficas, manipulados de papel, manipulados de cartón, editoriales e industrias auxiliares.",
