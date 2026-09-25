@@ -1,6 +1,79 @@
 {
-  "updated_at": "2026-09-25T01:33+00:00",
+  "updated_at": "2026-09-25T07:53+00:00",
   "items": [
+    {
+      "id": "boe-a-2026-19848",
+      "title": "Real Decreto 738/2026, de 23 de septiembre, por el que se crea como Centro de Referencia Nacional de Construcciones Aeronáuticas el Centro de Formación de Illescas, en el área profesional de Construcciones Aeronáuticas, de la familia profesional de Fabricación Mecánica, en el ámbito de la formación profesional.",
+      "source": "BOE — Trabajo y empleo",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-09-24T22:00:00+00:00",
+      "categories": [
+        "Derechos laborales"
+      ],
+      "type": "noticia",
+      "summary": "Ministerio de Educación, Formación Profesional y Deportes - Publicado el 25/09/2026 - Referencia: BOE-A-2026-19848",
+      "what_happened": "Ministerio de Educación, Formación Profesional y Deportes - Publicado el 25/09/2026 - Referencia: BOE-A-2026-19848",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19848"
+    },
+    {
+      "id": "boe-a-2026-19845",
+      "title": "Resolución de 23 de septiembre de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 23/2026, de 8 de septiembre, por el que se adoptan medidas fiscales y financieras urgentes que contribuyan a la reconstrucción económica y social de la isla de La Palma, así como medidas tendentes a promover la ejecución de inversiones por parte de las comunidades autónomas que han registrado superávits presupuestarios y excesos de financiación pendientes de aplicar de ejercicios anteriores a 2026.",
+      "source": "BOE — Trabajo y empleo",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-09-24T22:00:00+00:00",
+      "categories": [
+        "Derechos laborales",
+        "Canarias"
+      ],
+      "type": "noticia",
+      "summary": "Cortes Generales - Publicado el 25/09/2026 - Referencia: BOE-A-2026-19845",
+      "what_happened": "Cortes Generales - Publicado el 25/09/2026 - Referencia: BOE-A-2026-19845",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19845"
+    },
+    {
+      "id": "boe-a-2026-19849",
+      "title": "Real Decreto 739/2026, de 23 de septiembre, por el que se establece el régimen jurídico para el cómputo como cotizados al Régimen General de la Seguridad Social, a efectos de la pensión de jubilación, de los periodos de actividad ejercidos como deportista profesional con anterioridad a su integración en el Régimen General de la Seguridad Social.",
+      "source": "BOE — Seguridad Social",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-09-24T22:00:00+00:00",
+      "categories": [
+        "Derechos laborales"
+      ],
+      "type": "noticia",
+      "summary": "Ministerio de Inclusión, Seguridad Social y Migraciones - Publicado el 25/09/2026 - Referencia: BOE-A-2026-19849",
+      "what_happened": "Ministerio de Inclusión, Seguridad Social y Migraciones - Publicado el 25/09/2026 - Referencia: BOE-A-2026-19849",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19849"
+    },
+    {
+      "id": "boe-a-2026-19846",
+      "title": "Real Decreto 737/2026, de 23 de septiembre, sobre reconocimiento como cotizados a la Seguridad Social de los periodos de actividad ejercidos como ministros de culto de las iglesias pertenecientes a la Federación de Entidades Religiosas Evangélicas de España con anterioridad a su integración en el Régimen General de la Seguridad Social.",
+      "source": "BOE — Seguridad Social",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-09-24T22:00:00+00:00",
+      "categories": [
+        "Derechos laborales"
+      ],
+      "type": "noticia",
+      "summary": "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes - Publicado el 25/09/2026 - Referencia: BOE-A-2026-19846",
+      "what_happened": "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes - Publicado el 25/09/2026 - Referencia: BOE-A-2026-19846",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19846"
+    },
     {
       "id": "fd925dd9532c8a8e",
       "title": "Dirección General de Relaciones con la Administración de Justicia.- Resolución de 16 de septiembre de 2026, por la que se aprueba la relación de puestos de trabajo de la Secretaría de Gobierno del Tribunal Superior de Justicia de Canarias.",
@@ -18,7 +91,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/193/005.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/193/005.html",
+      "pin": false
     },
     {
       "id": "13661c15b4bb07be",
@@ -34,11 +108,12 @@
       ],
       "type": "noticia",
       "summary": "III. Otras Resoluciones - Consejería de Turismo y Empleo 3343 Servicio Canario de Empleo.- Resolución de 14 de septiembre de 2026, del Secretario General, por la que se ordena la publicación de la Declaración de Adhesión al Convenio Marco de Colaboración suscrito entre el Servicio Canario de Empleo, la Fundación Canaria Universitaria de Las Palmas y la Confe",
-      "what_happened": "III. Otras Resoluciones - Consejería de Turismo y Empleo 3343 Servicio Canario de Empleo.- Resolución de 14 de septiembre de 2026, del Secretario General, por la que se ordena la publicación de la Declaración de Adhesión al Convenio Marco de Colaboración suscrito entre el Servicio Canario de Empleo, la Fundación Canaria Universitaria de Las Palmas y la Confederación Canaria de Empresarios para la realización de prácticas no laborales en empresas de personas jóvenes con titulación y sin experiencia profesional, dentro del Proyecto “Cataliza VIII: Plan de fomento de la inserción laboral guiada a través de prácticas no laborales en empresas”, así como la relación de empresas adheridas al mismo ",
+      "what_happened": "III. Otras Resoluciones - Consejería de Turismo y Empleo 3343 Servicio Canario de Empleo.- Resolución de 14 de septiembre de 2026, del Secretario General, por la que se ordena la publicación de la Declaración de Adhesión al Convenio Marco de Colaboración suscrito entre el Servicio Canario de Empleo, la Fundación Canaria Universitaria de Las Palmas y la Confederación Canaria de Empresarios para la realización de prácticas no laborales en empresas de personas jóvenes con titulación y sin experiencia profesional, dentro del Proyecto “Cataliza VIII: Plan de fomento de la inserción laboral guiada a través de prácticas no laborales en empresas”, así como la relación de empresas adheridas al mismo",
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/193/008.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/193/008.html",
+      "pin": false
     },
     {
       "id": "0d712c3e2700885b",
@@ -115,7 +190,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/192/010.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/192/010.html",
+      "pin": false
     },
     {
       "id": "boe-a-2026-19751",
