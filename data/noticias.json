@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-09-28T06:58+00:00",
+  "updated_at": "2026-09-28T15:32+00:00",
   "items": [
+    {
+      "id": "b56e895c66514d7b",
+      "title": "Hecansa organiza una jornada divulgativa sobre el café y sus múltiples aplicaciones gastronómicas",
+      "source": "Gobierno de Canarias — Turismo y Empleo",
+      "source_type": "OFICIAL",
+      "source_label": "CANARIAS",
+      "published": "2026-09-28T11:08:26+00:00",
+      "categories": [
+        "Canarias",
+        "Hostelería",
+        "Jornada"
+      ],
+      "type": "noticia",
+      "summary": "El encuentro, que se celebrará el próximo 1 de octubre en el Hotel Escuela Santa Cruz con motivo del Día Internacional del Café, combinará un taller sobre café de especialidad con un menú temático La Consejería de Turismo y Empleo del Gobierno de Canarias, a través de Hoteles Escuela de Canarias (Hecansa), organiza una jornada […]",
+      "what_happened": "El encuentro, que se celebrará el próximo 1 de octubre en el Hotel Escuela Santa Cruz con motivo del Día Internacional del Café, combinará un taller sobre café de especialidad con un menú temático La Consejería de Turismo y Empleo del Gobierno de Canarias, a través de Hoteles Escuela de Canarias (Hecansa), organiza una jornada […]",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www3.gobiernodecanarias.org/noticias/hecansa-organiza-una-jornada-divulgativa-sobre-el-cafe-y-sus-multiples-aplicaciones-gastronomicas"
+    },
     {
       "id": "boe-a-2026-20003",
       "title": "Cuestión de inconstitucionalidad n.º 5959-2026, en relación con las disposiciones adicionales sexta y octava de la Ley 20/2021, de 28 de diciembre, de medidas urgentes para la reducción de la temporalidad en el empleo público, por posible vulneración de los artículos 23.2 y 149.1.18 CE.",
@@ -17,7 +37,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20003"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20003",
+      "pin": false
     },
     {
       "id": "boe-a-2026-20002",
@@ -35,7 +56,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20002"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20002",
+      "pin": false
     },
     {
       "id": "boe-a-2026-20001",
@@ -53,7 +75,26 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20001"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20001",
+      "pin": false
+    },
+    {
+      "id": "d4c02b35ef5ca402",
+      "title": "Decisión (PESC) 2026/2192 del Consejo, de 28 de septiembre de 2026, por la que se modifica la Decisión (PESC) 2024/1484 relativa a la adopción de medidas restrictivas habida cuenta de la situación en Rusia.",
+      "source": "BOE — Seguridad Social",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-09-27T22:00:00+00:00",
+      "categories": [
+        "Derechos laborales"
+      ],
+      "type": "noticia",
+      "summary": "Unión Europea - Publicado el 28/09/2026 - Referencia: DOUE-L-2026-81481",
+      "what_happened": "Unión Europea - Publicado el 28/09/2026 - Referencia: DOUE-L-2026-81481",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://boe.es/buscar/doc.php?id=DOUE-L-2026-81481"
     },
     {
       "id": "f94a3487d35d5f41",
@@ -71,7 +112,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://boe.es/diario_boe/txt.php?id=BOE-B-2026-31266"
+      "url": "https://boe.es/diario_boe/txt.php?id=BOE-B-2026-31266",
+      "pin": false
     },
     {
       "id": "67098581ca16aef1",
