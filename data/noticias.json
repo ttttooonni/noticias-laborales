@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T15:32+00:00",
+  "updated_at": "2026-09-28T22:04+00:00",
   "items": [
     {
       "id": "b56e895c66514d7b",
@@ -19,7 +19,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www3.gobiernodecanarias.org/noticias/hecansa-organiza-una-jornada-divulgativa-sobre-el-cafe-y-sus-multiples-aplicaciones-gastronomicas"
+      "url": "https://www3.gobiernodecanarias.org/noticias/hecansa-organiza-una-jornada-divulgativa-sobre-el-cafe-y-sus-multiples-aplicaciones-gastronomicas",
+      "pin": false
     },
     {
       "id": "boe-a-2026-20003",
@@ -94,7 +95,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://boe.es/buscar/doc.php?id=DOUE-L-2026-81481"
+      "url": "https://boe.es/buscar/doc.php?id=DOUE-L-2026-81481",
+      "pin": false
     },
     {
       "id": "f94a3487d35d5f41",
@@ -742,44 +744,6 @@
       "impact": "",
       "ugt_position": "",
       "url": "https://gobiernodecanarias.org/boc/2026/186/005.html",
-      "pin": false
-    },
-    {
-      "id": "boe-a-2026-19247",
-      "title": "Resolución de 7 de septiembre de 2026, de la Dirección General de Trabajo, por la que se registra y publica el Convenio colectivo de establecimientos financieros de crédito.",
-      "source": "BOE — Convenios colectivos",
-      "source_type": "OFICIAL",
-      "source_label": "FUENTE OFICIAL",
-      "published": "2026-09-14T22:00:00+00:00",
-      "categories": [
-        "Convenios"
-      ],
-      "type": "noticia",
-      "summary": "Ministerio de Trabajo y Economía Social - Publicado el 15/09/2026 - Referencia: BOE-A-2026-19247",
-      "what_happened": "Ministerio de Trabajo y Economía Social - Publicado el 15/09/2026 - Referencia: BOE-A-2026-19247",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19247",
-      "pin": false
-    },
-    {
-      "id": "boe-a-2026-19200",
-      "title": "Real Decreto 723/2026, de 9 de septiembre, por el que se transpone la Directiva (UE) 2019/1152 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, relativa a unas condiciones laborales transparentes y previsibles en la Unión Europea.",
-      "source": "BOE — Trabajo y empleo",
-      "source_type": "OFICIAL",
-      "source_label": "FUENTE OFICIAL",
-      "published": "2026-09-14T22:00:00+00:00",
-      "categories": [
-        "Derechos laborales"
-      ],
-      "type": "noticia",
-      "summary": "Ministerio de Trabajo y Economía Social - Publicado el 15/09/2026 - Referencia: BOE-A-2026-19200",
-      "what_happened": "Ministerio de Trabajo y Economía Social - Publicado el 15/09/2026 - Referencia: BOE-A-2026-19200",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19200",
       "pin": false
     },
     {
