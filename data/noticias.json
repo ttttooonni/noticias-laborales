@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T06:46+00:00",
+  "updated_at": "2026-09-30T13:47+00:00",
   "items": [
     {
       "id": "boe-a-2026-20372",
@@ -17,7 +17,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20372"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20372",
+      "pin": false
     },
     {
       "id": "boe-a-2026-20371",
@@ -35,7 +36,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20371"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20371",
+      "pin": false
     },
     {
       "id": "d1499f322ea89207",
@@ -53,7 +55,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://boe.es/diario_boe/txt.php?id=BOE-B-2026-31652"
+      "url": "https://boe.es/diario_boe/txt.php?id=BOE-B-2026-31652",
+      "pin": false
     },
     {
       "id": "3361a551340ea049",
@@ -71,7 +74,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://boe.es/diario_boe/txt.php?id=BOE-B-2026-31651"
+      "url": "https://boe.es/diario_boe/txt.php?id=BOE-B-2026-31651",
+      "pin": false
     },
     {
       "id": "2353359157d98db5",
@@ -89,7 +93,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://boe.es/diario_boe/txt.php?id=BOE-B-2026-31650"
+      "url": "https://boe.es/diario_boe/txt.php?id=BOE-B-2026-31650",
+      "pin": false
     },
     {
       "id": "eeb75108023df15a",
@@ -107,7 +112,26 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://boe.es/diario_boe/txt.php?id=BOE-B-2026-31649"
+      "url": "https://boe.es/diario_boe/txt.php?id=BOE-B-2026-31649",
+      "pin": false
+    },
+    {
+      "id": "boe-a-2026-20265",
+      "title": "Real Decreto-ley 25/2026, de 29 de septiembre, por el que se adoptan y se prorrogan determinadas medidas en el marco del Plan Integral de Respuesta a la Crisis en Oriente Medio.",
+      "source": "BOE — Trabajo y empleo",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-09-29T22:00:00+00:00",
+      "categories": [
+        "Derechos laborales"
+      ],
+      "type": "noticia",
+      "summary": "Jefatura del Estado - Publicado el 30/09/2026 - Referencia: BOE-A-2026-20265",
+      "what_happened": "Jefatura del Estado - Publicado el 30/09/2026 - Referencia: BOE-A-2026-20265",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20265"
     },
     {
       "id": "a088122b487c8158",
