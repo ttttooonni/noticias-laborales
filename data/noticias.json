@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T13:47+00:00",
+  "updated_at": "2026-09-30T19:24+00:00",
   "items": [
     {
       "id": "boe-a-2026-20372",
@@ -131,7 +131,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20265"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20265",
+      "pin": false
     },
     {
       "id": "a088122b487c8158",
