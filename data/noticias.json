@@ -1,6 +1,61 @@
 {
-  "updated_at": "2026-10-02T12:41+00:00",
+  "updated_at": "2026-10-02T18:27+00:00",
   "items": [
+    {
+      "id": "e19a57f05833ca87",
+      "title": "Turismo y Empleo presenta en el Parlamento la primera Estrategia Canaria de Economía Social 2026-2029",
+      "source": "Gobierno de Canarias — Turismo y Empleo",
+      "source_type": "OFICIAL",
+      "source_label": "CANARIAS",
+      "published": "2026-10-02T12:55:19+00:00",
+      "categories": [
+        "Canarias"
+      ],
+      "type": "noticia",
+      "summary": "La consejera de Turismo y Empleo, Jéssica de León, dio a conocer los detalles de un documento fruto del consenso entre la administración y los diferentes colectivos, que marcará la hoja de ruta del sector en los próximos cuatro años La Estrategia se articula en seis ejes de trabajo, diecinueve líneas de actuación y cincuenta […]",
+      "what_happened": "La consejera de Turismo y Empleo, Jéssica de León, dio a conocer los detalles de un documento fruto del consenso entre la administración y los diferentes colectivos, que marcará la hoja de ruta del sector en los próximos cuatro años La Estrategia se articula en seis ejes de trabajo, diecinueve líneas de actuación y cincuenta […]",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www3.gobiernodecanarias.org/noticias/turismo-y-empleo-presenta-en-el-parlamento-la-primera-estrategia-canaria-de-economia-social-2026-2029-2"
+    },
+    {
+      "id": "598a8112c47f38c0",
+      "title": "Canarias registra en septiembre la cifra más baja de paro desde diciembre de 2007",
+      "source": "Gobierno de Canarias — Turismo y Empleo",
+      "source_type": "OFICIAL",
+      "source_label": "CANARIAS",
+      "published": "2026-10-02T12:53:22+00:00",
+      "categories": [
+        "Canarias",
+        "Empleo"
+      ],
+      "type": "noticia",
+      "summary": "El desempleo de larga duración se reduce en cerca de 4.500 personas en el último año y alcanza su nivel más bajo desde 2009 La contratación suma más de 9.700 contratos en un mes y aumenta en todos los sectores y en todas las islas Canarias cerró septiembre con 140.303 personas desempleadas registradas en las […]",
+      "what_happened": "El desempleo de larga duración se reduce en cerca de 4.500 personas en el último año y alcanza su nivel más bajo desde 2009 La contratación suma más de 9.700 contratos en un mes y aumenta en todos los sectores y en todas las islas Canarias cerró septiembre con 140.303 personas desempleadas registradas en las […]",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www3.gobiernodecanarias.org/noticias/canarias-registra-en-septiembre-la-cifra-mas-baja-de-paro-desde-diciembre-de-2007"
+    },
+    {
+      "id": "b0d1fcdb65428deb",
+      "title": "Turismo y Empleo presenta en el Parlamento la primera Estrategia Canaria de Economía Social 2026-2029",
+      "source": "Gobierno de Canarias — Turismo y Empleo",
+      "source_type": "OFICIAL",
+      "source_label": "CANARIAS",
+      "published": "2026-10-02T12:10:51+00:00",
+      "categories": [
+        "Canarias"
+      ],
+      "type": "noticia",
+      "summary": "La consejera de Turismo y Empleo, Jéssica de León, dio a conocer los detalles de un documento fruto del consenso entre la administración y los diferentes colectivos, que marcará la hoja de ruta del sector en los próximos cuatro años La Estrategia se articula en seis ejes de trabajo, diecinueve líneas de actuación y cincuenta […]",
+      "what_happened": "La consejera de Turismo y Empleo, Jéssica de León, dio a conocer los detalles de un documento fruto del consenso entre la administración y los diferentes colectivos, que marcará la hoja de ruta del sector en los próximos cuatro años La Estrategia se articula en seis ejes de trabajo, diecinueve líneas de actuación y cincuenta […]",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www3.gobiernodecanarias.org/noticias/turismo-y-empleo-presenta-en-el-parlamento-la-primera-estrategia-canaria-de-economia-social-2026-2029"
+    },
     {
       "id": "9fc097ec65bb2973",
       "title": "Extracto de la Resolución de 30 de septiembre de 2026 de la Presidencia de la Agencia Estatal de Investigación, por la que se aprueba la convocatoria 2026 de ayudas para personal técnico y de gestión de I+D+i.",
@@ -17,7 +72,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://boe.es/diario_boe/txt.php?id=BOE-B-2026-31902"
+      "url": "https://boe.es/diario_boe/txt.php?id=BOE-B-2026-31902",
+      "pin": false
     },
     {
       "id": "ff45af6a9cf979db",
@@ -35,7 +91,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://boe.es/diario_boe/txt.php?id=BOE-B-2026-31900"
+      "url": "https://boe.es/diario_boe/txt.php?id=BOE-B-2026-31900",
+      "pin": false
     },
     {
       "id": "boe-a-2026-20461",
