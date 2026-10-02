@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T18:27+00:00",
+  "updated_at": "2026-10-02T23:00+00:00",
   "items": [
     {
       "id": "e19a57f05833ca87",
@@ -17,7 +17,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www3.gobiernodecanarias.org/noticias/turismo-y-empleo-presenta-en-el-parlamento-la-primera-estrategia-canaria-de-economia-social-2026-2029-2"
+      "url": "https://www3.gobiernodecanarias.org/noticias/turismo-y-empleo-presenta-en-el-parlamento-la-primera-estrategia-canaria-de-economia-social-2026-2029-2",
+      "pin": false
     },
     {
       "id": "598a8112c47f38c0",
@@ -36,7 +37,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www3.gobiernodecanarias.org/noticias/canarias-registra-en-septiembre-la-cifra-mas-baja-de-paro-desde-diciembre-de-2007"
+      "url": "https://www3.gobiernodecanarias.org/noticias/canarias-registra-en-septiembre-la-cifra-mas-baja-de-paro-desde-diciembre-de-2007",
+      "pin": false
     },
     {
       "id": "b0d1fcdb65428deb",
@@ -54,7 +56,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www3.gobiernodecanarias.org/noticias/turismo-y-empleo-presenta-en-el-parlamento-la-primera-estrategia-canaria-de-economia-social-2026-2029"
+      "url": "https://www3.gobiernodecanarias.org/noticias/turismo-y-empleo-presenta-en-el-parlamento-la-primera-estrategia-canaria-de-economia-social-2026-2029",
+      "pin": false
     },
     {
       "id": "9fc097ec65bb2973",
