@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T07:06+00:00",
+  "updated_at": "2026-10-05T16:04+00:00",
   "items": [
     {
       "id": "7671c3de0c4bb52c",
@@ -57,7 +57,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20528"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20528",
+      "pin": false
     },
     {
       "id": "e19a57f05833ca87",
