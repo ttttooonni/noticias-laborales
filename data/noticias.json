@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T00:58+00:00",
+  "updated_at": "2026-10-05T07:06+00:00",
   "items": [
     {
       "id": "7671c3de0c4bb52c",
@@ -17,7 +17,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/199/010.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/199/010.html",
+      "pin": false
     },
     {
       "id": "ac8ac5b7458b0f8e",
@@ -37,7 +38,26 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/199/014.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/199/014.html",
+      "pin": false
+    },
+    {
+      "id": "boe-a-2026-20528",
+      "title": "Ley 4/2026, de 1 de octubre, por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+      "source": "BOE — Trabajo y empleo",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-10-02T22:00:00+00:00",
+      "categories": [
+        "Derechos laborales"
+      ],
+      "type": "noticia",
+      "summary": "Jefatura del Estado - Publicado el 03/10/2026 - Referencia: BOE-A-2026-20528",
+      "what_happened": "Jefatura del Estado - Publicado el 03/10/2026 - Referencia: BOE-A-2026-20528",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20528"
     },
     {
       "id": "e19a57f05833ca87",
