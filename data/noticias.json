@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T09:02+00:00",
+  "updated_at": "2026-10-08T16:32+00:00",
   "items": [
     {
       "id": "boe-a-2026-20971",
@@ -17,7 +17,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20971"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20971",
+      "pin": false
     },
     {
       "id": "boe-a-2026-20970",
@@ -35,7 +36,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20970"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20970",
+      "pin": false
     },
     {
       "id": "080d7e65ff586a4c",
@@ -694,26 +696,6 @@
       "impact": "",
       "ugt_position": "",
       "url": "https://gobiernodecanarias.org/boc/2026/193/008.html",
-      "pin": false
-    },
-    {
-      "id": "0d712c3e2700885b",
-      "title": "Empleo recibe más de treinta proyectos para impulsar la formación e inserción laboral de colectivos vulnerables",
-      "source": "Gobierno de Canarias — Turismo y Empleo",
-      "source_type": "OFICIAL",
-      "source_label": "CANARIAS",
-      "published": "2026-09-24T11:40:09+00:00",
-      "categories": [
-        "Canarias",
-        "Empleo"
-      ],
-      "type": "noticia",
-      "summary": "La convocatoria, dotada con 8,5 millones de euros, permitirá desarrollar itinerarios de formación e inserción laboral para más de 600 personas en situación de exclusión social o riesgo de padecerla La Consejería de Turismo y Empleo del Gobierno de Canarias, a través del Servicio Canario de Empleo (SCE), ha recibido treinta y dos proyectos de […]",
-      "what_happened": "La convocatoria, dotada con 8,5 millones de euros, permitirá desarrollar itinerarios de formación e inserción laboral para más de 600 personas en situación de exclusión social o riesgo de padecerla La Consejería de Turismo y Empleo del Gobierno de Canarias, a través del Servicio Canario de Empleo (SCE), ha recibido treinta y dos proyectos de […]",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://www3.gobiernodecanarias.org/noticias/empleo-recibe-mas-de-treinta-proyectos-para-impulsar-la-formacion-e-insercion-laboral-de-colectivos-vulnerables",
       "pin": false
     },
     {
