@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-10-08T01:59+00:00",
+  "updated_at": "2026-10-08T09:02+00:00",
   "items": [
+    {
+      "id": "boe-a-2026-20971",
+      "title": "Resolución de 28 de septiembre de 2026, de la Dirección General de Trabajo, por la que se registra y publica el Convenio colectivo de empresas de elaboración de productos del mar con procesos de congelación y refrigeración.",
+      "source": "BOE — Convenios colectivos",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-10-07T22:00:00+00:00",
+      "categories": [
+        "Convenios"
+      ],
+      "type": "noticia",
+      "summary": "Ministerio de Trabajo y Economía Social - Publicado el 08/10/2026 - Referencia: BOE-A-2026-20971",
+      "what_happened": "Ministerio de Trabajo y Economía Social - Publicado el 08/10/2026 - Referencia: BOE-A-2026-20971",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20971"
+    },
+    {
+      "id": "boe-a-2026-20970",
+      "title": "Resolución de 28 de septiembre de 2026, de la Dirección General de Trabajo, por la que se registra y publica el VI Convenio colectivo sectorial estatal de servicios externos auxiliares y atención al cliente en empresas de servicios ferroviarios.",
+      "source": "BOE — Convenios colectivos",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-10-07T22:00:00+00:00",
+      "categories": [
+        "Convenios"
+      ],
+      "type": "noticia",
+      "summary": "Ministerio de Trabajo y Economía Social - Publicado el 08/10/2026 - Referencia: BOE-A-2026-20970",
+      "what_happened": "Ministerio de Trabajo y Economía Social - Publicado el 08/10/2026 - Referencia: BOE-A-2026-20970",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20970"
+    },
     {
       "id": "080d7e65ff586a4c",
       "title": "Servicio Canario de Empleo.- Resolución de 29 de septiembre de 2026, del Secretario General, por la que se ordena la publicación de la Declaración de Adhesión al Convenio Marco de Colaboración suscrito entre el Servicio Canario de Empleo, la Fundación Canaria General Universidad de La Laguna y la Confederación Provincial de Empresarios de Santa Cruz de Tenerife (CEOE-Tenerife), correspondiente a la entidad Noemí Melio Martín, para la realización de prácticas no laborales en empresas de personas jóvenes con titulación y sin experiencia profesional, dentro del Proyecto “Cataliza VIII: Plan de fomento de la inserción laboral guiada a través de prácticas no laborales en empresas”.",
@@ -18,7 +54,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/202/012.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/202/012.html",
+      "pin": false
     },
     {
       "id": "29047714e2f72dd8",
@@ -677,26 +714,6 @@
       "impact": "",
       "ugt_position": "",
       "url": "https://www3.gobiernodecanarias.org/noticias/empleo-recibe-mas-de-treinta-proyectos-para-impulsar-la-formacion-e-insercion-laboral-de-colectivos-vulnerables",
-      "pin": false
-    },
-    {
-      "id": "d391aab3bf772a37",
-      "title": "Modificación de las Indemnizaciones por residencia e insularidad en la Comunidad Autónoma de Canarias",
-      "source": "UGT Canarias — Noticias",
-      "source_type": "UGT",
-      "source_label": "UGT CANARIAS",
-      "published": "2026-09-24T04:45:22+00:00",
-      "categories": [
-        "UGT",
-        "Canarias"
-      ],
-      "type": "noticia",
-      "summary": "El pasado febrero se publicó el Acuerdo Marco por la mejora del empleo público y el servicio a la ciudadanía, firmado en noviembre de 2025, por el que se impulsaba la adecuación de las cantidades de la Indemnización por residencia e insularidad a la realidad actual tras décadas de no actualizarse.",
-      "what_happened": "El pasado febrero se publicó el Acuerdo Marco por la mejora del empleo público y el servicio a la ciudadanía, firmado en noviembre de 2025, por el que se impulsaba la adecuación de las cantidades de la Indemnización por residencia e insularidad a la realidad actual tras décadas de no actualizarse.",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://canarias.ugt.org/index.php/noticias/modificacion-de-las-indemnizaciones-por-residencia-e-insularidad-en-la-comunidad-autonoma-de-canarias",
       "pin": false
     },
     {
