@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T09:09+00:00",
+  "updated_at": "2026-10-09T16:16+00:00",
   "items": [
     {
       "id": "boe-a-2026-21086",
@@ -17,7 +17,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21086"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21086",
+      "pin": false
     },
     {
       "id": "boe-a-2026-21085",
@@ -35,7 +36,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21085"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21085",
+      "pin": false
     },
     {
       "id": "boe-a-2026-21084",
@@ -53,7 +55,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21084"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21084",
+      "pin": false
     },
     {
       "id": "boe-a-2026-20978",
@@ -72,7 +75,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20978"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20978",
+      "pin": false
     },
     {
       "id": "boe-a-2026-20971",
@@ -630,27 +634,6 @@
       "impact": "",
       "ugt_position": "",
       "url": "https://boe.es/diario_boe/txt.php?id=BOE-B-2026-31266",
-      "pin": false
-    },
-    {
-      "id": "67098581ca16aef1",
-      "title": "Jéssica de León destaca la contribución de los centros especiales de empleo de Adisfuer en la inclusión social",
-      "source": "Gobierno de Canarias — Turismo y Empleo",
-      "source_type": "OFICIAL",
-      "source_label": "CANARIAS",
-      "published": "2026-09-25T13:49:09+00:00",
-      "categories": [
-        "Canarias",
-        "Las Palmas",
-        "Empleo"
-      ],
-      "type": "noticia",
-      "summary": "La consejera de Turismo y Empleo del Gobierno de Canarias, Jéssica de León, realizó esta mañana una visita a la granja avícola de la Asociación de personas con Discapacidad de Fuerteventura (Adisfuer), en Puerto del Rosario. De León estuvo acompañada por la directora del Servicio Canario de Empleo (SCE), María Teresa Ortega, y el subdirector […]",
-      "what_happened": "La consejera de Turismo y Empleo del Gobierno de Canarias, Jéssica de León, realizó esta mañana una visita a la granja avícola de la Asociación de personas con Discapacidad de Fuerteventura (Adisfuer), en Puerto del Rosario. De León estuvo acompañada por la directora del Servicio Canario de Empleo (SCE), María Teresa Ortega, y el subdirector […]",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://www3.gobiernodecanarias.org/noticias/jessica-de-leon-destaca-la-contribucion-de-los-centros-especiales-de-empleo-de-adisfuer-en-la-inclusion-social",
       "pin": false
     },
     {
