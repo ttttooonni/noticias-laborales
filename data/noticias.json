@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T07:24+00:00",
+  "updated_at": "2026-10-12T17:58+00:00",
   "items": [
     {
       "id": "boe-a-2026-21086",
@@ -521,27 +521,6 @@
       "pin": false
     },
     {
-      "id": "b56e895c66514d7b",
-      "title": "Hecansa organiza una jornada divulgativa sobre el café y sus múltiples aplicaciones gastronómicas",
-      "source": "Gobierno de Canarias — Turismo y Empleo",
-      "source_type": "OFICIAL",
-      "source_label": "CANARIAS",
-      "published": "2026-09-28T11:08:26+00:00",
-      "categories": [
-        "Canarias",
-        "Hostelería",
-        "Jornada"
-      ],
-      "type": "noticia",
-      "summary": "El encuentro, que se celebrará el próximo 1 de octubre en el Hotel Escuela Santa Cruz con motivo del Día Internacional del Café, combinará un taller sobre café de especialidad con un menú temático La Consejería de Turismo y Empleo del Gobierno de Canarias, a través de Hoteles Escuela de Canarias (Hecansa), organiza una jornada […]",
-      "what_happened": "El encuentro, que se celebrará el próximo 1 de octubre en el Hotel Escuela Santa Cruz con motivo del Día Internacional del Café, combinará un taller sobre café de especialidad con un menú temático La Consejería de Turismo y Empleo del Gobierno de Canarias, a través de Hoteles Escuela de Canarias (Hecansa), organiza una jornada […]",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://www3.gobiernodecanarias.org/noticias/hecansa-organiza-una-jornada-divulgativa-sobre-el-cafe-y-sus-multiples-aplicaciones-gastronomicas",
-      "pin": false
-    },
-    {
       "id": "ee08d1a96bf6f91d",
       "title": "UGT Canarias firma el primer convenio regional de salvamento y socorrismo con subidas salariales de hasta el 62,76%",
       "source": "UGT Canarias — Noticias",
@@ -655,6 +634,11 @@
   ],
   "health": {
     "sources_checked": 7,
-    "failures": []
+    "failures": [
+      {
+        "source": "UGT Canarias — Noticias",
+        "error": "HTTP Error 415: Unsupported Media Type"
+      }
+    ]
   }
 }
