@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T07:45+00:00",
+  "updated_at": "2026-10-13T16:02+00:00",
   "items": [
     {
       "id": "boe-a-2026-21254",
@@ -17,7 +17,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
+      "pin": false
     },
     {
       "id": "080a0e52c360bd81",
@@ -76,7 +77,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21231"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21231",
+      "pin": false
     },
     {
       "id": "boe-a-2026-21215",
@@ -94,7 +96,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21215"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21215",
+      "pin": false
     },
     {
       "id": "boe-a-2026-21167",
@@ -112,7 +115,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21167"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21167",
+      "pin": false
     },
     {
       "id": "boe-a-2026-21086",
