@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-10-14T00:21+00:00",
+  "updated_at": "2026-10-14T06:11+00:00",
   "items": [
+    {
+      "id": "boe-a-2026-21428",
+      "title": "Resolución de 2 de octubre de 2026, de la Dirección General de Trabajo, por la que se registra y publica el XVIII Convenio colectivo de la Organización Nacional de Ciegos y su personal.",
+      "source": "BOE — Convenios colectivos",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-10-13T22:00:00+00:00",
+      "categories": [
+        "Convenios"
+      ],
+      "type": "noticia",
+      "summary": "Ministerio de Trabajo y Economía Social - Publicado el 14/10/2026 - Referencia: BOE-A-2026-21428",
+      "what_happened": "Ministerio de Trabajo y Economía Social - Publicado el 14/10/2026 - Referencia: BOE-A-2026-21428",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21428"
+    },
+    {
+      "id": "boe-a-2026-21427",
+      "title": "Resolución de 2 de octubre de 2026, de la Dirección General de Trabajo, por la que se registra y publica el Convenio colectivo del sector de pastas, papel y cartón.",
+      "source": "BOE — Convenios colectivos",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-10-13T22:00:00+00:00",
+      "categories": [
+        "Convenios"
+      ],
+      "type": "noticia",
+      "summary": "Ministerio de Trabajo y Economía Social - Publicado el 14/10/2026 - Referencia: BOE-A-2026-21427",
+      "what_happened": "Ministerio de Trabajo y Economía Social - Publicado el 14/10/2026 - Referencia: BOE-A-2026-21427",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21427"
+    },
     {
       "id": "0043fc5b9028627b",
       "title": "Servicio Canario de Empleo.- Resolución de 30 de septiembre de 2026, del Secretario General, por la que se ordena la publicación de la Declaración de Adhesión al Convenio Marco de Colaboración suscrito entre el Servicio Canario de Empleo, la Fundación Canaria Universitaria de Las Palmas y la Confederación Canaria de Empresarios para la realización de prácticas no laborales en empresas de personas jóvenes con titulación y sin experiencia profesional, dentro del Proyecto “Cataliza VIII: Plan de fomento de la inserción laboral guiada a través de prácticas no laborales en empresas”, así como la relación de empresas adheridas al mismo con fecha 30 de septiembre de 2026.",
@@ -15,11 +51,12 @@
       ],
       "type": "noticia",
       "summary": "III. Otras Resoluciones - Consejería de Turismo y Empleo 3542 Servicio Canario de Empleo.- Resolución de 30 de septiembre de 2026, del Secretario General, por la que se ordena la publicación de la Declaración de Adhesión al Convenio Marco de Colaboración suscrito entre el Servicio Canario de Empleo, la Fundación Canaria Universitaria de Las Palmas y la Confe",
-      "what_happened": "III. Otras Resoluciones - Consejería de Turismo y Empleo 3542 Servicio Canario de Empleo.- Resolución de 30 de septiembre de 2026, del Secretario General, por la que se ordena la publicación de la Declaración de Adhesión al Convenio Marco de Colaboración suscrito entre el Servicio Canario de Empleo, la Fundación Canaria Universitaria de Las Palmas y la Confederación Canaria de Empresarios para la realización de prácticas no laborales en empresas de personas jóvenes con titulación y sin experiencia profesional, dentro del Proyecto “Cataliza VIII: Plan de fomento de la inserción laboral guiada a través de prácticas no laborales en empresas”, así como la relación de empresas adheridas al mismo ",
+      "what_happened": "III. Otras Resoluciones - Consejería de Turismo y Empleo 3542 Servicio Canario de Empleo.- Resolución de 30 de septiembre de 2026, del Secretario General, por la que se ordena la publicación de la Declaración de Adhesión al Convenio Marco de Colaboración suscrito entre el Servicio Canario de Empleo, la Fundación Canaria Universitaria de Las Palmas y la Confederación Canaria de Empresarios para la realización de prácticas no laborales en empresas de personas jóvenes con titulación y sin experiencia profesional, dentro del Proyecto “Cataliza VIII: Plan de fomento de la inserción laboral guiada a través de prácticas no laborales en empresas”, así como la relación de empresas adheridas al mismo",
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/205/007.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/205/007.html",
+      "pin": false
     },
     {
       "id": "1561d2d39f7ff157",
@@ -38,7 +75,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/205/008.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/205/008.html",
+      "pin": false
     },
     {
       "id": "boe-a-2026-21254",
@@ -600,6 +638,11 @@
   ],
   "health": {
     "sources_checked": 7,
-    "failures": []
+    "failures": [
+      {
+        "source": "UGT Canarias — Noticias",
+        "error": "HTTP Error 415: Unsupported Media Type"
+      }
+    ]
   }
 }
