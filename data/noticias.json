@@ -1,6 +1,25 @@
 {
-  "updated_at": "2026-10-15T09:59+00:00",
+  "updated_at": "2026-10-15T15:04+00:00",
   "items": [
+    {
+      "id": "cdde60ebb6458ba4",
+      "title": "Canarias registra 2.825 contratos a mujeres en ocupaciones rurales y reduce el paro en 408 personas",
+      "source": "Gobierno de Canarias — Turismo y Empleo",
+      "source_type": "OFICIAL",
+      "source_label": "CANARIAS",
+      "published": "2026-10-15T12:20:39+00:00",
+      "categories": [
+        "Canarias",
+        "Empleo"
+      ],
+      "type": "noticia",
+      "summary": "El informe del Observatorio Canario de Empleo analiza la evolución laboral de las mujeres entre enero y septiembre de 2026 y destaca las oportunidades de formación y contratación en la ganadería, el sector forestal y las actividades del mar La Consejería de Turismo y Empleo del Gobierno de Canarias analiza la evolución del empleo femenino […]",
+      "what_happened": "El informe del Observatorio Canario de Empleo analiza la evolución laboral de las mujeres entre enero y septiembre de 2026 y destaca las oportunidades de formación y contratación en la ganadería, el sector forestal y las actividades del mar La Consejería de Turismo y Empleo del Gobierno de Canarias analiza la evolución del empleo femenino […]",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www3.gobiernodecanarias.org/noticias/canarias-registra-2-825-contratos-a-mujeres-en-ocupaciones-rurales-y-reduce-el-paro-en-408-personas"
+    },
     {
       "id": "1da9ac5e341cf2e3",
       "title": "Corrección de errores de la Directiva (UE) 2017/2397 del Parlamento Europeo y del Consejo, de 12 de diciembre de 2017, relativa al reconocimiento de las cualificaciones profesionales en la navegación interior y por la que se derogan las Directivas 91/672/CEE y 96/50/CE del Consejo.",
@@ -17,7 +36,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://boe.es/buscar/doc.php?id=DOUE-L-2026-81589"
+      "url": "https://boe.es/buscar/doc.php?id=DOUE-L-2026-81589",
+      "pin": false
     },
     {
       "id": "boe-a-2026-21451",
@@ -35,7 +55,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21451"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21451",
+      "pin": false
     },
     {
       "id": "74abb66cb3ab3454",
