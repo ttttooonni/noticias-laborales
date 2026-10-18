@@ -1,6 +1,62 @@
 {
-  "updated_at": "2026-10-18T20:48+00:00",
+  "updated_at": "2026-10-18T23:16+00:00",
   "items": [
+    {
+      "id": "6f4ef348ac495265",
+      "title": "Dirección General de Trabajo.- Resolución de 5 de octubre de 2026, por la que se procede a la designación de Árbitro para los procedimientos de reclamación en materia de elección de la representación legal de los trabajadores en el ámbito de la Comunidad Autónoma de Canarias.",
+      "source": "BOC — Otras resoluciones",
+      "source_type": "OFICIAL",
+      "source_label": "BOC",
+      "published": "2026-10-18T22:00:00+00:00",
+      "categories": [
+        "Canarias"
+      ],
+      "type": "noticia",
+      "summary": "III. Otras Resoluciones - Consejería de Turismo y Empleo 3591 Dirección General de Trabajo.- Resolución de 5 de octubre de 2026, por la que se procede a la designación de Árbitro para los procedimientos de reclamación en materia de elección de la representación legal de los trabajadores en el ámbito de la Comunidad Autónoma de Canarias. CVE: BOC-A-2026-208-3",
+      "what_happened": "III. Otras Resoluciones - Consejería de Turismo y Empleo 3591 Dirección General de Trabajo.- Resolución de 5 de octubre de 2026, por la que se procede a la designación de Árbitro para los procedimientos de reclamación en materia de elección de la representación legal de los trabajadores en el ámbito de la Comunidad Autónoma de Canarias. CVE: BOC-A-2026-208-3591 Firma electrónica: Descargar",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://gobiernodecanarias.org/boc/2026/208/003.html"
+    },
+    {
+      "id": "a9e9099fa56e6f97",
+      "title": "Servicio Canario de Empleo.- Resolución de 5 de octubre de 2026, de la Directora, por la que se acuerda aplicar la tramitación de urgencia a la convocatoria de subvenciones destinadas a la financiación del Programa de Formación en Alternancia con el Empleo para el ejercicio 2026.",
+      "source": "BOC — Otras resoluciones",
+      "source_type": "OFICIAL",
+      "source_label": "BOC",
+      "published": "2026-10-18T22:00:00+00:00",
+      "categories": [
+        "Canarias",
+        "Empleo"
+      ],
+      "type": "noticia",
+      "summary": "III. Otras Resoluciones - Consejería de Turismo y Empleo 3592 Servicio Canario de Empleo.- Resolución de 5 de octubre de 2026, de la Directora, por la que se acuerda aplicar la tramitación de urgencia a la convocatoria de subvenciones destinadas a la financiación del Programa de Formación en Alternancia con el Empleo para el ejercicio 2026. CVE: BOC-A-2026-2",
+      "what_happened": "III. Otras Resoluciones - Consejería de Turismo y Empleo 3592 Servicio Canario de Empleo.- Resolución de 5 de octubre de 2026, de la Directora, por la que se acuerda aplicar la tramitación de urgencia a la convocatoria de subvenciones destinadas a la financiación del Programa de Formación en Alternancia con el Empleo para el ejercicio 2026. CVE: BOC-A-2026-208-3592 Firma electrónica: Descargar",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://gobiernodecanarias.org/boc/2026/208/004.html"
+    },
+    {
+      "id": "71913a10c54e136a",
+      "title": "Servicio Canario de Empleo.- Resolución de 5 de octubre de 2026, del Secretario General, por la que se ordena la publicación de la Declaración de Adhesión al Convenio Marco de Colaboración suscrito entre el Servicio Canario de Empleo, la Fundación Canaria General Universidad de La Laguna y la Confederación Provincial de Empresarios de Santa Cruz de Tenerife (CEOE-Tenerife), correspondiente a la empresa David Acosta Espeleta, para la realización de prácticas no laborales en empresas de personas jóvenes con titulación y sin experiencia profesional, dentro del proyecto “Cataliza VIII: Plan de fomento de la inserción laboral guiada a través de prácticas no laborales en empresas”.",
+      "source": "BOC — Otras resoluciones",
+      "source_type": "OFICIAL",
+      "source_label": "BOC",
+      "published": "2026-10-15T22:00:00+00:00",
+      "categories": [
+        "Canarias",
+        "Empleo"
+      ],
+      "type": "noticia",
+      "summary": "III. Otras Resoluciones - Consejería de Turismo y Empleo 3576 Servicio Canario de Empleo.- Resolución de 5 de octubre de 2026, del Secretario General, por la que se ordena la publicación de la Declaración de Adhesión al Convenio Marco de Colaboración suscrito entre el Servicio Canario de Empleo, la Fundación Canaria General Universidad de La Laguna y la Conf",
+      "what_happened": "III. Otras Resoluciones - Consejería de Turismo y Empleo 3576 Servicio Canario de Empleo.- Resolución de 5 de octubre de 2026, del Secretario General, por la que se ordena la publicación de la Declaración de Adhesión al Convenio Marco de Colaboración suscrito entre el Servicio Canario de Empleo, la Fundación Canaria General Universidad de La Laguna y la Confederación Provincial de Empresarios de Santa Cruz de Tenerife (CEOE-Tenerife), correspondiente a la empresa David Acosta Espeleta, para la realización de prácticas no laborales en empresas de personas jóvenes con titulación y sin experiencia profesional, dentro del proyecto “Cataliza VIII: Plan de fomento de la inserción laboral guiada a ",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://gobiernodecanarias.org/boc/2026/207/009.html"
+    },
     {
       "id": "cdde60ebb6458ba4",
       "title": "Canarias registra 2.825 contratos a mujeres en ocupaciones rurales y reduce el paro en 408 personas",
@@ -448,46 +504,6 @@
       "impact": "",
       "ugt_position": "",
       "url": "https://www3.gobiernodecanarias.org/noticias/empleo-destina-346-millones-a-la-nueva-convocatoria-de-los-programas-de-formacion-en-alternancia",
-      "pin": false
-    },
-    {
-      "id": "7671c3de0c4bb52c",
-      "title": "Secretaría General Técnica.- Resolución de 23 de septiembre de 2026, por la que se ordena la publicación del Convenio entre la Consejería de Educación, Formación Profesional, Actividad Física y Deportes y el Cabildo Insular de Tenerife para la coordinación de la formación en empresa u organismo equiparado de las enseñanzas de formación profesional, y de la fase de formación práctica en centros de trabajo de las enseñanzas profesionales de artes plásticas y diseño y las enseñanzas deportivas de régimen especial, así como de las prácticas externas en las enseñanzas artísticas superiores de música y diseño.",
-      "source": "BOC — Otras resoluciones",
-      "source_type": "OFICIAL",
-      "source_label": "BOC",
-      "published": "2026-10-04T22:00:00+00:00",
-      "categories": [
-        "Canarias"
-      ],
-      "type": "noticia",
-      "summary": "III. Otras Resoluciones - Consejería de Educación, Formación Profesional, Actividad Física y Deportes 3427 Secretaría General Técnica.- Resolución de 23 de septiembre de 2026, por la que se ordena la publicación del Convenio entre la Consejería de Educación, Formación Profesional, Actividad Física y Deportes y el Cabildo Insular de Tenerife para la coordinac",
-      "what_happened": "III. Otras Resoluciones - Consejería de Educación, Formación Profesional, Actividad Física y Deportes 3427 Secretaría General Técnica.- Resolución de 23 de septiembre de 2026, por la que se ordena la publicación del Convenio entre la Consejería de Educación, Formación Profesional, Actividad Física y Deportes y el Cabildo Insular de Tenerife para la coordinación de la formación en empresa u organismo equiparado de las enseñanzas de formación profesional, y de la fase de formación práctica en centros de trabajo de las enseñanzas profesionales de artes plásticas y diseño y las enseñanzas deportivas de régimen especial, así como de las prácticas externas en las enseñanzas artísticas superiores d",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/199/010.html",
-      "pin": false
-    },
-    {
-      "id": "ac8ac5b7458b0f8e",
-      "title": "Servicio Canario de Empleo.- Resolución de 23 de septiembre de 2026, del Secretario General, por la que se ordena la publicación de la Declaración de Adhesión al Convenio Marco de Colaboración suscrito entre el Servicio Canario de Empleo, la Fundación Canaria Universitaria de Las Palmas y la Confederación Canaria de Empresarios, correspondiente a la empresa Enrique Guerra Jiménez, para la realización de prácticas no laborales en empresas de personas jóvenes con titulación y sin experiencia profesional, dentro del Proyecto “Cataliza VIII: Plan de fomento de la inserción laboral guiada a través de prácticas no laborales en empresas”.",
-      "source": "BOC — Otras resoluciones",
-      "source_type": "OFICIAL",
-      "source_label": "BOC",
-      "published": "2026-10-04T22:00:00+00:00",
-      "categories": [
-        "Canarias",
-        "Las Palmas",
-        "Empleo"
-      ],
-      "type": "noticia",
-      "summary": "III. Otras Resoluciones - Consejería de Turismo y Empleo 3431 Servicio Canario de Empleo.- Resolución de 23 de septiembre de 2026, del Secretario General, por la que se ordena la publicación de la Declaración de Adhesión al Convenio Marco de Colaboración suscrito entre el Servicio Canario de Empleo, la Fundación Canaria Universitaria de Las Palmas y la Confe",
-      "what_happened": "III. Otras Resoluciones - Consejería de Turismo y Empleo 3431 Servicio Canario de Empleo.- Resolución de 23 de septiembre de 2026, del Secretario General, por la que se ordena la publicación de la Declaración de Adhesión al Convenio Marco de Colaboración suscrito entre el Servicio Canario de Empleo, la Fundación Canaria Universitaria de Las Palmas y la Confederación Canaria de Empresarios, correspondiente a la empresa Enrique Guerra Jiménez, para la realización de prácticas no laborales en empresas de personas jóvenes con titulación y sin experiencia profesional, dentro del Proyecto “Cataliza VIII: Plan de fomento de la inserción laboral guiada a través de prácticas no laborales en empresas”",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/199/014.html",
       "pin": false
     },
     {
