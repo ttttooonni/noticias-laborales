@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-10-19T01:20+00:00",
+  "updated_at": "2026-10-19T07:50+00:00",
   "items": [
+    {
+      "id": "boe-a-2026-21756",
+      "title": "Resolución de 6 de octubre de 2026, de la Dirección General de Trabajo, por la que se registra y publica el I Convenio colectivo de trabajo de Carglass, SLU.",
+      "source": "BOE — Convenios colectivos",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-10-18T22:00:00+00:00",
+      "categories": [
+        "Convenios"
+      ],
+      "type": "noticia",
+      "summary": "Ministerio de Trabajo y Economía Social - Publicado el 19/10/2026 - Referencia: BOE-A-2026-21756",
+      "what_happened": "Ministerio de Trabajo y Economía Social - Publicado el 19/10/2026 - Referencia: BOE-A-2026-21756",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21756"
+    },
+    {
+      "id": "boe-a-2026-21755",
+      "title": "Orden EFD/1095/2026, de 9 de octubre, por la que se establece la equivalencia entre determinados estudios del sistema educativo andorrano con los correspondientes de formación profesional del sistema educativo español.",
+      "source": "BOE — Trabajo y empleo",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-10-18T22:00:00+00:00",
+      "categories": [
+        "Derechos laborales"
+      ],
+      "type": "noticia",
+      "summary": "Ministerio de Educación, Formación Profesional y Deportes - Publicado el 19/10/2026 - Referencia: BOE-A-2026-21755",
+      "what_happened": "Ministerio de Educación, Formación Profesional y Deportes - Publicado el 19/10/2026 - Referencia: BOE-A-2026-21755",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21755"
+    },
     {
       "id": "6f4ef348ac495265",
       "title": "Dirección General de Trabajo.- Resolución de 5 de octubre de 2026, por la que se procede a la designación de Árbitro para los procedimientos de reclamación en materia de elección de la representación legal de los trabajadores en el ámbito de la Comunidad Autónoma de Canarias.",
@@ -39,6 +75,24 @@
       "ugt_position": "",
       "url": "https://gobiernodecanarias.org/boc/2026/208/004.html",
       "pin": false
+    },
+    {
+      "id": "boe-a-2026-21619",
+      "title": "Enmiendas de 2024 al Anexo del Convenio internacional sobre normas de formación, titulación y guardia para el personal de los buques pesqueros, 1995 Anexo revisado del Convenio de formación para pescadores de 1995, adoptadas en Londres el 23 de mayo de 2024 por Resolución MSC.561(108), y Código sobre normas de formación, titulación y guardia para el personal de los buques pesqueros (Código de formación para pescadores) adoptado en Londres el 23 de mayo de 2024 por Resolución MSC.562(108).",
+      "source": "BOE — Trabajo y empleo",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-10-16T22:00:00+00:00",
+      "categories": [
+        "Derechos laborales"
+      ],
+      "type": "noticia",
+      "summary": "Ministerio de Asuntos Exteriores, Unión Europea y Cooperación - Publicado el 17/10/2026 - Referencia: BOE-A-2026-21619",
+      "what_happened": "Ministerio de Asuntos Exteriores, Unión Europea y Cooperación - Publicado el 17/10/2026 - Referencia: BOE-A-2026-21619",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21619"
     },
     {
       "id": "71913a10c54e136a",
