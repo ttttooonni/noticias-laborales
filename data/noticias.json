@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T07:50+00:00",
+  "updated_at": "2026-10-19T15:40+00:00",
   "items": [
     {
       "id": "boe-a-2026-21756",
@@ -17,7 +17,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21756"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21756",
+      "pin": false
     },
     {
       "id": "boe-a-2026-21755",
@@ -35,7 +36,26 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21755"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21755",
+      "pin": false
+    },
+    {
+      "id": "b57428e8d61b27d1",
+      "title": "Corrección de errores de la Directiva (UE) 2025/2450 del Parlamento Europeo y del Consejo, de 26 de noviembre de 2025, por la que se modifica la Directiva 2009/38/CE en lo que se refiere a la constitución y al funcionamiento de los comités de empresa europeos y a la aplicación efectiva de los derechos de información y consulta transnacional.",
+      "source": "BOE — Trabajo y empleo",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-10-18T22:00:00+00:00",
+      "categories": [
+        "Derechos laborales"
+      ],
+      "type": "noticia",
+      "summary": "Unión Europea - Publicado el 19/10/2026 - Referencia: DOUE-L-2026-81604",
+      "what_happened": "Unión Europea - Publicado el 19/10/2026 - Referencia: DOUE-L-2026-81604",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://boe.es/buscar/doc.php?id=DOUE-L-2026-81604"
     },
     {
       "id": "6f4ef348ac495265",
@@ -92,7 +112,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21619"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21619",
+      "pin": false
     },
     {
       "id": "71913a10c54e136a",
