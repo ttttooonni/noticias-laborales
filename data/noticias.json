@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T23:16+00:00",
+  "updated_at": "2026-10-19T01:20+00:00",
   "items": [
     {
       "id": "6f4ef348ac495265",
@@ -17,7 +17,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/208/003.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/208/003.html",
+      "pin": false
     },
     {
       "id": "a9e9099fa56e6f97",
@@ -36,7 +37,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/208/004.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/208/004.html",
+      "pin": false
     },
     {
       "id": "71913a10c54e136a",
@@ -51,11 +53,12 @@
       ],
       "type": "noticia",
       "summary": "III. Otras Resoluciones - Consejería de Turismo y Empleo 3576 Servicio Canario de Empleo.- Resolución de 5 de octubre de 2026, del Secretario General, por la que se ordena la publicación de la Declaración de Adhesión al Convenio Marco de Colaboración suscrito entre el Servicio Canario de Empleo, la Fundación Canaria General Universidad de La Laguna y la Conf",
-      "what_happened": "III. Otras Resoluciones - Consejería de Turismo y Empleo 3576 Servicio Canario de Empleo.- Resolución de 5 de octubre de 2026, del Secretario General, por la que se ordena la publicación de la Declaración de Adhesión al Convenio Marco de Colaboración suscrito entre el Servicio Canario de Empleo, la Fundación Canaria General Universidad de La Laguna y la Confederación Provincial de Empresarios de Santa Cruz de Tenerife (CEOE-Tenerife), correspondiente a la empresa David Acosta Espeleta, para la realización de prácticas no laborales en empresas de personas jóvenes con titulación y sin experiencia profesional, dentro del proyecto “Cataliza VIII: Plan de fomento de la inserción laboral guiada a ",
+      "what_happened": "III. Otras Resoluciones - Consejería de Turismo y Empleo 3576 Servicio Canario de Empleo.- Resolución de 5 de octubre de 2026, del Secretario General, por la que se ordena la publicación de la Declaración de Adhesión al Convenio Marco de Colaboración suscrito entre el Servicio Canario de Empleo, la Fundación Canaria General Universidad de La Laguna y la Confederación Provincial de Empresarios de Santa Cruz de Tenerife (CEOE-Tenerife), correspondiente a la empresa David Acosta Espeleta, para la realización de prácticas no laborales en empresas de personas jóvenes con titulación y sin experiencia profesional, dentro del proyecto “Cataliza VIII: Plan de fomento de la inserción laboral guiada a",
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/207/009.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/207/009.html",
+      "pin": false
     },
     {
       "id": "cdde60ebb6458ba4",
