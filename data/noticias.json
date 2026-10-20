@@ -1,6 +1,25 @@
 {
-  "updated_at": "2026-10-20T06:04+00:00",
+  "updated_at": "2026-10-20T11:43+00:00",
   "items": [
+    {
+      "id": "a1f23bda28d5a745",
+      "title": "Empleo crea listas extraordinarias para facilitar la contratación de docentes en programas de formación",
+      "source": "Gobierno de Canarias — Turismo y Empleo",
+      "source_type": "OFICIAL",
+      "source_label": "CANARIAS",
+      "published": "2026-10-20T08:29:42+00:00",
+      "categories": [
+        "Canarias",
+        "Empleo"
+      ],
+      "type": "noticia",
+      "summary": "La medida busca agilizar la incorporación de personal a los Programas de Formación en Alternancia con el Empleo, cuya ejecución se ha visto dificultada por las limitaciones derivadas de la normativa estatal La Consejería de Turismo y Empleo del Gobierno de Canarias, a través del Servicio Canario de Empleo (SCE), ha aprobado la creación de […]",
+      "what_happened": "La medida busca agilizar la incorporación de personal a los Programas de Formación en Alternancia con el Empleo, cuya ejecución se ha visto dificultada por las limitaciones derivadas de la normativa estatal La Consejería de Turismo y Empleo del Gobierno de Canarias, a través del Servicio Canario de Empleo (SCE), ha aprobado la creación de […]",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www3.gobiernodecanarias.org/noticias/empleo-crea-listas-extraordinarias-para-facilitar-la-contratacion-de-docentes-en-programas-de-formacion"
+    },
     {
       "id": "boe-a-2026-21788",
       "title": "Resolución de 16 de octubre de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 25/2026, de 29 de septiembre, por el que se adoptan y se prorrogan determinadas medidas en el marco del Plan Integral de Respuesta a la Crisis en Oriente Medio.",
@@ -17,7 +36,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21788"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21788",
+      "pin": false
     },
     {
       "id": "boe-a-2026-21756",
