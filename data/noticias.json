@@ -1,6 +1,25 @@
 {
-  "updated_at": "2026-10-21T04:54+00:00",
+  "updated_at": "2026-10-21T10:13+00:00",
   "items": [
+    {
+      "id": "boe-a-2026-21872",
+      "title": "Real Decreto-ley 31/2026, de 20 de octubre, para la mejora de la acción protectora de la Seguridad Social y de otras normas sociales.",
+      "source": "BOE — Seguridad Social",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-10-20T22:00:00+00:00",
+      "categories": [
+        "Derechos laborales"
+      ],
+      "type": "noticia",
+      "summary": "Jefatura del Estado - Publicado el 21/10/2026 - Referencia: BOE-A-2026-21872",
+      "what_happened": "Jefatura del Estado - Publicado el 21/10/2026 - Referencia: BOE-A-2026-21872",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21872",
+      "pin": false
+    },
     {
       "id": "d593992dc1b63ea8",
       "title": "Dirección General de Formación Profesional y Enseñanzas de Régimen Especial.- Resolución de 6 de octubre de 2026, por la que se establece el procedimiento para la certificación académica de la formación específica en prevención de riesgos laborales asociada al perfil profesional de los diferentes títulos de las ofertas de Formación Profesional de Grado D.",
