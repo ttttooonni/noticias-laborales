@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T10:15+00:00",
+  "updated_at": "2026-10-22T15:19+00:00",
   "items": [
     {
       "id": "8f874bdada0a0179",
@@ -759,6 +759,11 @@
   ],
   "health": {
     "sources_checked": 7,
-    "failures": []
+    "failures": [
+      {
+        "source": "Gobierno de Canarias — Turismo y Empleo",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ]
   }
 }
