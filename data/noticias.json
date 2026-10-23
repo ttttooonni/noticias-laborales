@@ -1,6 +1,62 @@
 {
-  "updated_at": "2026-10-23T01:33+00:00",
+  "updated_at": "2026-10-23T07:35+00:00",
   "items": [
+    {
+      "id": "8c4ac9c36e73d35e",
+      "title": "UGT Canarias y CCOO Canarias llaman a la huelga general del 11 de noviembre para reclamar vivienda asequible, mejores salarios y más derechos laborales",
+      "source": "UGT Canarias — Noticias",
+      "source_type": "UGT",
+      "source_label": "UGT CANARIAS",
+      "published": "2026-10-23T03:20:13+00:00",
+      "categories": [
+        "UGT",
+        "Canarias",
+        "Salarios"
+      ],
+      "type": "noticia",
+      "summary": "UGT y CCOO llaman a los canarios y canarias a secundar la huelga general del próximo 11 de noviembre para reclamar una vivienda asequible, mejores salarios y más derechos laborales. Una acción que llega como medida de presión social “justa y necesaria” ante una situación que dificulta cada vez más el acceso a la vivienda digna, reduce el poder adquisitivo de",
+      "what_happened": "UGT y CCOO llaman a los canarios y canarias a secundar la huelga general del próximo 11 de noviembre para reclamar una vivienda asequible, mejores salarios y más derechos laborales. Una acción que llega como medida de presión social “justa y necesaria” ante una situación que dificulta cada vez más el acceso a la vivienda digna, reduce el poder adquisitivo de las familias y frena los derechos laborales y sociales.",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://canarias.ugt.org/index.php/noticias/ugt-canarias-y-ccoo-canarias-llaman-a-la-huelga-general-del-11-de-noviembre-para-reclamar-vivienda-asequible-mejores-salarios-y-mas-derechos-laborales"
+    },
+    {
+      "id": "boe-a-2026-22081",
+      "title": "Real Decreto 847/2026, de 21 de octubre, por el que se establecen las disposiciones mínimas de seguridad y salud aplicables a los trabajos con riesgo de exposición al amianto.",
+      "source": "BOE — Trabajo y empleo",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-10-22T22:00:00+00:00",
+      "categories": [
+        "Derechos laborales"
+      ],
+      "type": "noticia",
+      "summary": "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes - Publicado el 23/10/2026 - Referencia: BOE-A-2026-22081",
+      "what_happened": "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes - Publicado el 23/10/2026 - Referencia: BOE-A-2026-22081",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22081"
+    },
+    {
+      "id": "boe-a-2026-22080",
+      "title": "Real Decreto 846/2026, de 21 de octubre, por el que se modifican el Real Decreto 665/1997, de 12 de mayo, sobre la protección de los trabajadores contra los riesgos relacionados con la exposición a agentes cancerígenos, mutágenos o reprotóxicos durante el trabajo, y el Real Decreto 374/2001, de 6 de abril, sobre la protección de la salud y seguridad de los trabajadores contra los riesgos relacionados con los agentes químicos durante el trabajo.",
+      "source": "BOE — Trabajo y empleo",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-10-22T22:00:00+00:00",
+      "categories": [
+        "Derechos laborales"
+      ],
+      "type": "noticia",
+      "summary": "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes - Publicado el 23/10/2026 - Referencia: BOE-A-2026-22080",
+      "what_happened": "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes - Publicado el 23/10/2026 - Referencia: BOE-A-2026-22080",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22080"
+    },
     {
       "id": "cb8003700800dd4f",
       "title": "Servicio Canario de Empleo.- Resolución de 13 de octubre de 2026, de la Directora, por la que se acuerda aplicar la tramitación de urgencia a la convocatoria de concesión, en régimen de concurrencia competitiva, de subvenciones dirigidas a la financiación de inversiones realizadas por empresas de economía social en el ámbito de la Comunidad Autónoma de Canarias, reguladas mediante Orden de 4 de septiembre de 2026, correspondiente al ejercicio 2026.",
@@ -18,7 +74,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/213/019.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/213/019.html",
+      "pin": false
     },
     {
       "id": "bb31d29a8fb8e8e5",
@@ -37,7 +94,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/213/020.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/213/020.html",
+      "pin": false
     },
     {
       "id": "8f874bdada0a0179",
@@ -724,10 +782,6 @@
       {
         "source": "Gobierno de Canarias — Turismo y Empleo",
         "error": "HTTP Error 404: Not Found"
-      },
-      {
-        "source": "UGT Canarias — Noticias",
-        "error": "HTTP Error 415: Unsupported Media Type"
       }
     ]
   }
