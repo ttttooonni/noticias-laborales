@@ -1,6 +1,44 @@
 {
-  "updated_at": "2026-10-22T22:24+00:00",
+  "updated_at": "2026-10-23T01:33+00:00",
   "items": [
+    {
+      "id": "cb8003700800dd4f",
+      "title": "Servicio Canario de Empleo.- Resolución de 13 de octubre de 2026, de la Directora, por la que se acuerda aplicar la tramitación de urgencia a la convocatoria de concesión, en régimen de concurrencia competitiva, de subvenciones dirigidas a la financiación de inversiones realizadas por empresas de economía social en el ámbito de la Comunidad Autónoma de Canarias, reguladas mediante Orden de 4 de septiembre de 2026, correspondiente al ejercicio 2026.",
+      "source": "BOC — Otras resoluciones",
+      "source_type": "OFICIAL",
+      "source_label": "BOC",
+      "published": "2026-10-22T22:00:00+00:00",
+      "categories": [
+        "Canarias",
+        "Empleo"
+      ],
+      "type": "noticia",
+      "summary": "III. Otras Resoluciones - Consejería de Turismo y Empleo 3669 Servicio Canario de Empleo.- Resolución de 13 de octubre de 2026, de la Directora, por la que se acuerda aplicar la tramitación de urgencia a la convocatoria de concesión, en régimen de concurrencia competitiva, de subvenciones dirigidas a la financiación de inversiones realizadas por empresas de ",
+      "what_happened": "III. Otras Resoluciones - Consejería de Turismo y Empleo 3669 Servicio Canario de Empleo.- Resolución de 13 de octubre de 2026, de la Directora, por la que se acuerda aplicar la tramitación de urgencia a la convocatoria de concesión, en régimen de concurrencia competitiva, de subvenciones dirigidas a la financiación de inversiones realizadas por empresas de economía social en el ámbito de la Comunidad Autónoma de Canarias, reguladas mediante Orden de 4 de septiembre de 2026, correspondiente al ejercicio 2026. CVE: BOC-A-2026-213-3669 Firma electrónica: Descargar",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://gobiernodecanarias.org/boc/2026/213/019.html"
+    },
+    {
+      "id": "bb31d29a8fb8e8e5",
+      "title": "Servicio Canario de Empleo.- Resolución de 9 de octubre de 2026, del Secretario General, por la que se ordena la publicación de la Declaración de Adhesión al Convenio Marco de Colaboración suscrito entre el Servicio Canario de Empleo, la Fundación Canaria General Universidad de La Laguna y la Confederación Provincial de Empresarios de Santa Cruz de Tenerife (CEOE-Tenerife) para la realización de prácticas no laborales en empresas de personas jóvenes con titulación y sin experiencia profesional, dentro del Proyecto “Cataliza VIII: Plan de fomento de la inserción laboral guiada a través de prácticas no laborales en empresas”, así como la relación de empresas adheridas al mismo con fecha 9 de octubre de 2026.",
+      "source": "BOC — Otras resoluciones",
+      "source_type": "OFICIAL",
+      "source_label": "BOC",
+      "published": "2026-10-22T22:00:00+00:00",
+      "categories": [
+        "Canarias",
+        "Empleo"
+      ],
+      "type": "noticia",
+      "summary": "III. Otras Resoluciones - Consejería de Turismo y Empleo 3670 Servicio Canario de Empleo.- Resolución de 9 de octubre de 2026, del Secretario General, por la que se ordena la publicación de la Declaración de Adhesión al Convenio Marco de Colaboración suscrito entre el Servicio Canario de Empleo, la Fundación Canaria General Universidad de La Laguna y la Conf",
+      "what_happened": "III. Otras Resoluciones - Consejería de Turismo y Empleo 3670 Servicio Canario de Empleo.- Resolución de 9 de octubre de 2026, del Secretario General, por la que se ordena la publicación de la Declaración de Adhesión al Convenio Marco de Colaboración suscrito entre el Servicio Canario de Empleo, la Fundación Canaria General Universidad de La Laguna y la Confederación Provincial de Empresarios de Santa Cruz de Tenerife (CEOE-Tenerife) para la realización de prácticas no laborales en empresas de personas jóvenes con titulación y sin experiencia profesional, dentro del Proyecto “Cataliza VIII: Plan de fomento de la inserción laboral guiada a través de prácticas no laborales en empresas”, así co",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://gobiernodecanarias.org/boc/2026/213/020.html"
+    },
     {
       "id": "8f874bdada0a0179",
       "title": "RESOLUCIÓN de 7 de octubre de 2026, por la que se ordena la publicación de la modificación puntual de la relación de puestos de trabajo del Personal Técnico, de Gestión y de Administración y Servicios funcionario del Consejo Social de la Universidad de La Laguna.",
@@ -686,6 +724,10 @@
       {
         "source": "Gobierno de Canarias — Turismo y Empleo",
         "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "source": "UGT Canarias — Noticias",
+        "error": "HTTP Error 415: Unsupported Media Type"
       }
     ]
   }
