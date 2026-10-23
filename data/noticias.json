@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T07:35+00:00",
+  "updated_at": "2026-10-23T13:29+00:00",
   "items": [
     {
       "id": "8c4ac9c36e73d35e",
@@ -19,7 +19,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://canarias.ugt.org/index.php/noticias/ugt-canarias-y-ccoo-canarias-llaman-a-la-huelga-general-del-11-de-noviembre-para-reclamar-vivienda-asequible-mejores-salarios-y-mas-derechos-laborales"
+      "url": "https://canarias.ugt.org/index.php/noticias/ugt-canarias-y-ccoo-canarias-llaman-a-la-huelga-general-del-11-de-noviembre-para-reclamar-vivienda-asequible-mejores-salarios-y-mas-derechos-laborales",
+      "pin": false
     },
     {
       "id": "boe-a-2026-22081",
@@ -37,7 +38,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22081"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22081",
+      "pin": false
     },
     {
       "id": "boe-a-2026-22080",
@@ -55,7 +57,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22080"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22080",
+      "pin": false
     },
     {
       "id": "cb8003700800dd4f",
@@ -778,11 +781,6 @@
   ],
   "health": {
     "sources_checked": 7,
-    "failures": [
-      {
-        "source": "Gobierno de Canarias — Turismo y Empleo",
-        "error": "HTTP Error 404: Not Found"
-      }
-    ]
+    "failures": []
   }
 }
