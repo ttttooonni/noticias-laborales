@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-10-24T00:45+00:00",
+  "updated_at": "2026-10-24T05:56+00:00",
   "items": [
+    {
+      "id": "boe-a-2026-22282",
+      "title": "Resolución de 15 de octubre de 2026, de la Dirección General de Trabajo, por la que se registra y publica el VIII Convenio colectivo de Grupo Generali España.",
+      "source": "BOE — Convenios colectivos",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-10-23T22:00:00+00:00",
+      "categories": [
+        "Convenios"
+      ],
+      "type": "noticia",
+      "summary": "Ministerio de Trabajo y Economía Social - Publicado el 24/10/2026 - Referencia: BOE-A-2026-22282",
+      "what_happened": "Ministerio de Trabajo y Economía Social - Publicado el 24/10/2026 - Referencia: BOE-A-2026-22282",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22282"
+    },
     {
       "id": "8c4ac9c36e73d35e",
       "title": "UGT Canarias y CCOO Canarias llaman a la huelga general del 11 de noviembre para reclamar vivienda asequible, mejores salarios y más derechos laborales",
@@ -781,11 +799,6 @@
   ],
   "health": {
     "sources_checked": 7,
-    "failures": [
-      {
-        "source": "UGT Canarias — Noticias",
-        "error": "HTTP Error 415: Unsupported Media Type"
-      }
-    ]
+    "failures": []
   }
 }
