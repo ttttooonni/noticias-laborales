@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T05:56+00:00",
+  "updated_at": "2026-10-24T11:07+00:00",
   "items": [
     {
       "id": "boe-a-2026-22282",
@@ -17,7 +17,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22282"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22282",
+      "pin": false
     },
     {
       "id": "8c4ac9c36e73d35e",
