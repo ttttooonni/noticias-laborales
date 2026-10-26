@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T19:23+00:00",
+  "updated_at": "2026-10-26T23:55+00:00",
   "items": [
     {
       "id": "acab936a6da4de06",
@@ -18,7 +18,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www3.gobiernodecanarias.org/noticias/hecansa-ejecuta-mas-del-73-de-los-fondos-next-generation-en-formacion-y-mejoras-de-infraestructuras"
+      "url": "https://www3.gobiernodecanarias.org/noticias/hecansa-ejecuta-mas-del-73-de-los-fondos-next-generation-en-formacion-y-mejoras-de-infraestructuras",
+      "pin": false
     },
     {
       "id": "boe-a-2026-22425",
@@ -624,66 +625,6 @@
       "impact": "",
       "ugt_position": "",
       "url": "https://gobiernodecanarias.org/boc/2026/205/008.html",
-      "pin": false
-    },
-    {
-      "id": "boe-a-2026-21254",
-      "title": "Resolución de 8 de octubre de 2026, de la Dirección General de Trabajo, por la que se publica relación de fiestas laborales para el año 2027.",
-      "source": "BOE — Trabajo y empleo",
-      "source_type": "OFICIAL",
-      "source_label": "FUENTE OFICIAL",
-      "published": "2026-10-12T22:00:00+00:00",
-      "categories": [
-        "Derechos laborales"
-      ],
-      "type": "noticia",
-      "summary": "Ministerio de Trabajo y Economía Social - Publicado el 13/10/2026 - Referencia: BOE-A-2026-21254",
-      "what_happened": "Ministerio de Trabajo y Economía Social - Publicado el 13/10/2026 - Referencia: BOE-A-2026-21254",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21254",
-      "pin": false
-    },
-    {
-      "id": "080a0e52c360bd81",
-      "title": "Dirección General de Juventud.- Resolución de 30 de septiembre de 2026, por la que se determina, con carácter definitivo, el resultado de la convocatoria efectuada para la concesión, en el año 2026, de subvenciones destinadas a financiar la contratación laboral de personas jóvenes desempleadas para la obtención de una práctica profesional, vinculada a la realización de proyectos de interés publico y social destinados a la juventud en la Comunidad Autónoma de Canarias, susceptibles de estar cofinanciadas por el Fondo Social Europeo Plus en el ámbito del nuevo marco financiero plurianual para el periodo 2021-2027 (Fondo Social Europeo Plus FSE+).",
-      "source": "BOC — Otras resoluciones",
-      "source_type": "OFICIAL",
-      "source_label": "BOC",
-      "published": "2026-10-12T22:00:00+00:00",
-      "categories": [
-        "Canarias",
-        "Empleo"
-      ],
-      "type": "noticia",
-      "summary": "III. Otras Resoluciones - Consejería de Bienestar Social, Igualdad, Juventud, Infancia y Familias 3518 Dirección General de Juventud.- Resolución de 30 de septiembre de 2026, por la que se determina, con carácter definitivo, el resultado de la convocatoria efectuada para la concesión, en el año 2026, de subvenciones destinadas a financiar la contratación lab",
-      "what_happened": "III. Otras Resoluciones - Consejería de Bienestar Social, Igualdad, Juventud, Infancia y Familias 3518 Dirección General de Juventud.- Resolución de 30 de septiembre de 2026, por la que se determina, con carácter definitivo, el resultado de la convocatoria efectuada para la concesión, en el año 2026, de subvenciones destinadas a financiar la contratación laboral de personas jóvenes desempleadas para la obtención de una práctica profesional, vinculada a la realización de proyectos de interés publico y social destinados a la juventud en la Comunidad Autónoma de Canarias, susceptibles de estar cofinanciadas por el Fondo Social Europeo Plus en el ámbito del nuevo marco financiero plurianual para",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/204/009.html",
-      "pin": false
-    },
-    {
-      "id": "33600538683bdca7",
-      "title": "Dirección General de Ordenación del Territorio y Cohesión Territorial.- Resolución de 30 de septiembre de 2026, por la que se ordena la publicación del Convenio entre la Consejería de Política Territorial, Cohesión Territorial y Aguas y el Ayuntamiento de La Oliva para la ejecución del “Proyecto de ejecución de restauración del SAU-8 Costa del Faro” como medida compensatoria 2.2 de la evaluación de impacto ambiental ex post del proyecto de urbanización de la UA-12 Casas de Majanicho, en el término municipal de La Oliva, Fuerteventura.",
-      "source": "BOC — Otras resoluciones",
-      "source_type": "OFICIAL",
-      "source_label": "BOC",
-      "published": "2026-10-12T22:00:00+00:00",
-      "categories": [
-        "Canarias",
-        "Las Palmas",
-        "Hostelería"
-      ],
-      "type": "noticia",
-      "summary": "III. Otras Resoluciones - Consejería de Política Territorial, Cohesión Territorial y Aguas 3520 Dirección General de Ordenación del Territorio y Cohesión Territorial.- Resolución de 30 de septiembre de 2026, por la que se ordena la publicación del Convenio entre la Consejería de Política Territorial, Cohesión Territorial y Aguas y el Ayuntamiento de La Oliva",
-      "what_happened": "III. Otras Resoluciones - Consejería de Política Territorial, Cohesión Territorial y Aguas 3520 Dirección General de Ordenación del Territorio y Cohesión Territorial.- Resolución de 30 de septiembre de 2026, por la que se ordena la publicación del Convenio entre la Consejería de Política Territorial, Cohesión Territorial y Aguas y el Ayuntamiento de La Oliva para la ejecución del “Proyecto de ejecución de restauración del SAU-8 Costa del Faro” como medida compensatoria 2.2 de la evaluación de impacto ambiental ex post del proyecto de urbanización de la UA-12 Casas de Majanicho, en el término municipal de La Oliva, Fuerteventura. CVE: BOC-A-2026-204-3520 Firma electrónica: Descargar",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/204/011.html",
       "pin": false
     },
     {
