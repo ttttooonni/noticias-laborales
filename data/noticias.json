@@ -1,6 +1,25 @@
 {
-  "updated_at": "2026-10-26T13:17+00:00",
+  "updated_at": "2026-10-26T19:23+00:00",
   "items": [
+    {
+      "id": "acab936a6da4de06",
+      "title": "Hecansa ejecuta más del 73% de los Fondos Next Generation en formación y mejoras de infraestructuras",
+      "source": "Gobierno de Canarias — Turismo y Empleo",
+      "source_type": "OFICIAL",
+      "source_label": "CANARIAS",
+      "published": "2026-10-26T14:57:05+00:00",
+      "categories": [
+        "Canarias",
+        "Hostelería"
+      ],
+      "type": "noticia",
+      "summary": "La empresa pública avanza en su Plan Estratégico 2025-2028, con la Formación Profesional Dual Intensiva y las acciones formativas en todas las islas como ejes de actuación Hoteles Escuela de Canarias (Hecansa), empresa pública adscrita a la Consejería de Turismo y Empleo del Gobierno de Canarias, ha ejecutado el 73,16% de los fondos europeos Next […]",
+      "what_happened": "La empresa pública avanza en su Plan Estratégico 2025-2028, con la Formación Profesional Dual Intensiva y las acciones formativas en todas las islas como ejes de actuación Hoteles Escuela de Canarias (Hecansa), empresa pública adscrita a la Consejería de Turismo y Empleo del Gobierno de Canarias, ha ejecutado el 73,16% de los fondos europeos Next […]",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www3.gobiernodecanarias.org/noticias/hecansa-ejecuta-mas-del-73-de-los-fondos-next-generation-en-formacion-y-mejoras-de-infraestructuras"
+    },
     {
       "id": "boe-a-2026-22425",
       "title": "Resolución de 15 de octubre de 2026, de la Dirección General de Trabajo, por la que se registra y publica el Acuerdo de modificación del Convenio colectivo de Unidades Globales de Telefónica en España.",
@@ -17,7 +36,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22425"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22425",
+      "pin": false
     },
     {
       "id": "boe-a-2026-22424",
@@ -35,7 +55,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22424"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22424",
+      "pin": false
     },
     {
       "id": "boe-a-2026-22282",
