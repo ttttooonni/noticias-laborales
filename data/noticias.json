@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-10-28T08:37+00:00",
+  "updated_at": "2026-10-28T16:06+00:00",
   "items": [
+    {
+      "id": "e3a470d7048ff5d6",
+      "title": "Hecansa se adelanta a Los Finaos con demostraciones de pastelería y menús especiales en sus hoteles escuela",
+      "source": "Gobierno de Canarias — Turismo y Empleo",
+      "source_type": "OFICIAL",
+      "source_label": "CANARIAS",
+      "published": "2026-10-28T10:10:38+00:00",
+      "categories": [
+        "Canarias",
+        "Las Palmas",
+        "Hostelería"
+      ],
+      "type": "noticia",
+      "summary": "El Hotel Escuela Santa Cruz ofrece hoy una masterclass de pastelería y un menú degustación inspirado en esta tradición canaria. La actividad se repetirá el viernes en Santa Brígida, en Gran Canaria Hoteles Escuela de Canarias (Hecansa), empresa pública adscrita a la Consejería de Turismo y Empleo del Gobierno de Canarias, celebra hoy en el […]",
+      "what_happened": "El Hotel Escuela Santa Cruz ofrece hoy una masterclass de pastelería y un menú degustación inspirado en esta tradición canaria. La actividad se repetirá el viernes en Santa Brígida, en Gran Canaria Hoteles Escuela de Canarias (Hecansa), empresa pública adscrita a la Consejería de Turismo y Empleo del Gobierno de Canarias, celebra hoy en el […]",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www3.gobiernodecanarias.org/noticias/hecansa-se-adelanta-a-los-finaos-con-demostraciones-de-pasteleria-y-menus-especiales-en-sus-hoteles-escuela"
+    },
     {
       "id": "boe-a-2026-22596",
       "title": "Resolución de 15 de octubre de 2026, de la Dirección General de Trabajo, por la que se registra y publica el VII Convenio colectivo de Nokia Transformation Engineering & Consulting Services Spain, SLU.",
@@ -17,7 +37,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22596"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22596",
+      "pin": false
     },
     {
       "id": "boe-a-2026-22595",
@@ -35,7 +56,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22595"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22595",
+      "pin": false
     },
     {
       "id": "f57c1d98c1d19036",
