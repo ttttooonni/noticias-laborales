@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T07:09+00:00",
+  "updated_at": "2026-10-29T14:24+00:00",
   "items": [
     {
       "id": "boe-a-2026-22679",
@@ -18,7 +18,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22679"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22679",
+      "pin": false
     },
     {
       "id": "boe-a-2026-22678",
@@ -36,7 +37,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22678"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22678",
+      "pin": false
     },
     {
       "id": "boe-a-2026-22677",
@@ -54,7 +56,44 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22677"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22677",
+      "pin": false
+    },
+    {
+      "id": "7374ae043f16f2e4",
+      "title": "Decisión (UE) 2026/2453 del Parlamento Europeo y del Consejo, de 7 de octubre de 2026, relativa a la movilización del Fondo Europeo de Adaptación a la Globalización para Trabajadores Despedidos en respuesta a una solicitud de España (EGF/2026/002 ES/Galicia automotive ancillary).",
+      "source": "BOE — Trabajo y empleo",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-10-28T23:00:00+00:00",
+      "categories": [
+        "Derechos laborales"
+      ],
+      "type": "noticia",
+      "summary": "Unión Europea - Publicado el 29/10/2026 - Referencia: DOUE-L-2026-81686",
+      "what_happened": "Unión Europea - Publicado el 29/10/2026 - Referencia: DOUE-L-2026-81686",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://boe.es/buscar/doc.php?id=DOUE-L-2026-81686"
+    },
+    {
+      "id": "boe-a-2026-22676",
+      "title": "Resolución de 23 de octubre de 2026, de la Dirección General de Transporte por Carretera y Ferrocarril, por la que se concretan las características que deben reunir los sistemas de control de acceso en los centros de formación para los conductores de determinados vehículos destinados al transporte por carretera.",
+      "source": "BOE — Trabajo y empleo",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-10-28T23:00:00+00:00",
+      "categories": [
+        "Derechos laborales"
+      ],
+      "type": "noticia",
+      "summary": "Ministerio de Transportes y Movilidad Sostenible - Publicado el 29/10/2026 - Referencia: BOE-A-2026-22676",
+      "what_happened": "Ministerio de Transportes y Movilidad Sostenible - Publicado el 29/10/2026 - Referencia: BOE-A-2026-22676",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22676"
     },
     {
       "id": "7d994f804b3bec75",
@@ -641,26 +680,6 @@
       "impact": "",
       "ugt_position": "",
       "url": "https://gobiernodecanarias.org/boc/2026/207/009.html",
-      "pin": false
-    },
-    {
-      "id": "cdde60ebb6458ba4",
-      "title": "Canarias registra 2.825 contratos a mujeres en ocupaciones rurales y reduce el paro en 408 personas",
-      "source": "Gobierno de Canarias — Turismo y Empleo",
-      "source_type": "OFICIAL",
-      "source_label": "CANARIAS",
-      "published": "2026-10-15T12:20:39+00:00",
-      "categories": [
-        "Canarias",
-        "Empleo"
-      ],
-      "type": "noticia",
-      "summary": "El informe del Observatorio Canario de Empleo analiza la evolución laboral de las mujeres entre enero y septiembre de 2026 y destaca las oportunidades de formación y contratación en la ganadería, el sector forestal y las actividades del mar La Consejería de Turismo y Empleo del Gobierno de Canarias analiza la evolución del empleo femenino […]",
-      "what_happened": "El informe del Observatorio Canario de Empleo analiza la evolución laboral de las mujeres entre enero y septiembre de 2026 y destaca las oportunidades de formación y contratación en la ganadería, el sector forestal y las actividades del mar La Consejería de Turismo y Empleo del Gobierno de Canarias analiza la evolución del empleo femenino […]",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://www3.gobiernodecanarias.org/noticias/canarias-registra-2-825-contratos-a-mujeres-en-ocupaciones-rurales-y-reduce-el-paro-en-408-personas",
       "pin": false
     },
     {
