@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T14:24+00:00",
+  "updated_at": "2026-10-29T20:20+00:00",
   "items": [
     {
       "id": "boe-a-2026-22679",
@@ -75,7 +75,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://boe.es/buscar/doc.php?id=DOUE-L-2026-81686"
+      "url": "https://boe.es/buscar/doc.php?id=DOUE-L-2026-81686",
+      "pin": false
     },
     {
       "id": "boe-a-2026-22676",
@@ -93,7 +94,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22676"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22676",
+      "pin": false
     },
     {
       "id": "7d994f804b3bec75",
