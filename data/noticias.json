@@ -1,6 +1,61 @@
 {
-  "updated_at": "2026-10-29T01:00+00:00",
+  "updated_at": "2026-10-29T07:09+00:00",
   "items": [
+    {
+      "id": "boe-a-2026-22679",
+      "title": "Resolución de 19 de octubre de 2026, de la Dirección General de Trabajo, por la que se registra y publica el Acuerdo de prórroga y aprobación de las tablas salariales para los años 2026, 2027 y 2028 del Convenio colectivo marco de la Unión General de Trabajadoras y Trabajadores 2021-2025.",
+      "source": "BOE — Convenios colectivos",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-10-28T23:00:00+00:00",
+      "categories": [
+        "Convenios",
+        "Salarios"
+      ],
+      "type": "noticia",
+      "summary": "Ministerio de Trabajo y Economía Social - Publicado el 29/10/2026 - Referencia: BOE-A-2026-22679",
+      "what_happened": "Ministerio de Trabajo y Economía Social - Publicado el 29/10/2026 - Referencia: BOE-A-2026-22679",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22679"
+    },
+    {
+      "id": "boe-a-2026-22678",
+      "title": "Resolución de 19 de octubre de 2026, de la Dirección General de Trabajo, por la que se registra y publica el Convenio colectivo de Unidad Editorial Información Económica, SL.",
+      "source": "BOE — Convenios colectivos",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-10-28T23:00:00+00:00",
+      "categories": [
+        "Convenios"
+      ],
+      "type": "noticia",
+      "summary": "Ministerio de Trabajo y Economía Social - Publicado el 29/10/2026 - Referencia: BOE-A-2026-22678",
+      "what_happened": "Ministerio de Trabajo y Economía Social - Publicado el 29/10/2026 - Referencia: BOE-A-2026-22678",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22678"
+    },
+    {
+      "id": "boe-a-2026-22677",
+      "title": "Resolución de 19 de octubre de 2026, de la Dirección General de Trabajo, por la que se registra y publica el Convenio colectivo de Unidad Editorial Información General, SL.",
+      "source": "BOE — Convenios colectivos",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-10-28T23:00:00+00:00",
+      "categories": [
+        "Convenios"
+      ],
+      "type": "noticia",
+      "summary": "Ministerio de Trabajo y Economía Social - Publicado el 29/10/2026 - Referencia: BOE-A-2026-22677",
+      "what_happened": "Ministerio de Trabajo y Economía Social - Publicado el 29/10/2026 - Referencia: BOE-A-2026-22677",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22677"
+    },
     {
       "id": "7d994f804b3bec75",
       "title": "Servicio Canario de Empleo.- Resolución de 16 de octubre de 2026, de la Presidenta, por la que se aprueban las bases reguladoras, se convocan subvenciones destinadas a la financiación de proyectos de formación en alternancia con el empleo-Garantía Juvenil, en régimen de concurrencia competitiva, para el ejercicio 2026, cofinanciadas al 85% por el Programa Fondo Social Europeo Plus 2021-2027 Canarias, y se acuerda su tramitación de urgencia.",
@@ -18,7 +73,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/217/011.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/217/011.html",
+      "pin": false
     },
     {
       "id": "e3a470d7048ff5d6",
