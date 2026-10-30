@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T01:04+00:00",
+  "updated_at": "2026-10-30T07:11+00:00",
   "items": [
     {
       "id": "a03edb75de02c1f6",
@@ -18,7 +18,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/218/004.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/218/004.html",
+      "pin": false
     },
     {
       "id": "a9ca29b6af892684",
@@ -37,7 +38,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/218/005.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/218/005.html",
+      "pin": false
     },
     {
       "id": "ec832370857b74a0",
@@ -57,7 +59,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/218/006.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/218/006.html",
+      "pin": false
     },
     {
       "id": "ab9eedbdd75d8b69",
@@ -77,7 +80,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/218/007.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/218/007.html",
+      "pin": false
     },
     {
       "id": "boe-a-2026-22679",
