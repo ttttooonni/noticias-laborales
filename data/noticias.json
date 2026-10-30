@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T14:14+00:00",
+  "updated_at": "2026-10-30T19:25+00:00",
   "items": [
     {
       "id": "ded4283d427d33b7",
@@ -18,7 +18,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www3.gobiernodecanarias.org/noticias/empleo-destina-71-millones-a-la-nueva-convocatoria-de-proyectos-de-garantia-juvenil"
+      "url": "https://www3.gobiernodecanarias.org/noticias/empleo-destina-71-millones-a-la-nueva-convocatoria-de-proyectos-de-garantia-juvenil",
+      "pin": false
     },
     {
       "id": "d4f5ad9c5f152725",
@@ -36,7 +37,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://boe.es/buscar/doc.php?id=DOUE-L-2026-81697"
+      "url": "https://boe.es/buscar/doc.php?id=DOUE-L-2026-81697",
+      "pin": false
     },
     {
       "id": "a03edb75de02c1f6",
