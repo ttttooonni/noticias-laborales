@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T19:43+00:00",
+  "updated_at": "2026-11-01T23:38+00:00",
   "items": [
     {
       "id": "ded4283d427d33b7",
@@ -668,102 +668,6 @@
       "impact": "",
       "ugt_position": "",
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21788",
-      "pin": false
-    },
-    {
-      "id": "boe-a-2026-21756",
-      "title": "Resolución de 6 de octubre de 2026, de la Dirección General de Trabajo, por la que se registra y publica el I Convenio colectivo de trabajo de Carglass, SLU.",
-      "source": "BOE — Convenios colectivos",
-      "source_type": "OFICIAL",
-      "source_label": "FUENTE OFICIAL",
-      "published": "2026-10-18T22:00:00+00:00",
-      "categories": [
-        "Convenios"
-      ],
-      "type": "noticia",
-      "summary": "Ministerio de Trabajo y Economía Social - Publicado el 19/10/2026 - Referencia: BOE-A-2026-21756",
-      "what_happened": "Ministerio de Trabajo y Economía Social - Publicado el 19/10/2026 - Referencia: BOE-A-2026-21756",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21756",
-      "pin": false
-    },
-    {
-      "id": "boe-a-2026-21755",
-      "title": "Orden EFD/1095/2026, de 9 de octubre, por la que se establece la equivalencia entre determinados estudios del sistema educativo andorrano con los correspondientes de formación profesional del sistema educativo español.",
-      "source": "BOE — Trabajo y empleo",
-      "source_type": "OFICIAL",
-      "source_label": "FUENTE OFICIAL",
-      "published": "2026-10-18T22:00:00+00:00",
-      "categories": [
-        "Derechos laborales"
-      ],
-      "type": "noticia",
-      "summary": "Ministerio de Educación, Formación Profesional y Deportes - Publicado el 19/10/2026 - Referencia: BOE-A-2026-21755",
-      "what_happened": "Ministerio de Educación, Formación Profesional y Deportes - Publicado el 19/10/2026 - Referencia: BOE-A-2026-21755",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21755",
-      "pin": false
-    },
-    {
-      "id": "b57428e8d61b27d1",
-      "title": "Corrección de errores de la Directiva (UE) 2025/2450 del Parlamento Europeo y del Consejo, de 26 de noviembre de 2025, por la que se modifica la Directiva 2009/38/CE en lo que se refiere a la constitución y al funcionamiento de los comités de empresa europeos y a la aplicación efectiva de los derechos de información y consulta transnacional.",
-      "source": "BOE — Trabajo y empleo",
-      "source_type": "OFICIAL",
-      "source_label": "FUENTE OFICIAL",
-      "published": "2026-10-18T22:00:00+00:00",
-      "categories": [
-        "Derechos laborales"
-      ],
-      "type": "noticia",
-      "summary": "Unión Europea - Publicado el 19/10/2026 - Referencia: DOUE-L-2026-81604",
-      "what_happened": "Unión Europea - Publicado el 19/10/2026 - Referencia: DOUE-L-2026-81604",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://boe.es/buscar/doc.php?id=DOUE-L-2026-81604",
-      "pin": false
-    },
-    {
-      "id": "6f4ef348ac495265",
-      "title": "Dirección General de Trabajo.- Resolución de 5 de octubre de 2026, por la que se procede a la designación de Árbitro para los procedimientos de reclamación en materia de elección de la representación legal de los trabajadores en el ámbito de la Comunidad Autónoma de Canarias.",
-      "source": "BOC — Otras resoluciones",
-      "source_type": "OFICIAL",
-      "source_label": "BOC",
-      "published": "2026-10-18T22:00:00+00:00",
-      "categories": [
-        "Canarias"
-      ],
-      "type": "noticia",
-      "summary": "III. Otras Resoluciones - Consejería de Turismo y Empleo 3591 Dirección General de Trabajo.- Resolución de 5 de octubre de 2026, por la que se procede a la designación de Árbitro para los procedimientos de reclamación en materia de elección de la representación legal de los trabajadores en el ámbito de la Comunidad Autónoma de Canarias. CVE: BOC-A-2026-208-3",
-      "what_happened": "III. Otras Resoluciones - Consejería de Turismo y Empleo 3591 Dirección General de Trabajo.- Resolución de 5 de octubre de 2026, por la que se procede a la designación de Árbitro para los procedimientos de reclamación en materia de elección de la representación legal de los trabajadores en el ámbito de la Comunidad Autónoma de Canarias. CVE: BOC-A-2026-208-3591 Firma electrónica: Descargar",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/208/003.html",
-      "pin": false
-    },
-    {
-      "id": "a9e9099fa56e6f97",
-      "title": "Servicio Canario de Empleo.- Resolución de 5 de octubre de 2026, de la Directora, por la que se acuerda aplicar la tramitación de urgencia a la convocatoria de subvenciones destinadas a la financiación del Programa de Formación en Alternancia con el Empleo para el ejercicio 2026.",
-      "source": "BOC — Otras resoluciones",
-      "source_type": "OFICIAL",
-      "source_label": "BOC",
-      "published": "2026-10-18T22:00:00+00:00",
-      "categories": [
-        "Canarias",
-        "Empleo"
-      ],
-      "type": "noticia",
-      "summary": "III. Otras Resoluciones - Consejería de Turismo y Empleo 3592 Servicio Canario de Empleo.- Resolución de 5 de octubre de 2026, de la Directora, por la que se acuerda aplicar la tramitación de urgencia a la convocatoria de subvenciones destinadas a la financiación del Programa de Formación en Alternancia con el Empleo para el ejercicio 2026. CVE: BOC-A-2026-2",
-      "what_happened": "III. Otras Resoluciones - Consejería de Turismo y Empleo 3592 Servicio Canario de Empleo.- Resolución de 5 de octubre de 2026, de la Directora, por la que se acuerda aplicar la tramitación de urgencia a la convocatoria de subvenciones destinadas a la financiación del Programa de Formación en Alternancia con el Empleo para el ejercicio 2026. CVE: BOC-A-2026-208-3592 Firma electrónica: Descargar",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/208/004.html",
       "pin": false
     },
     {
