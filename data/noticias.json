@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T18:00+00:00",
+  "updated_at": "2026-11-04T23:42+00:00",
   "items": [
     {
       "id": "abd2c6d56f7a0f4c",
@@ -18,7 +18,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www3.gobiernodecanarias.org/noticias/canarias-cierra-octubre-con-989-058-afiliados-a-la-seguridad-social-el-mas-elevado-de-la-serie-historica"
+      "url": "https://www3.gobiernodecanarias.org/noticias/canarias-cierra-octubre-con-989-058-afiliados-a-la-seguridad-social-el-mas-elevado-de-la-serie-historica",
+      "pin": false
     },
     {
       "id": "53e4f6846a194fd4",
@@ -569,25 +570,6 @@
       "impact": "",
       "ugt_position": "",
       "url": "https://gobiernodecanarias.org/boc/2026/213/020.html",
-      "pin": false
-    },
-    {
-      "id": "8f874bdada0a0179",
-      "title": "RESOLUCIÓN de 7 de octubre de 2026, por la que se ordena la publicación de la modificación puntual de la relación de puestos de trabajo del Personal Técnico, de Gestión y de Administración y Servicios funcionario del Consejo Social de la Universidad de La Laguna.",
-      "source": "BOC — Otras resoluciones",
-      "source_type": "OFICIAL",
-      "source_label": "BOC",
-      "published": "2026-10-21T22:00:00+00:00",
-      "categories": [
-        "Canarias"
-      ],
-      "type": "noticia",
-      "summary": "III. Otras Resoluciones - Universidad de La Laguna 3639 RESOLUCIÓN de 7 de octubre de 2026, por la que se ordena la publicación de la modificación puntual de la relación de puestos de trabajo del Personal Técnico, de Gestión y de Administración y Servicios funcionario del Consejo Social de la Universidad de La Laguna. CVE: BOC-A-2026-211-3639 Firma electróni",
-      "what_happened": "III. Otras Resoluciones - Universidad de La Laguna 3639 RESOLUCIÓN de 7 de octubre de 2026, por la que se ordena la publicación de la modificación puntual de la relación de puestos de trabajo del Personal Técnico, de Gestión y de Administración y Servicios funcionario del Consejo Social de la Universidad de La Laguna. CVE: BOC-A-2026-211-3639 Firma electrónica: Descargar",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/211/008.html",
       "pin": false
     },
     {
