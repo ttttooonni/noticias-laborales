@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T06:53+00:00",
+  "updated_at": "2026-11-05T15:31+00:00",
   "items": [
     {
       "id": "boe-a-2026-23241",
@@ -17,7 +17,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23241"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23241",
+      "pin": false
     },
     {
       "id": "boe-a-2026-23240",
@@ -35,7 +36,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23240"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23240",
+      "pin": false
     },
     {
       "id": "boe-a-2026-23239",
@@ -53,7 +55,45 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23239"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23239",
+      "pin": false
+    },
+    {
+      "id": "d67ee2132b6675ba",
+      "title": "Reglamento de Ejecución (UE) 2026/2401 de la Comisión, de 29 de octubre de 2026, por el que se establecen la lista y la descripción de las variables y sus especificaciones técnicas, clasificaciones estadísticas, desgloses y objetivos de precisión para el tema estructura de los costes laborales con arreglo al Reglamento (UE) 2025/941 del Parlamento Europeo y del Consejo.",
+      "source": "BOE — Trabajo y empleo",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-11-04T23:00:00+00:00",
+      "categories": [
+        "Derechos laborales"
+      ],
+      "type": "noticia",
+      "summary": "Unión Europea - Publicado el 05/11/2026 - Referencia: DOUE-L-2026-81711",
+      "what_happened": "Unión Europea - Publicado el 05/11/2026 - Referencia: DOUE-L-2026-81711",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://boe.es/buscar/doc.php?id=DOUE-L-2026-81711"
+    },
+    {
+      "id": "boe-a-2026-23176",
+      "title": "Real Decreto 957/2026, de 4 de noviembre, de desarrollo del régimen jurídico de la prestación económica por cuidado de menores afectados por cáncer u otra enfermedad grave en el sistema de la Seguridad Social.",
+      "source": "BOE — Seguridad Social",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-11-04T23:00:00+00:00",
+      "categories": [
+        "Derechos laborales"
+      ],
+      "type": "noticia",
+      "summary": "Ministerio de Inclusión, Seguridad Social y Migraciones - Publicado el 05/11/2026 - Referencia: BOE-A-2026-23176",
+      "what_happened": "Ministerio de Inclusión, Seguridad Social y Migraciones - Publicado el 05/11/2026 - Referencia: BOE-A-2026-23176",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23176",
+      "pin": false
     },
     {
       "id": "49e4b0e8d5c1f498",
@@ -73,7 +113,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/221/019.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/221/019.html",
+      "pin": false
     },
     {
       "id": "e3bd2e97e1994919",
@@ -92,7 +133,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/221/020.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/221/020.html",
+      "pin": false
     },
     {
       "id": "abd2c6d56f7a0f4c",
