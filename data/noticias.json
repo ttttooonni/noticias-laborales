@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T15:31+00:00",
+  "updated_at": "2026-11-05T22:01+00:00",
   "items": [
     {
       "id": "boe-a-2026-23241",
@@ -74,7 +74,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://boe.es/buscar/doc.php?id=DOUE-L-2026-81711"
+      "url": "https://boe.es/buscar/doc.php?id=DOUE-L-2026-81711",
+      "pin": false
     },
     {
       "id": "boe-a-2026-23176",
@@ -627,84 +628,6 @@
       "impact": "",
       "ugt_position": "",
       "url": "https://canarias.ugt.org/index.php/noticias/ugt-canarias-y-ccoo-canarias-llaman-a-la-huelga-general-del-11-de-noviembre-para-reclamar-vivienda-asequible-mejores-salarios-y-mas-derechos-laborales",
-      "pin": false
-    },
-    {
-      "id": "boe-a-2026-22081",
-      "title": "Real Decreto 847/2026, de 21 de octubre, por el que se establecen las disposiciones mínimas de seguridad y salud aplicables a los trabajos con riesgo de exposición al amianto.",
-      "source": "BOE — Trabajo y empleo",
-      "source_type": "OFICIAL",
-      "source_label": "FUENTE OFICIAL",
-      "published": "2026-10-22T22:00:00+00:00",
-      "categories": [
-        "Derechos laborales"
-      ],
-      "type": "noticia",
-      "summary": "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes - Publicado el 23/10/2026 - Referencia: BOE-A-2026-22081",
-      "what_happened": "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes - Publicado el 23/10/2026 - Referencia: BOE-A-2026-22081",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22081",
-      "pin": false
-    },
-    {
-      "id": "boe-a-2026-22080",
-      "title": "Real Decreto 846/2026, de 21 de octubre, por el que se modifican el Real Decreto 665/1997, de 12 de mayo, sobre la protección de los trabajadores contra los riesgos relacionados con la exposición a agentes cancerígenos, mutágenos o reprotóxicos durante el trabajo, y el Real Decreto 374/2001, de 6 de abril, sobre la protección de la salud y seguridad de los trabajadores contra los riesgos relacionados con los agentes químicos durante el trabajo.",
-      "source": "BOE — Trabajo y empleo",
-      "source_type": "OFICIAL",
-      "source_label": "FUENTE OFICIAL",
-      "published": "2026-10-22T22:00:00+00:00",
-      "categories": [
-        "Derechos laborales"
-      ],
-      "type": "noticia",
-      "summary": "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes - Publicado el 23/10/2026 - Referencia: BOE-A-2026-22080",
-      "what_happened": "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes - Publicado el 23/10/2026 - Referencia: BOE-A-2026-22080",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22080",
-      "pin": false
-    },
-    {
-      "id": "cb8003700800dd4f",
-      "title": "Servicio Canario de Empleo.- Resolución de 13 de octubre de 2026, de la Directora, por la que se acuerda aplicar la tramitación de urgencia a la convocatoria de concesión, en régimen de concurrencia competitiva, de subvenciones dirigidas a la financiación de inversiones realizadas por empresas de economía social en el ámbito de la Comunidad Autónoma de Canarias, reguladas mediante Orden de 4 de septiembre de 2026, correspondiente al ejercicio 2026.",
-      "source": "BOC — Otras resoluciones",
-      "source_type": "OFICIAL",
-      "source_label": "BOC",
-      "published": "2026-10-22T22:00:00+00:00",
-      "categories": [
-        "Canarias",
-        "Empleo"
-      ],
-      "type": "noticia",
-      "summary": "III. Otras Resoluciones - Consejería de Turismo y Empleo 3669 Servicio Canario de Empleo.- Resolución de 13 de octubre de 2026, de la Directora, por la que se acuerda aplicar la tramitación de urgencia a la convocatoria de concesión, en régimen de concurrencia competitiva, de subvenciones dirigidas a la financiación de inversiones realizadas por empresas de ",
-      "what_happened": "III. Otras Resoluciones - Consejería de Turismo y Empleo 3669 Servicio Canario de Empleo.- Resolución de 13 de octubre de 2026, de la Directora, por la que se acuerda aplicar la tramitación de urgencia a la convocatoria de concesión, en régimen de concurrencia competitiva, de subvenciones dirigidas a la financiación de inversiones realizadas por empresas de economía social en el ámbito de la Comunidad Autónoma de Canarias, reguladas mediante Orden de 4 de septiembre de 2026, correspondiente al ejercicio 2026. CVE: BOC-A-2026-213-3669 Firma electrónica: Descargar",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/213/019.html",
-      "pin": false
-    },
-    {
-      "id": "bb31d29a8fb8e8e5",
-      "title": "Servicio Canario de Empleo.- Resolución de 9 de octubre de 2026, del Secretario General, por la que se ordena la publicación de la Declaración de Adhesión al Convenio Marco de Colaboración suscrito entre el Servicio Canario de Empleo, la Fundación Canaria General Universidad de La Laguna y la Confederación Provincial de Empresarios de Santa Cruz de Tenerife (CEOE-Tenerife) para la realización de prácticas no laborales en empresas de personas jóvenes con titulación y sin experiencia profesional, dentro del Proyecto “Cataliza VIII: Plan de fomento de la inserción laboral guiada a través de prácticas no laborales en empresas”, así como la relación de empresas adheridas al mismo con fecha 9 de octubre de 2026.",
-      "source": "BOC — Otras resoluciones",
-      "source_type": "OFICIAL",
-      "source_label": "BOC",
-      "published": "2026-10-22T22:00:00+00:00",
-      "categories": [
-        "Canarias",
-        "Empleo"
-      ],
-      "type": "noticia",
-      "summary": "III. Otras Resoluciones - Consejería de Turismo y Empleo 3670 Servicio Canario de Empleo.- Resolución de 9 de octubre de 2026, del Secretario General, por la que se ordena la publicación de la Declaración de Adhesión al Convenio Marco de Colaboración suscrito entre el Servicio Canario de Empleo, la Fundación Canaria General Universidad de La Laguna y la Conf",
-      "what_happened": "III. Otras Resoluciones - Consejería de Turismo y Empleo 3670 Servicio Canario de Empleo.- Resolución de 9 de octubre de 2026, del Secretario General, por la que se ordena la publicación de la Declaración de Adhesión al Convenio Marco de Colaboración suscrito entre el Servicio Canario de Empleo, la Fundación Canaria General Universidad de La Laguna y la Confederación Provincial de Empresarios de Santa Cruz de Tenerife (CEOE-Tenerife) para la realización de prácticas no laborales en empresas de personas jóvenes con titulación y sin experiencia profesional, dentro del Proyecto “Cataliza VIII: Plan de fomento de la inserción laboral guiada a través de prácticas no laborales en empresas”, así co",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/213/020.html",
       "pin": false
     },
     {
