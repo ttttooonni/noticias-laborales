@@ -1,6 +1,25 @@
 {
-  "updated_at": "2026-11-06T10:58+00:00",
+  "updated_at": "2026-11-06T18:00+00:00",
   "items": [
+    {
+      "id": "e16bfa7715c7fc52",
+      "title": "Turismo y Empleo dispondrá en 2027 de 541 millones de euros de presupuesto",
+      "source": "Gobierno de Canarias — Turismo y Empleo",
+      "source_type": "OFICIAL",
+      "source_label": "CANARIAS",
+      "published": "2026-11-06T14:14:34+00:00",
+      "categories": [
+        "Canarias",
+        "Empleo"
+      ],
+      "type": "noticia",
+      "summary": "La Consejería dispondrá de 189,5 millones de euros y el Servicio Canario de Empleo contará con 351,5 millones para formación, orientación e inserción laboral Las cuentas refuerzan las inversiones en infraestructuras turísticas, formación y modernización de los servicios laborales, e incorporan un millón de euros para la Capitalidad Española de la Economía So",
+      "what_happened": "La Consejería dispondrá de 189,5 millones de euros y el Servicio Canario de Empleo contará con 351,5 millones para formación, orientación e inserción laboral Las cuentas refuerzan las inversiones en infraestructuras turísticas, formación y modernización de los servicios laborales, e incorporan un millón de euros para la Capitalidad Española de la Economía Social 2027 La […]",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www3.gobiernodecanarias.org/noticias/turismo-y-empleo-dispondra-en-2027-de-541-millones-de-euros-de-presupuesto"
+    },
     {
       "id": "boe-a-2026-23332",
       "title": "Orden TED/1171/2026, de 28 de octubre, por la que se modifican la Orden TED/1240/2022, de 14 de diciembre, por la que se aprueban las bases reguladoras para la concesión de ayudas dirigidas a proyectos empresariales generadores de empleo, que promuevan el desarrollo alternativo de las zonas de transición justa, para el periodo 2022-2027, y la Orden TED/1239/2022, de 14 de diciembre, por la que se aprueban las bases reguladoras para la concesión de ayudas dirigidas a pequeños proyectos de inversión que generen o mantengan el empleo, promoviendo el desarrollo alternativo de las zonas de transición justa, para el periodo 2022-2027.",
@@ -17,7 +36,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23332"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23332",
+      "pin": false
     },
     {
       "id": "boe-a-2026-23267",
@@ -35,7 +55,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23267"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23267",
+      "pin": false
     },
     {
       "id": "boe-a-2026-23266",
@@ -53,7 +74,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23266"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23266",
+      "pin": false
     },
     {
       "id": "boe-a-2026-23241",
