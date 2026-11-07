@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T10:17+00:00",
+  "updated_at": "2026-11-07T16:30+00:00",
   "items": [
     {
       "id": "boe-a-2026-23364",
@@ -17,7 +17,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23364"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23364",
+      "pin": false
     },
     {
       "id": "e16bfa7715c7fc52",
