@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T01:35+00:00",
+  "updated_at": "2026-11-10T09:55+00:00",
   "items": [
     {
       "id": "e13229ebdcd7d490",
@@ -17,7 +17,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/224/006.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/224/006.html",
+      "pin": false
     },
     {
       "id": "b0a6e87a403ca3ea",
@@ -35,7 +36,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/224/007.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/224/007.html",
+      "pin": false
     },
     {
       "id": "8a0dd9ed0d33c5f6",
@@ -53,7 +55,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/224/010.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/224/010.html",
+      "pin": false
     },
     {
       "id": "d4382860a8e69ed7",
@@ -71,7 +74,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/224/011.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/224/011.html",
+      "pin": false
     },
     {
       "id": "01fb9ef9376e38a3",
@@ -89,7 +93,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/224/012.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/224/012.html",
+      "pin": false
     },
     {
       "id": "32f18e846e11782b",
@@ -107,7 +112,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/224/013.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/224/013.html",
+      "pin": false
     },
     {
       "id": "11fd1ede62a4b023",
@@ -125,7 +131,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/224/015.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/224/015.html",
+      "pin": false
     },
     {
       "id": "1f67da980ef55e0a",
@@ -143,7 +150,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/224/016.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/224/016.html",
+      "pin": false
     },
     {
       "id": "16c5366f995203da",
@@ -162,7 +170,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/224/017.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/224/017.html",
+      "pin": false
     },
     {
       "id": "d37b3bd3fccd3966",
@@ -181,7 +190,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/224/018.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/224/018.html",
+      "pin": false
     },
     {
       "id": "efdc49ff7585b50f",
@@ -200,7 +210,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/224/019.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/224/019.html",
+      "pin": false
     },
     {
       "id": "8982f6ae4f5f79f2",
@@ -218,7 +229,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/224/020.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/224/020.html",
+      "pin": false
     },
     {
       "id": "faa75eca063df160",
@@ -236,7 +248,26 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/224/021.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/224/021.html",
+      "pin": false
+    },
+    {
+      "id": "5c461c150417b83c",
+      "title": "Decisión Delegada (UE) 2026/1814 de la Comisión, de 24 de julio de 2026, por la que se modifica y corrige la Directiva 2005/36/CE del Parlamento Europeo y del Consejo por lo que respecta a los títulos de formación y las denominaciones de las formaciones [notificada con el número C(2026) 5051].",
+      "source": "BOE — Trabajo y empleo",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-11-08T23:00:00+00:00",
+      "categories": [
+        "Derechos laborales"
+      ],
+      "type": "noticia",
+      "summary": "Unión Europea - Publicado el 09/11/2026 - Referencia: DOUE-L-2026-81721",
+      "what_happened": "Unión Europea - Publicado el 09/11/2026 - Referencia: DOUE-L-2026-81721",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://boe.es/buscar/doc.php?id=DOUE-L-2026-81721"
     },
     {
       "id": "08c7a29fa6e4987e",
