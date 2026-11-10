@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T17:53+00:00",
+  "updated_at": "2026-11-10T23:26+00:00",
   "items": [
     {
       "id": "1cf85b42e5a62109",
@@ -18,7 +18,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www3.gobiernodecanarias.org/noticias/el-sce-destina-200-000-euros-a-financiar-ferias-de-empleo-en-canarias"
+      "url": "https://www3.gobiernodecanarias.org/noticias/el-sce-destina-200-000-euros-a-financiar-ferias-de-empleo-en-canarias",
+      "pin": false
     },
     {
       "id": "e13229ebdcd7d490",
@@ -877,64 +878,6 @@
       "impact": "",
       "ugt_position": "",
       "url": "https://www3.gobiernodecanarias.org/noticias/hecansa-se-adelanta-a-los-finaos-con-demostraciones-de-pasteleria-y-menus-especiales-en-sus-hoteles-escuela",
-      "pin": false
-    },
-    {
-      "id": "boe-a-2026-22596",
-      "title": "Resolución de 15 de octubre de 2026, de la Dirección General de Trabajo, por la que se registra y publica el VII Convenio colectivo de Nokia Transformation Engineering & Consulting Services Spain, SLU.",
-      "source": "BOE — Convenios colectivos",
-      "source_type": "OFICIAL",
-      "source_label": "FUENTE OFICIAL",
-      "published": "2026-10-27T23:00:00+00:00",
-      "categories": [
-        "Convenios"
-      ],
-      "type": "noticia",
-      "summary": "Ministerio de Trabajo y Economía Social - Publicado el 28/10/2026 - Referencia: BOE-A-2026-22596",
-      "what_happened": "Ministerio de Trabajo y Economía Social - Publicado el 28/10/2026 - Referencia: BOE-A-2026-22596",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22596",
-      "pin": false
-    },
-    {
-      "id": "boe-a-2026-22595",
-      "title": "Resolución de 15 de octubre de 2026, de la Dirección General de Trabajo, por la que se registra y publica el Convenio colectivo de la Industria del Calzado.",
-      "source": "BOE — Convenios colectivos",
-      "source_type": "OFICIAL",
-      "source_label": "FUENTE OFICIAL",
-      "published": "2026-10-27T23:00:00+00:00",
-      "categories": [
-        "Convenios"
-      ],
-      "type": "noticia",
-      "summary": "Ministerio de Trabajo y Economía Social - Publicado el 28/10/2026 - Referencia: BOE-A-2026-22595",
-      "what_happened": "Ministerio de Trabajo y Economía Social - Publicado el 28/10/2026 - Referencia: BOE-A-2026-22595",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22595",
-      "pin": false
-    },
-    {
-      "id": "f57c1d98c1d19036",
-      "title": "Servicio Canario de Empleo.- Resolución de 14 de octubre de 2026, del Secretario General, por la que se ordena la publicación del Convenio de Colaboración entre el Servicio Canario de Empleo y la Fundación Canaria para el Fomento del Trabajo para la gestión de la convocatoria, para el ejercicio 2026, de concesión, en régimen de concurrencia competitiva, de subvenciones dirigidas a la financiación de inversiones realizadas por empresas de economía social en el ámbito de la Comunidad Autónoma de Canarias, reguladas mediante Orden de 4 de septiembre de 2026.",
-      "source": "BOC — Otras resoluciones",
-      "source_type": "OFICIAL",
-      "source_label": "BOC",
-      "published": "2026-10-27T23:00:00+00:00",
-      "categories": [
-        "Canarias",
-        "Empleo"
-      ],
-      "type": "noticia",
-      "summary": "III. Otras Resoluciones - Consejería de Turismo y Empleo 3716 Servicio Canario de Empleo.- Resolución de 14 de octubre de 2026, del Secretario General, por la que se ordena la publicación del Convenio de Colaboración entre el Servicio Canario de Empleo y la Fundación Canaria para el Fomento del Trabajo para la gestión de la convocatoria, para el ejercicio 20",
-      "what_happened": "III. Otras Resoluciones - Consejería de Turismo y Empleo 3716 Servicio Canario de Empleo.- Resolución de 14 de octubre de 2026, del Secretario General, por la que se ordena la publicación del Convenio de Colaboración entre el Servicio Canario de Empleo y la Fundación Canaria para el Fomento del Trabajo para la gestión de la convocatoria, para el ejercicio 2026, de concesión, en régimen de concurrencia competitiva, de subvenciones dirigidas a la financiación de inversiones realizadas por empresas de economía social en el ámbito de la Comunidad Autónoma de Canarias, reguladas mediante Orden de 4 de septiembre de 2026. CVE: BOC-A-2026-216-3716 Firma electrónica: Descargar",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/216/008.html",
       "pin": false
     },
     {
