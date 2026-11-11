@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-11T06:31+00:00",
+  "updated_at": "2026-11-11T15:16+00:00",
   "items": [
+    {
+      "id": "boe-a-2026-23603",
+      "title": "Real Decreto-ley 34/2026, de 10 de noviembre, de medidas urgentes para el refuerzo de la seguridad operacional en el transporte ferroviario y la protección social del personal ferroviario.",
+      "source": "BOE — Trabajo y empleo",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-11-10T23:00:00+00:00",
+      "categories": [
+        "Derechos laborales"
+      ],
+      "type": "noticia",
+      "summary": "Jefatura del Estado - Publicado el 11/11/2026 - Referencia: BOE-A-2026-23603",
+      "what_happened": "Jefatura del Estado - Publicado el 11/11/2026 - Referencia: BOE-A-2026-23603",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23603"
+    },
     {
       "id": "97b29734578f058c",
       "title": "ORDEN de 5 de noviembre de 2026, por la que se establecen los servicios mínimos de los empleados públicos adscritos a la Consejería de Bienestar Social, Igualdad, Juventud, Infancia y Familias como consecuencia de la huelga general convocada por la Confederación General del Trabajo (CGT), Confederación Intersindical, Unión de Actores y Actrices, y CCOO-UGT, que se desarrollará el 11 de noviembre de 2026 desde las 00:00 horas hasta las 24:00 horas.",
@@ -17,7 +35,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/225/009.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/225/009.html",
+      "pin": false
     },
     {
       "id": "ff0d3cb79684bc2c",
@@ -36,7 +55,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/225/011.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/225/011.html",
+      "pin": false
     },
     {
       "id": "8d2a68dcb1991683",
@@ -54,7 +74,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/225/012.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/225/012.html",
+      "pin": false
     },
     {
       "id": "7c7b293e3aa4aecc",
@@ -72,7 +93,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/225/013.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/225/013.html",
+      "pin": false
     },
     {
       "id": "1d93e7881b8647c6",
@@ -91,7 +113,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/225/014.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/225/014.html",
+      "pin": false
     },
     {
       "id": "1cf85b42e5a62109",
@@ -949,27 +972,6 @@
       "impact": "",
       "ugt_position": "",
       "url": "https://gobiernodecanarias.org/boc/2026/217/011.html",
-      "pin": false
-    },
-    {
-      "id": "e3a470d7048ff5d6",
-      "title": "Hecansa se adelanta a Los Finaos con demostraciones de pastelería y menús especiales en sus hoteles escuela",
-      "source": "Gobierno de Canarias — Turismo y Empleo",
-      "source_type": "OFICIAL",
-      "source_label": "CANARIAS",
-      "published": "2026-10-28T10:10:38+00:00",
-      "categories": [
-        "Canarias",
-        "Las Palmas",
-        "Hostelería"
-      ],
-      "type": "noticia",
-      "summary": "El Hotel Escuela Santa Cruz ofrece hoy una masterclass de pastelería y un menú degustación inspirado en esta tradición canaria. La actividad se repetirá el viernes en Santa Brígida, en Gran Canaria Hoteles Escuela de Canarias (Hecansa), empresa pública adscrita a la Consejería de Turismo y Empleo del Gobierno de Canarias, celebra hoy en el […]",
-      "what_happened": "El Hotel Escuela Santa Cruz ofrece hoy una masterclass de pastelería y un menú degustación inspirado en esta tradición canaria. La actividad se repetirá el viernes en Santa Brígida, en Gran Canaria Hoteles Escuela de Canarias (Hecansa), empresa pública adscrita a la Consejería de Turismo y Empleo del Gobierno de Canarias, celebra hoy en el […]",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://www3.gobiernodecanarias.org/noticias/hecansa-se-adelanta-a-los-finaos-con-demostraciones-de-pasteleria-y-menus-especiales-en-sus-hoteles-escuela",
       "pin": false
     },
     {
