@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T15:16+00:00",
+  "updated_at": "2026-11-11T22:00+00:00",
   "items": [
     {
       "id": "boe-a-2026-23603",
@@ -17,7 +17,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23603"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23603",
+      "pin": false
     },
     {
       "id": "97b29734578f058c",
