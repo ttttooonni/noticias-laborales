@@ -1,6 +1,25 @@
 {
-  "updated_at": "2026-11-12T11:21+00:00",
+  "updated_at": "2026-11-12T19:58+00:00",
   "items": [
+    {
+      "id": "2a9cc143df694e93",
+      "title": "Jéssica de León resalta la importancia de la labor inspectora para la calidad del empleo en Canarias",
+      "source": "Gobierno de Canarias — Turismo y Empleo",
+      "source_type": "OFICIAL",
+      "source_label": "CANARIAS",
+      "published": "2026-11-12T12:57:59+00:00",
+      "categories": [
+        "Canarias",
+        "Hostelería"
+      ],
+      "type": "noticia",
+      "summary": "La consejera de Turismo y Empleo del Gobierno de Canarias, Jéssica de León, participó esta mañana en la apertura de las ‘Jornadas por un trabajo digno: Inspección, justicia y derechos en el siglo XXI’, organizadas por la Unión Progresista de Inspectores e Inspectoras de Trabajo (UPIT), en el Hotel Escuela Santa Cruz, en Tenerife. La […]",
+      "what_happened": "La consejera de Turismo y Empleo del Gobierno de Canarias, Jéssica de León, participó esta mañana en la apertura de las ‘Jornadas por un trabajo digno: Inspección, justicia y derechos en el siglo XXI’, organizadas por la Unión Progresista de Inspectores e Inspectoras de Trabajo (UPIT), en el Hotel Escuela Santa Cruz, en Tenerife. La […]",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www3.gobiernodecanarias.org/noticias/jessica-de-leon-resalta-la-importancia-de-la-labor-inspectora-para-la-calidad-del-empleo-en-canarias"
+    },
     {
       "id": "boe-a-2026-23668",
       "title": "Orden ISM/1198/2026, de 10 de noviembre, por la que se regulan las operaciones de cierre del ejercicio 2026 para las entidades que integran el sistema de la Seguridad Social.",
@@ -17,7 +36,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23668"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23668",
+      "pin": false
     },
     {
       "id": "59eec6c3418f31ea",
