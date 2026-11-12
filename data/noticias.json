@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-12T03:03+00:00",
+  "updated_at": "2026-11-12T11:21+00:00",
   "items": [
+    {
+      "id": "boe-a-2026-23668",
+      "title": "Orden ISM/1198/2026, de 10 de noviembre, por la que se regulan las operaciones de cierre del ejercicio 2026 para las entidades que integran el sistema de la Seguridad Social.",
+      "source": "BOE — Seguridad Social",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-11-11T23:00:00+00:00",
+      "categories": [
+        "Derechos laborales"
+      ],
+      "type": "noticia",
+      "summary": "Ministerio de Inclusión, Seguridad Social y Migraciones - Publicado el 12/11/2026 - Referencia: BOE-A-2026-23668",
+      "what_happened": "Ministerio de Inclusión, Seguridad Social y Migraciones - Publicado el 12/11/2026 - Referencia: BOE-A-2026-23668",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23668"
+    },
     {
       "id": "59eec6c3418f31ea",
       "title": "Viceconsejería de Formación Profesional y Cualificaciones Profesionales.- Resolución de 29 de octubre de 2026, por la que establece la distribución horaria y estructura modular de los Grados C (certificados profesionales) y sus correspondientes Grados B (certificados de competencia), de nivel 1, de las familias profesionales Artes Gráficas; Fabricación Mecánica; Hostelería y Turismo; Servicios Socioculturales y a la Comunidad; y Vidrio y Cerámica, en el ámbito de la Comunidad Autónoma de Canarias.",
@@ -18,7 +36,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/227/007.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/227/007.html",
+      "pin": false
     },
     {
       "id": "boe-a-2026-23603",
