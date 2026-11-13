@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-11-13T16:28+00:00",
+  "updated_at": "2026-11-13T22:40+00:00",
   "items": [
+    {
+      "id": "49a2e37a88914135",
+      "title": "La III Feria de Empleo de Canarias reúne a más de 50 empresas en Las Palmas de Gran Canaria",
+      "source": "Gobierno de Canarias — Turismo y Empleo",
+      "source_type": "OFICIAL",
+      "source_label": "CANARIAS",
+      "published": "2026-11-13T17:02:06+00:00",
+      "categories": [
+        "Canarias",
+        "Las Palmas",
+        "Jornada"
+      ],
+      "type": "noticia",
+      "summary": "La jornada congregó a empresas de distintos sectores económicos y mostró oportunidades laborales vinculadas tanto a actividades tradicionales como a nuevos perfiles profesionales La próxima cita tendrá lugar el 19 de noviembre en el Parque García Sanabria, en Santa Cruz de Tenerife, donde se celebrará una nueva edición de esta feria La Rambla de Mesa […]",
+      "what_happened": "La jornada congregó a empresas de distintos sectores económicos y mostró oportunidades laborales vinculadas tanto a actividades tradicionales como a nuevos perfiles profesionales La próxima cita tendrá lugar el 19 de noviembre en el Parque García Sanabria, en Santa Cruz de Tenerife, donde se celebrará una nueva edición de esta feria La Rambla de Mesa […]",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www3.gobiernodecanarias.org/noticias/la-iii-feria-de-empleo-de-canarias-reune-a-mas-de-50-empresas-en-las-palmas-de-gran-canaria"
+    },
     {
       "id": "b98a5207abc3ea74",
       "title": "Decisión de Ejecución (UE) 2026/2505 de la Comisión, de 12 de noviembre de 2026, por la que se corrige la Decisión de Ejecución (UE) 2026/1971 de la Comisión, por la que se modifica la Decisión de Ejecución (UE) 2026/1279 de la Comisión en lo que respecta a las normas armonizadas relativas a los guantes de protección para peluqueros, la ropa de protección contra la lluvia y la protección ocular y facial para uso en el trabajo, elaboradas en apoyo del Reglamento (UE) 2016/425 del Parlamento Europeo y del Consejo.",
@@ -17,7 +37,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://boe.es/buscar/doc.php?id=DOUE-L-2026-81766"
+      "url": "https://boe.es/buscar/doc.php?id=DOUE-L-2026-81766",
+      "pin": false
     },
     {
       "id": "da06cf1afdee67c0",
@@ -36,7 +57,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://boe.es/buscar/doc.php?id=DOUE-L-2026-81750"
+      "url": "https://boe.es/buscar/doc.php?id=DOUE-L-2026-81750",
+      "pin": false
     },
     {
       "id": "14de46f54bd3152b",
