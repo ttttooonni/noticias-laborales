@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T01:07+00:00",
+  "updated_at": "2026-11-13T08:03+00:00",
   "items": [
     {
       "id": "14de46f54bd3152b",
@@ -18,7 +18,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/228/016.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/228/016.html",
+      "pin": false
     },
     {
       "id": "2a9cc143df694e93",
