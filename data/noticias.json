@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T04:31+00:00",
+  "updated_at": "2026-11-17T14:29+00:00",
   "items": [
     {
       "id": "e587bf361a169b55",
@@ -18,7 +18,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/230/014.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/230/014.html",
+      "pin": false
     },
     {
       "id": "5693284b5dab9c97",
@@ -37,7 +38,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/230/015.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/230/015.html",
+      "pin": false
     },
     {
       "id": "boe-a-2026-23882",
