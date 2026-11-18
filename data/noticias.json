@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-18T14:05+00:00",
+  "updated_at": "2026-11-18T21:59+00:00",
   "items": [
+    {
+      "id": "5853d9088b700bde",
+      "title": "Turismo y Empleo impartirá ocho cursos gratuitos dirigidos a 120 personas desempleadas",
+      "source": "Gobierno de Canarias — Turismo y Empleo",
+      "source_type": "OFICIAL",
+      "source_label": "CANARIAS",
+      "published": "2026-11-18T15:15:12+00:00",
+      "categories": [
+        "Canarias",
+        "Hostelería",
+        "Empleo"
+      ],
+      "type": "noticia",
+      "summary": "El programa incluye acciones formativas sobre sostenibilidad, inteligencia artificial y herramientas digitales aplicadas al sector turístico La Consejería de Turismo y Empleo, a través del Servicio Canario de Empleo (SCE) y de Hoteles Escuela de Canarias (Hecansa), pondrá en marcha el programa ‘Impulso Turístico Inteligente’, con el que 120 personas desemple",
+      "what_happened": "El programa incluye acciones formativas sobre sostenibilidad, inteligencia artificial y herramientas digitales aplicadas al sector turístico La Consejería de Turismo y Empleo, a través del Servicio Canario de Empleo (SCE) y de Hoteles Escuela de Canarias (Hecansa), pondrá en marcha el programa ‘Impulso Turístico Inteligente’, con el que 120 personas desempleadas podrán acceder a formación […]",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www3.gobiernodecanarias.org/noticias/turismo-y-empleo-impartira-ocho-cursos-gratuitos-dirigidos-a-120-personas-desempleadas"
+    },
+    {
+      "id": "71b72955098b0fc3",
+      "title": "Empleo destina 16 millones a planes de formación dirigidos a personas trabajadoras ocupadas",
+      "source": "Gobierno de Canarias — Turismo y Empleo",
+      "source_type": "OFICIAL",
+      "source_label": "CANARIAS",
+      "published": "2026-11-18T14:40:21+00:00",
+      "categories": [
+        "Canarias",
+        "Empleo"
+      ],
+      "type": "noticia",
+      "summary": "La Consejería de Turismo y Empleo, a través del Servicio Canario de Empleo, abre el plazo de solicitudes para financiar acciones formativas que permitan mejorar la cualificación profesional en el archipiélago La Consejería de Turismo y Empleo del Gobierno de Canarias, que dirige Jéssica de León, ha abierto, a través del Servicio Canario de Empleo […]",
+      "what_happened": "La Consejería de Turismo y Empleo, a través del Servicio Canario de Empleo, abre el plazo de solicitudes para financiar acciones formativas que permitan mejorar la cualificación profesional en el archipiélago La Consejería de Turismo y Empleo del Gobierno de Canarias, que dirige Jéssica de León, ha abierto, a través del Servicio Canario de Empleo […]",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www3.gobiernodecanarias.org/noticias/empleo-destina-16-millones-a-planes-de-formacion-dirigidos-a-personas-trabajadoras-ocupadas"
+    },
     {
       "id": "880601c6b76e0b19",
       "title": "Corrección de errores del Reglamento (UE) 2023/1230 del Parlamento Europeo y del Consejo, de 14 de junio de 2023, relativo a las máquinas, y por el que se derogan la Directiva 2006/42/CE del Parlamento Europeo y del Consejo y la Directiva 73/361/CEE del Consejo.",
@@ -17,7 +56,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://boe.es/buscar/doc.php?id=DOUE-L-2026-81798"
+      "url": "https://boe.es/buscar/doc.php?id=DOUE-L-2026-81798",
+      "pin": false
     },
     {
       "id": "85fd446916264061",
@@ -35,7 +75,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://boe.es/diario_boe/txt.php?id=BOE-B-2026-37947"
+      "url": "https://boe.es/diario_boe/txt.php?id=BOE-B-2026-37947",
+      "pin": false
     },
     {
       "id": "boe-a-2026-24121",
@@ -53,7 +94,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24121"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24121",
+      "pin": false
     },
     {
       "id": "boe-a-2026-24120",
@@ -72,7 +114,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24120"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24120",
+      "pin": false
     },
     {
       "id": "b0a668bf952e68dc",
@@ -1046,26 +1089,6 @@
       "impact": "",
       "ugt_position": "",
       "url": "https://gobiernodecanarias.org/boc/2026/221/020.html",
-      "pin": false
-    },
-    {
-      "id": "abd2c6d56f7a0f4c",
-      "title": "Canarias cierra octubre con 989.058 afiliados a la Seguridad Social, el más elevado de la serie histórica",
-      "source": "Gobierno de Canarias — Turismo y Empleo",
-      "source_type": "OFICIAL",
-      "source_label": "CANARIAS",
-      "published": "2026-11-04T15:06:31+00:00",
-      "categories": [
-        "Canarias",
-        "Empleo"
-      ],
-      "type": "noticia",
-      "summary": "La afiliación creció un 3,22% en términos interanuales y un 1,52% en comparación con el mes de septiembre, creciendo por encima de la media nacional El desempleo se situó en 141.518 personas, con una tasa interanual que desciende un 4,17% y que saca de las listas del paro a 6.161 personas en comparación con octubre […]",
-      "what_happened": "La afiliación creció un 3,22% en términos interanuales y un 1,52% en comparación con el mes de septiembre, creciendo por encima de la media nacional El desempleo se situó en 141.518 personas, con una tasa interanual que desciende un 4,17% y que saca de las listas del paro a 6.161 personas en comparación con octubre […]",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://www3.gobiernodecanarias.org/noticias/canarias-cierra-octubre-con-989-058-afiliados-a-la-seguridad-social-el-mas-elevado-de-la-serie-historica",
       "pin": false
     },
     {
