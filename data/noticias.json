@@ -1,6 +1,25 @@
 {
-  "updated_at": "2026-11-19T03:33+00:00",
+  "updated_at": "2026-11-19T13:17+00:00",
   "items": [
+    {
+      "id": "boe-a-2026-24189",
+      "title": "Real Decreto 1013/2026, de 18 de noviembre, por el que se fija el salario mínimo interprofesional para 2027.",
+      "source": "BOE — Trabajo y empleo",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-11-18T23:00:00+00:00",
+      "categories": [
+        "Derechos laborales",
+        "Salarios"
+      ],
+      "type": "noticia",
+      "summary": "Ministerio de Trabajo y Economía Social - Publicado el 19/11/2026 - Referencia: BOE-A-2026-24189",
+      "what_happened": "Ministerio de Trabajo y Economía Social - Publicado el 19/11/2026 - Referencia: BOE-A-2026-24189",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24189"
+    },
     {
       "id": "6919ff7fcefb3de7",
       "title": "ORDEN de 6 de noviembre de 2026, por la que se conceden subvenciones destinadas a la realización de actividades en el ámbito de prevención de riesgos laborales para el ejercicio 2026.",
@@ -18,7 +37,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/233/014.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/233/014.html",
+      "pin": false
     },
     {
       "id": "3e29a835d7cc5be6",
@@ -37,7 +57,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/233/015.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/233/015.html",
+      "pin": false
     },
     {
       "id": "772cdfd56e6f4cc8",
@@ -56,7 +77,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/233/016.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/233/016.html",
+      "pin": false
     },
     {
       "id": "7a39eddb05a47fb8",
@@ -75,7 +97,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/233/017.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/233/017.html",
+      "pin": false
     },
     {
       "id": "5853d9088b700bde",
@@ -1147,11 +1170,6 @@
   ],
   "health": {
     "sources_checked": 7,
-    "failures": [
-      {
-        "source": "UGT Canarias — Noticias",
-        "error": "HTTP Error 415: Unsupported Media Type"
-      }
-    ]
+    "failures": []
   }
 }
