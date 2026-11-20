@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T12:58+00:00",
+  "updated_at": "2026-11-20T21:09+00:00",
   "items": [
     {
       "id": "bef7eade4a8fbc9e",
@@ -19,7 +19,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www3.gobiernodecanarias.org/noticias/la-iii-feria-de-empleo-de-canarias-apuesta-en-tenerife-por-la-formacion-y-las-competencias-digitales"
+      "url": "https://www3.gobiernodecanarias.org/noticias/la-iii-feria-de-empleo-de-canarias-apuesta-en-tenerife-por-la-formacion-y-las-competencias-digitales",
+      "pin": false
     },
     {
       "id": "8f77be09bd37382a",
@@ -38,7 +39,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://boe.es/diario_boe/txt.php?id=BOE-B-2026-38188"
+      "url": "https://boe.es/diario_boe/txt.php?id=BOE-B-2026-38188",
+      "pin": false
     },
     {
       "id": "boe-a-2026-24316",
@@ -56,7 +58,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24316"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24316",
+      "pin": false
     },
     {
       "id": "boe-a-2026-24315",
@@ -74,7 +77,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24315"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24315",
+      "pin": false
     },
     {
       "id": "boe-a-2026-24301",
@@ -111,7 +115,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24295"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24295",
+      "pin": false
     },
     {
       "id": "boe-a-2026-24292",
@@ -1109,26 +1114,6 @@
       "impact": "",
       "ugt_position": "",
       "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23364",
-      "pin": false
-    },
-    {
-      "id": "e16bfa7715c7fc52",
-      "title": "Turismo y Empleo dispondrá en 2027 de 541 millones de euros de presupuesto",
-      "source": "Gobierno de Canarias — Turismo y Empleo",
-      "source_type": "OFICIAL",
-      "source_label": "CANARIAS",
-      "published": "2026-11-06T14:14:34+00:00",
-      "categories": [
-        "Canarias",
-        "Empleo"
-      ],
-      "type": "noticia",
-      "summary": "La Consejería dispondrá de 189,5 millones de euros y el Servicio Canario de Empleo contará con 351,5 millones para formación, orientación e inserción laboral Las cuentas refuerzan las inversiones en infraestructuras turísticas, formación y modernización de los servicios laborales, e incorporan un millón de euros para la Capitalidad Española de la Economía So",
-      "what_happened": "La Consejería dispondrá de 189,5 millones de euros y el Servicio Canario de Empleo contará con 351,5 millones para formación, orientación e inserción laboral Las cuentas refuerzan las inversiones en infraestructuras turísticas, formación y modernización de los servicios laborales, e incorporan un millón de euros para la Capitalidad Española de la Economía Social 2027 La […]",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://www3.gobiernodecanarias.org/noticias/turismo-y-empleo-dispondra-en-2027-de-541-millones-de-euros-de-presupuesto",
       "pin": false
     },
     {
