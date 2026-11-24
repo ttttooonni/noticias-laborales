@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-23T12:55+00:00",
+  "updated_at": "2026-11-24T00:56+00:00",
   "items": [
+    {
+      "id": "291efb212c462c15",
+      "title": "Turismo de Canarias logra siete premios Best!N Travel, entre ellos a Mejor Anunciante y Excelencia en Marketing",
+      "source": "Gobierno de Canarias — Turismo y Empleo",
+      "source_type": "OFICIAL",
+      "source_label": "CANARIAS",
+      "published": "2026-11-23T15:04:36+00:00",
+      "categories": [
+        "Canarias"
+      ],
+      "type": "noticia",
+      "summary": "Los profesionales de la comunicación turística otorgan un Oro a ‘‘El Susurro del Fuego’, una Plata a‘ El verano en su punto’ y tres Bronces a ‘Islas de Leyenda’, ‘La llamada de la naturaleza’ y ‘Los mandamientos del Turisla’ El Comité Organizador destaca la consistencia del trabajo desarrollado por Turismo de Islas Canarias a lo […]",
+      "what_happened": "Los profesionales de la comunicación turística otorgan un Oro a ‘‘El Susurro del Fuego’, una Plata a‘ El verano en su punto’ y tres Bronces a ‘Islas de Leyenda’, ‘La llamada de la naturaleza’ y ‘Los mandamientos del Turisla’ El Comité Organizador destaca la consistencia del trabajo desarrollado por Turismo de Islas Canarias a lo […]",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www3.gobiernodecanarias.org/noticias/turismo-de-canarias-logra-siete-premios-bestn-travel-entre-ellos-a-mejor-anunciante-y-excelencia-en-marketing"
+    },
     {
       "id": "boe-a-2026-24576",
       "title": "Resolución de 11 de noviembre de 2026, de la Dirección General de Trabajo, por la que se registra y publica el VII Convenio colectivo de Telefónica Servicios Audiovisuales, SAU.",
@@ -17,7 +35,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24576"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24576",
+      "pin": false
     },
     {
       "id": "boe-a-2026-24575",
@@ -35,7 +54,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24575"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24575",
+      "pin": false
     },
     {
       "id": "boe-a-2026-24482",
@@ -110,7 +130,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://boe.es/diario_boe/txt.php?id=BOE-B-2026-38456"
+      "url": "https://boe.es/diario_boe/txt.php?id=BOE-B-2026-38456",
+      "pin": false
     },
     {
       "id": "boe-a-2026-24437",
@@ -148,7 +169,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24441"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24441",
+      "pin": false
     },
     {
       "id": "bef7eade4a8fbc9e",
@@ -915,256 +937,6 @@
       "impact": "",
       "ugt_position": "",
       "url": "https://www3.gobiernodecanarias.org/noticias/el-sce-destina-200-000-euros-a-financiar-ferias-de-empleo-en-canarias",
-      "pin": false
-    },
-    {
-      "id": "e13229ebdcd7d490",
-      "title": "Secretaría General.- Resolución de 6 de noviembre de 2026, por la que se establecen los servicios mínimos del Departamento como consecuencia de la huelga general convocada por las organizaciones sindicales para el día 11 de noviembre de 2026.",
-      "source": "BOC — Otras resoluciones",
-      "source_type": "OFICIAL",
-      "source_label": "BOC",
-      "published": "2026-11-09T23:00:00+00:00",
-      "categories": [
-        "Canarias"
-      ],
-      "type": "noticia",
-      "summary": "III. Otras Resoluciones - Presidencia del Gobierno 3865 Secretaría General.- Resolución de 6 de noviembre de 2026, por la que se establecen los servicios mínimos del Departamento como consecuencia de la huelga general convocada por las organizaciones sindicales para el día 11 de noviembre de 2026. CVE: BOC-A-2026-224-3865 Firma electrónica: Descargar",
-      "what_happened": "III. Otras Resoluciones - Presidencia del Gobierno 3865 Secretaría General.- Resolución de 6 de noviembre de 2026, por la que se establecen los servicios mínimos del Departamento como consecuencia de la huelga general convocada por las organizaciones sindicales para el día 11 de noviembre de 2026. CVE: BOC-A-2026-224-3865 Firma electrónica: Descargar",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/224/006.html",
-      "pin": false
-    },
-    {
-      "id": "b0a6e87a403ca3ea",
-      "title": "ORDEN de 6 de noviembre de 2026, por la que se establecen los servicios mínimos del personal funcionario y laboral que presta servicios en este Departamento y en los organismos autónomos adscritos al mismo, como consecuencia de la huelga general convocada para el día 11 de noviembre de 2026, desde las 00:00 hasta las 24:00 horas.",
-      "source": "BOC — Otras resoluciones",
-      "source_type": "OFICIAL",
-      "source_label": "BOC",
-      "published": "2026-11-09T23:00:00+00:00",
-      "categories": [
-        "Canarias"
-      ],
-      "type": "noticia",
-      "summary": "III. Otras Resoluciones - Consejería de Agricultura, Ganadería, Pesca y Soberanía Alimentaria 3866 ORDEN de 6 de noviembre de 2026, por la que se establecen los servicios mínimos del personal funcionario y laboral que presta servicios en este Departamento y en los organismos autónomos adscritos al mismo, como consecuencia de la huelga general convocada para ",
-      "what_happened": "III. Otras Resoluciones - Consejería de Agricultura, Ganadería, Pesca y Soberanía Alimentaria 3866 ORDEN de 6 de noviembre de 2026, por la que se establecen los servicios mínimos del personal funcionario y laboral que presta servicios en este Departamento y en los organismos autónomos adscritos al mismo, como consecuencia de la huelga general convocada para el día 11 de noviembre de 2026, desde las 00:00 hasta las 24:00 horas. CVE: BOC-A-2026-224-3866 Firma electrónica: Descargar",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/224/007.html",
-      "pin": false
-    },
-    {
-      "id": "8a0dd9ed0d33c5f6",
-      "title": "ORDEN de 5 de noviembre de 2026, por la que se establecen los servicios mínimos del personal funcionario y laboral, docente y de administración general y servicios, adscrito a esta Consejería, como consecuencia de la huelga convocada por los sindicatos Confederación General de Trabajo (CGT), Confederación Intersindical, Confederación Sindical de Comisiones Obreras (CCOO), Confederación Sindical de la Unión General de Trabajadoras y Trabajadores (UGT), Unión de Actores y Actrices y STEC-IC, para el día 11 de noviembre de 2026.",
-      "source": "BOC — Otras resoluciones",
-      "source_type": "OFICIAL",
-      "source_label": "BOC",
-      "published": "2026-11-09T23:00:00+00:00",
-      "categories": [
-        "Canarias"
-      ],
-      "type": "noticia",
-      "summary": "III. Otras Resoluciones - Consejería de Educación, Formación Profesional, Actividad Física y Deportes 3869 ORDEN de 5 de noviembre de 2026, por la que se establecen los servicios mínimos del personal funcionario y laboral, docente y de administración general y servicios, adscrito a esta Consejería, como consecuencia de la huelga convocada por los sindicatos ",
-      "what_happened": "III. Otras Resoluciones - Consejería de Educación, Formación Profesional, Actividad Física y Deportes 3869 ORDEN de 5 de noviembre de 2026, por la que se establecen los servicios mínimos del personal funcionario y laboral, docente y de administración general y servicios, adscrito a esta Consejería, como consecuencia de la huelga convocada por los sindicatos Confederación General de Trabajo (CGT), Confederación Intersindical, Confederación Sindical de Comisiones Obreras (CCOO), Confederación Sindical de la Unión General de Trabajadoras y Trabajadores (UGT), Unión de Actores y Actrices y STEC-IC, para el día 11 de noviembre de 2026. CVE: BOC-A-2026-224-3869 Firma electrónica: Descargar",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/224/010.html",
-      "pin": false
-    },
-    {
-      "id": "d4382860a8e69ed7",
-      "title": "ORDEN de 5 de noviembre de 2026, por la que se determinan los servicios mínimos a establecer en el transporte escolar en la Comunidad Autónoma de Canarias ante la huelga general convocada en todo el territorio nacional el 11 de noviembre de 2026.",
-      "source": "BOC — Otras resoluciones",
-      "source_type": "OFICIAL",
-      "source_label": "BOC",
-      "published": "2026-11-09T23:00:00+00:00",
-      "categories": [
-        "Canarias"
-      ],
-      "type": "noticia",
-      "summary": "III. Otras Resoluciones - Consejería de Educación, Formación Profesional, Actividad Física y Deportes 3870 ORDEN de 5 de noviembre de 2026, por la que se determinan los servicios mínimos a establecer en el transporte escolar en la Comunidad Autónoma de Canarias ante la huelga general convocada en todo el territorio nacional el 11 de noviembre de 2026. CVE: B",
-      "what_happened": "III. Otras Resoluciones - Consejería de Educación, Formación Profesional, Actividad Física y Deportes 3870 ORDEN de 5 de noviembre de 2026, por la que se determinan los servicios mínimos a establecer en el transporte escolar en la Comunidad Autónoma de Canarias ante la huelga general convocada en todo el territorio nacional el 11 de noviembre de 2026. CVE: BOC-A-2026-224-3870 Firma electrónica: Descargar",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/224/011.html",
-      "pin": false
-    },
-    {
-      "id": "01fb9ef9376e38a3",
-      "title": "ORDEN de 30 de octubre de 2026, por la que se determinan los servicios mínimos de los servicios públicos esenciales a mantener en el transporte discrecional de viajeros por carretera de la Comunidad Autónoma de Canarias durante la huelga convocada para el día 11 de noviembre de 2026 desde las 00:00 horas hasta las 24:00 horas.",
-      "source": "BOC — Otras resoluciones",
-      "source_type": "OFICIAL",
-      "source_label": "BOC",
-      "published": "2026-11-09T23:00:00+00:00",
-      "categories": [
-        "Canarias"
-      ],
-      "type": "noticia",
-      "summary": "III. Otras Resoluciones - Consejería de Obras Públicas, Vivienda y Movilidad 3871 ORDEN de 30 de octubre de 2026, por la que se determinan los servicios mínimos de los servicios públicos esenciales a mantener en el transporte discrecional de viajeros por carretera de la Comunidad Autónoma de Canarias durante la huelga convocada para el día 11 de noviembre de",
-      "what_happened": "III. Otras Resoluciones - Consejería de Obras Públicas, Vivienda y Movilidad 3871 ORDEN de 30 de octubre de 2026, por la que se determinan los servicios mínimos de los servicios públicos esenciales a mantener en el transporte discrecional de viajeros por carretera de la Comunidad Autónoma de Canarias durante la huelga convocada para el día 11 de noviembre de 2026 desde las 00:00 horas hasta las 24:00 horas. CVE: BOC-A-2026-224-3871 Firma electrónica: Descargar",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/224/012.html",
-      "pin": false
-    },
-    {
-      "id": "32f18e846e11782b",
-      "title": "ORDEN de 4 de noviembre de 2026, por la que se establecen los servicios mínimos necesarios para garantizar el mantenimiento de los servicios esenciales en el ámbito de la Consejería de Política Territorial, Cohesión Territorial y Aguas de la Comunidad Autónoma de Canarias con motivo de la huelga general convocada para el día 11 de noviembre de 2026.",
-      "source": "BOC — Otras resoluciones",
-      "source_type": "OFICIAL",
-      "source_label": "BOC",
-      "published": "2026-11-09T23:00:00+00:00",
-      "categories": [
-        "Canarias"
-      ],
-      "type": "noticia",
-      "summary": "III. Otras Resoluciones - Consejería de Política Territorial, Cohesión Territorial y Aguas 3872 ORDEN de 4 de noviembre de 2026, por la que se establecen los servicios mínimos necesarios para garantizar el mantenimiento de los servicios esenciales en el ámbito de la Consejería de Política Territorial, Cohesión Territorial y Aguas de la Comunidad Autónoma de ",
-      "what_happened": "III. Otras Resoluciones - Consejería de Política Territorial, Cohesión Territorial y Aguas 3872 ORDEN de 4 de noviembre de 2026, por la que se establecen los servicios mínimos necesarios para garantizar el mantenimiento de los servicios esenciales en el ámbito de la Consejería de Política Territorial, Cohesión Territorial y Aguas de la Comunidad Autónoma de Canarias con motivo de la huelga general convocada para el día 11 de noviembre de 2026. CVE: BOC-A-2026-224-3872 Firma electrónica: Descargar",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/224/013.html",
-      "pin": false
-    },
-    {
-      "id": "11fd1ede62a4b023",
-      "title": "ORDEN de 6 de noviembre de 2026, por la que se establecen los servicios mínimos del personal adscrito a la Consejería de Presidencia, Administraciones Públicas, Justicia y Seguridad como consecuencia de la huelga general convocada por la Confederación General del Trabajo (CGT), Confederación Intersindical, Unión de Actores y Actrices, CCOO-UGT, la Confederación Nacional del Trabajo (CNT), Sindicato de Comisiones de Base (COBAS), Sindicato Único de Trabajadores Solidaridad Obrera, Organización Sindical de Acción Directa (OSAD), Sindicato ASC e Intersindical Canarias, el día 11 de noviembre de 2026.",
-      "source": "BOC — Otras resoluciones",
-      "source_type": "OFICIAL",
-      "source_label": "BOC",
-      "published": "2026-11-09T23:00:00+00:00",
-      "categories": [
-        "Canarias"
-      ],
-      "type": "noticia",
-      "summary": "III. Otras Resoluciones - Consejería de Presidencia, Administraciones Públicas, Justicia y Seguridad 3874 ORDEN de 6 de noviembre de 2026, por la que se establecen los servicios mínimos del personal adscrito a la Consejería de Presidencia, Administraciones Públicas, Justicia y Seguridad como consecuencia de la huelga general convocada por la Confederación Ge",
-      "what_happened": "III. Otras Resoluciones - Consejería de Presidencia, Administraciones Públicas, Justicia y Seguridad 3874 ORDEN de 6 de noviembre de 2026, por la que se establecen los servicios mínimos del personal adscrito a la Consejería de Presidencia, Administraciones Públicas, Justicia y Seguridad como consecuencia de la huelga general convocada por la Confederación General del Trabajo (CGT), Confederación Intersindical, Unión de Actores y Actrices, CCOO-UGT, la Confederación Nacional del Trabajo (CNT), Sindicato de Comisiones de Base (COBAS), Sindicato Único de Trabajadores Solidaridad Obrera, Organización Sindical de Acción Directa (OSAD), Sindicato ASC e Intersindical Canarias, el día 11 de noviembr",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/224/015.html",
-      "pin": false
-    },
-    {
-      "id": "1f67da980ef55e0a",
-      "title": "Dirección General de Relaciones con la Administración de Justicia.- Resolución de 6 de noviembre de 2026, por la que se determinan los servicios mínimos necesarios para asegurar el mantenimiento de los servicios esenciales en el ámbito de la Administración de Justicia de la Comunidad Autónoma de Canarias, como consecuencia de la convocatoria de huelga general del personal al servicio de la Dirección General de Relaciones con la Administración de Justicia, convocada para el día 11 de noviembre de 2026.",
-      "source": "BOC — Otras resoluciones",
-      "source_type": "OFICIAL",
-      "source_label": "BOC",
-      "published": "2026-11-09T23:00:00+00:00",
-      "categories": [
-        "Canarias"
-      ],
-      "type": "noticia",
-      "summary": "III. Otras Resoluciones - Consejería de Presidencia, Administraciones Públicas, Justicia y Seguridad 3875 Dirección General de Relaciones con la Administración de Justicia.- Resolución de 6 de noviembre de 2026, por la que se determinan los servicios mínimos necesarios para asegurar el mantenimiento de los servicios esenciales en el ámbito de la Administraci",
-      "what_happened": "III. Otras Resoluciones - Consejería de Presidencia, Administraciones Públicas, Justicia y Seguridad 3875 Dirección General de Relaciones con la Administración de Justicia.- Resolución de 6 de noviembre de 2026, por la que se determinan los servicios mínimos necesarios para asegurar el mantenimiento de los servicios esenciales en el ámbito de la Administración de Justicia de la Comunidad Autónoma de Canarias, como consecuencia de la convocatoria de huelga general del personal al servicio de la Dirección General de Relaciones con la Administración de Justicia, convocada para el día 11 de noviembre de 2026. CVE: BOC-A-2026-224-3875 Firma electrónica: Descargar",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/224/016.html",
-      "pin": false
-    },
-    {
-      "id": "16c5366f995203da",
-      "title": "ORDEN conjunta de 4 de noviembre de 2026, por la que se establecen los servicios mínimos a prestar por la sociedad mercantil pública Gestión de Servicios para la Salud y Seguridad en Canarias durante la jornada de huelga general convocada para el día 11 de noviembre de 2026.",
-      "source": "BOC — Otras resoluciones",
-      "source_type": "OFICIAL",
-      "source_label": "BOC",
-      "published": "2026-11-09T23:00:00+00:00",
-      "categories": [
-        "Canarias",
-        "Jornada"
-      ],
-      "type": "noticia",
-      "summary": "III. Otras Resoluciones - Consejerías de Sanidad y de Política Territorial, Cohesión Territorial y Aguas 3876 ORDEN conjunta de 4 de noviembre de 2026, por la que se establecen los servicios mínimos a prestar por la sociedad mercantil pública Gestión de Servicios para la Salud y Seguridad en Canarias durante la jornada de huelga general convocada para el día",
-      "what_happened": "III. Otras Resoluciones - Consejerías de Sanidad y de Política Territorial, Cohesión Territorial y Aguas 3876 ORDEN conjunta de 4 de noviembre de 2026, por la que se establecen los servicios mínimos a prestar por la sociedad mercantil pública Gestión de Servicios para la Salud y Seguridad en Canarias durante la jornada de huelga general convocada para el día 11 de noviembre de 2026. CVE: BOC-A-2026-224-3876 Firma electrónica: Descargar",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/224/017.html",
-      "pin": false
-    },
-    {
-      "id": "d37b3bd3fccd3966",
-      "title": "ORDEN de 4 de noviembre de 2026, por la que se establecen los servicios mínimos a prestar por el personal adscrito a la Consejería de Sanidad durante la jornada de huelga general convocada para el día 11 noviembre de 2026.",
-      "source": "BOC — Otras resoluciones",
-      "source_type": "OFICIAL",
-      "source_label": "BOC",
-      "published": "2026-11-09T23:00:00+00:00",
-      "categories": [
-        "Canarias",
-        "Jornada"
-      ],
-      "type": "noticia",
-      "summary": "III. Otras Resoluciones - Consejería de Sanidad 3877 ORDEN de 4 de noviembre de 2026, por la que se establecen los servicios mínimos a prestar por el personal adscrito a la Consejería de Sanidad durante la jornada de huelga general convocada para el día 11 noviembre de 2026. CVE: BOC-A-2026-224-3877 Firma electrónica: Descargar",
-      "what_happened": "III. Otras Resoluciones - Consejería de Sanidad 3877 ORDEN de 4 de noviembre de 2026, por la que se establecen los servicios mínimos a prestar por el personal adscrito a la Consejería de Sanidad durante la jornada de huelga general convocada para el día 11 noviembre de 2026. CVE: BOC-A-2026-224-3877 Firma electrónica: Descargar",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/224/018.html",
-      "pin": false
-    },
-    {
-      "id": "efdc49ff7585b50f",
-      "title": "ORDEN de 4 de noviembre de 2026, por la que se establecen los servicios mínimos a prestar por la Escuela de Servicios Sanitarios y Sociales de Canarias durante la jornada de huelga general convocada para el día 11 de noviembre de 2026.",
-      "source": "BOC — Otras resoluciones",
-      "source_type": "OFICIAL",
-      "source_label": "BOC",
-      "published": "2026-11-09T23:00:00+00:00",
-      "categories": [
-        "Canarias",
-        "Jornada"
-      ],
-      "type": "noticia",
-      "summary": "III. Otras Resoluciones - Consejería de Sanidad 3878 ORDEN de 4 de noviembre de 2026, por la que se establecen los servicios mínimos a prestar por la Escuela de Servicios Sanitarios y Sociales de Canarias durante la jornada de huelga general convocada para el día 11 de noviembre de 2026. CVE: BOC-A-2026-224-3878 Firma electrónica: Descargar",
-      "what_happened": "III. Otras Resoluciones - Consejería de Sanidad 3878 ORDEN de 4 de noviembre de 2026, por la que se establecen los servicios mínimos a prestar por la Escuela de Servicios Sanitarios y Sociales de Canarias durante la jornada de huelga general convocada para el día 11 de noviembre de 2026. CVE: BOC-A-2026-224-3878 Firma electrónica: Descargar",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/224/019.html",
-      "pin": false
-    },
-    {
-      "id": "8982f6ae4f5f79f2",
-      "title": "ORDEN de 6 de noviembre de 2026, por la que se establecen los servicios mínimos a prestar por el personal adscrito al Servicio Canario de la Salud, durante la huelga general convocada para el día 11 de noviembre de 2026.",
-      "source": "BOC — Otras resoluciones",
-      "source_type": "OFICIAL",
-      "source_label": "BOC",
-      "published": "2026-11-09T23:00:00+00:00",
-      "categories": [
-        "Canarias"
-      ],
-      "type": "noticia",
-      "summary": "III. Otras Resoluciones - Consejería de Sanidad 3879 ORDEN de 6 de noviembre de 2026, por la que se establecen los servicios mínimos a prestar por el personal adscrito al Servicio Canario de la Salud, durante la huelga general convocada para el día 11 de noviembre de 2026. CVE: BOC-A-2026-224-3879 Firma electrónica: Descargar",
-      "what_happened": "III. Otras Resoluciones - Consejería de Sanidad 3879 ORDEN de 6 de noviembre de 2026, por la que se establecen los servicios mínimos a prestar por el personal adscrito al Servicio Canario de la Salud, durante la huelga general convocada para el día 11 de noviembre de 2026. CVE: BOC-A-2026-224-3879 Firma electrónica: Descargar",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/224/020.html",
-      "pin": false
-    },
-    {
-      "id": "faa75eca063df160",
-      "title": "ORDEN 6 de noviembre de 2026, por la que se establecen los servicios mínimos de los empleados públicos adscritos a la Consejería de Turismo y Empleo, como consecuencia de la huelga convocada por Confederación General del Trabajo, Confederación Intersindical, Confederación Sindical de Comisiones Obreras, Confederación Sindical de la Unión General de Trabajadores, Confederación Nacional del Trabajo, Sindicato Comisiones de Base e Intersindical Canaria, el día 11 de noviembre de 2026, desde a las 00:00 horas hasta las 23:59 horas.",
-      "source": "BOC — Otras resoluciones",
-      "source_type": "OFICIAL",
-      "source_label": "BOC",
-      "published": "2026-11-09T23:00:00+00:00",
-      "categories": [
-        "Canarias"
-      ],
-      "type": "noticia",
-      "summary": "III. Otras Resoluciones - Consejería de Turismo y Empleo 3880 ORDEN 6 de noviembre de 2026, por la que se establecen los servicios mínimos de los empleados públicos adscritos a la Consejería de Turismo y Empleo, como consecuencia de la huelga convocada por Confederación General del Trabajo, Confederación Intersindical, Confederación Sindical de Comisiones Ob",
-      "what_happened": "III. Otras Resoluciones - Consejería de Turismo y Empleo 3880 ORDEN 6 de noviembre de 2026, por la que se establecen los servicios mínimos de los empleados públicos adscritos a la Consejería de Turismo y Empleo, como consecuencia de la huelga convocada por Confederación General del Trabajo, Confederación Intersindical, Confederación Sindical de Comisiones Obreras, Confederación Sindical de la Unión General de Trabajadores, Confederación Nacional del Trabajo, Sindicato Comisiones de Base e Intersindical Canaria, el día 11 de noviembre de 2026, desde a las 00:00 horas hasta las 23:59 horas. CVE: BOC-A-2026-224-3880 Firma electrónica: Descargar",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/224/021.html",
       "pin": false
     },
     {
