@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-11-25T14:30+00:00",
+  "updated_at": "2026-11-25T23:39+00:00",
   "items": [
+    {
+      "id": "5ae36ed1e262e377",
+      "title": "UGT Canarias reivindica en el 25N centros de trabajo libres de violencias machistas",
+      "source": "UGT Canarias — Noticias",
+      "source_type": "UGT",
+      "source_label": "UGT CANARIAS",
+      "published": "2026-11-25T17:36:21+00:00",
+      "categories": [
+        "UGT",
+        "Canarias",
+        "Jornada",
+        "Derechos laborales"
+      ],
+      "type": "noticia",
+      "summary": "UGT Canarias ha conmemorado este 25 de noviembre con una jornada de sensibilización y movilización para denunciar las violencias machistas y reivindicar el papel de los centros de trabajo en su prevención. La participación del sindicato en las concentraciones y la celebración de una charla han marcado una jornada en la que UGT Canarias ha reafirmado su compr",
+      "what_happened": "UGT Canarias ha conmemorado este 25 de noviembre con una jornada de sensibilización y movilización para denunciar las violencias machistas y reivindicar el papel de los centros de trabajo en su prevención. La participación del sindicato en las concentraciones y la celebración de una charla han marcado una jornada en la que UGT Canarias ha reafirmado su compromiso con las mujeres que sufren estas violencias y con quienes trabajan para erradicarlas.",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://canarias.ugt.org/index.php/noticias/ugt-canarias-reivindica-en-el-25n-centros-de-trabajo-libres-de-violencias-machistas"
+    },
     {
       "id": "0ce31ead33d175fe",
       "title": "Empleo coordina el trabajo de prevención de 2027 en el XXIV Encuentro-Jornadas de Coordinación Icasel-ITSS",
@@ -18,7 +39,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www3.gobiernodecanarias.org/noticias/empleo-coordina-el-trabajo-de-prevencion-de-2027-en-el-xxiv-encuentro-jornadas-de-coordinacion-icasel-itss"
+      "url": "https://www3.gobiernodecanarias.org/noticias/empleo-coordina-el-trabajo-de-prevencion-de-2027-en-el-xxiv-encuentro-jornadas-de-coordinacion-icasel-itss",
+      "pin": false
     },
     {
       "id": "boe-a-2026-24701",
@@ -36,7 +58,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24701"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24701",
+      "pin": false
     },
     {
       "id": "boe-a-2026-24700",
@@ -55,7 +78,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24700"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24700",
+      "pin": false
     },
     {
       "id": "boe-a-2026-24616",
@@ -914,45 +938,6 @@
       "impact": "",
       "ugt_position": "",
       "url": "https://www3.gobiernodecanarias.org/noticias/jessica-de-leon-resalta-la-importancia-de-la-labor-inspectora-para-la-calidad-del-empleo-en-canarias",
-      "pin": false
-    },
-    {
-      "id": "boe-a-2026-23668",
-      "title": "Orden ISM/1198/2026, de 10 de noviembre, por la que se regulan las operaciones de cierre del ejercicio 2026 para las entidades que integran el sistema de la Seguridad Social.",
-      "source": "BOE — Seguridad Social",
-      "source_type": "OFICIAL",
-      "source_label": "FUENTE OFICIAL",
-      "published": "2026-11-11T23:00:00+00:00",
-      "categories": [
-        "Derechos laborales"
-      ],
-      "type": "noticia",
-      "summary": "Ministerio de Inclusión, Seguridad Social y Migraciones - Publicado el 12/11/2026 - Referencia: BOE-A-2026-23668",
-      "what_happened": "Ministerio de Inclusión, Seguridad Social y Migraciones - Publicado el 12/11/2026 - Referencia: BOE-A-2026-23668",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23668",
-      "pin": false
-    },
-    {
-      "id": "59eec6c3418f31ea",
-      "title": "Viceconsejería de Formación Profesional y Cualificaciones Profesionales.- Resolución de 29 de octubre de 2026, por la que establece la distribución horaria y estructura modular de los Grados C (certificados profesionales) y sus correspondientes Grados B (certificados de competencia), de nivel 1, de las familias profesionales Artes Gráficas; Fabricación Mecánica; Hostelería y Turismo; Servicios Socioculturales y a la Comunidad; y Vidrio y Cerámica, en el ámbito de la Comunidad Autónoma de Canarias.",
-      "source": "BOC — Otras resoluciones",
-      "source_type": "OFICIAL",
-      "source_label": "BOC",
-      "published": "2026-11-11T23:00:00+00:00",
-      "categories": [
-        "Canarias",
-        "Hostelería"
-      ],
-      "type": "noticia",
-      "summary": "III. Otras Resoluciones - Consejería de Educación, Formación Profesional, Actividad Física y Deportes 3918 Viceconsejería de Formación Profesional y Cualificaciones Profesionales.- Resolución de 29 de octubre de 2026, por la que establece la distribución horaria y estructura modular de los Grados C (certificados profesionales) y sus correspondientes Grados B",
-      "what_happened": "III. Otras Resoluciones - Consejería de Educación, Formación Profesional, Actividad Física y Deportes 3918 Viceconsejería de Formación Profesional y Cualificaciones Profesionales.- Resolución de 29 de octubre de 2026, por la que establece la distribución horaria y estructura modular de los Grados C (certificados profesionales) y sus correspondientes Grados B (certificados de competencia), de nivel 1, de las familias profesionales Artes Gráficas; Fabricación Mecánica; Hostelería y Turismo; Servicios Socioculturales y a la Comunidad; y Vidrio y Cerámica, en el ámbito de la Comunidad Autónoma de Canarias. CVE: BOC-A-2026-227-3918 Firma electrónica: Descargar",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/227/007.html",
       "pin": false
     },
     {
