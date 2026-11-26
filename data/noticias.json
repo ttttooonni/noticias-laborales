@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-11-26T08:26+00:00",
+  "updated_at": "2026-11-26T19:04+00:00",
   "items": [
+    {
+      "id": "04ed942c4fe66e9b",
+      "title": "Los trabajadores de la hostelería canaria destacan por su resiliencia y optimismo a pesar del estrés laboral",
+      "source": "Gobierno de Canarias — Turismo y Empleo",
+      "source_type": "OFICIAL",
+      "source_label": "CANARIAS",
+      "published": "2026-11-26T17:46:50+00:00",
+      "categories": [
+        "Canarias",
+        "Las Palmas",
+        "Hostelería"
+      ],
+      "type": "noticia",
+      "summary": "Esta es una de las conclusiones del Estudio sobre el Bienestar Laboral en la Hostelería Canaria 2026, elaborado por la Cátedra Turismo Islas Canarias de Sostenibilidad e Inteligencia de Datos de la Universidad de Las Palmas de Gran Canaria (ULPGC) Además, revela elevados niveles de satisfacción laboral, compromiso y capacidad para afrontar situaciones advers",
+      "what_happened": "Esta es una de las conclusiones del Estudio sobre el Bienestar Laboral en la Hostelería Canaria 2026, elaborado por la Cátedra Turismo Islas Canarias de Sostenibilidad e Inteligencia de Datos de la Universidad de Las Palmas de Gran Canaria (ULPGC) Además, revela elevados niveles de satisfacción laboral, compromiso y capacidad para afrontar situaciones adversas entre […]",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www3.gobiernodecanarias.org/noticias/los-trabajadores-de-la-hosteleria-canaria-destacan-por-su-resiliencia-y-optimismo-a-pesar-del-estres-laboral"
+    },
     {
       "id": "boe-a-2026-24889",
       "title": "Resolución de 16 de noviembre de 2026, de la Dirección General de Trabajo, por la que se registra y publica la Adenda del II Convenio colectivo del Colegio de Ingenieros de Caminos, Canales y Puertos.",
@@ -17,7 +37,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24889"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24889",
+      "pin": false
     },
     {
       "id": "boe-a-2026-24888",
@@ -35,7 +56,26 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24888"
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24888",
+      "pin": false
+    },
+    {
+      "id": "922626b936d376e2",
+      "title": "Directiva Delegada (UE) 2026/2055 de la Comisión, de 15 de septiembre de 2026, por la que se completa la Directiva 2005/36/CE del Parlamento Europeo y del Consejo mediante el establecimiento de un marco común de formación para fisioterapeutas.",
+      "source": "BOE — Trabajo y empleo",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-11-25T23:00:00+00:00",
+      "categories": [
+        "Derechos laborales"
+      ],
+      "type": "noticia",
+      "summary": "Unión Europea - Publicado el 26/11/2026 - Referencia: DOUE-L-2026-81843",
+      "what_happened": "Unión Europea - Publicado el 26/11/2026 - Referencia: DOUE-L-2026-81843",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://boe.es/buscar/doc.php?id=DOUE-L-2026-81843"
     },
     {
       "id": "baa0afa3929d3a6a",
@@ -54,7 +94,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://gobiernodecanarias.org/boc/2026/238/016.html"
+      "url": "https://gobiernodecanarias.org/boc/2026/238/016.html",
+      "pin": false
     },
     {
       "id": "5ae36ed1e262e377",
@@ -977,26 +1018,6 @@
       "pin": false
     },
     {
-      "id": "2a9cc143df694e93",
-      "title": "Jéssica de León resalta la importancia de la labor inspectora para la calidad del empleo en Canarias",
-      "source": "Gobierno de Canarias — Turismo y Empleo",
-      "source_type": "OFICIAL",
-      "source_label": "CANARIAS",
-      "published": "2026-11-12T12:57:59+00:00",
-      "categories": [
-        "Canarias",
-        "Hostelería"
-      ],
-      "type": "noticia",
-      "summary": "La consejera de Turismo y Empleo del Gobierno de Canarias, Jéssica de León, participó esta mañana en la apertura de las ‘Jornadas por un trabajo digno: Inspección, justicia y derechos en el siglo XXI’, organizadas por la Unión Progresista de Inspectores e Inspectoras de Trabajo (UPIT), en el Hotel Escuela Santa Cruz, en Tenerife. La […]",
-      "what_happened": "La consejera de Turismo y Empleo del Gobierno de Canarias, Jéssica de León, participó esta mañana en la apertura de las ‘Jornadas por un trabajo digno: Inspección, justicia y derechos en el siglo XXI’, organizadas por la Unión Progresista de Inspectores e Inspectoras de Trabajo (UPIT), en el Hotel Escuela Santa Cruz, en Tenerife. La […]",
-      "who_affected": "",
-      "impact": "",
-      "ugt_position": "",
-      "url": "https://www3.gobiernodecanarias.org/noticias/jessica-de-leon-resalta-la-importancia-de-la-labor-inspectora-para-la-calidad-del-empleo-en-canarias",
-      "pin": false
-    },
-    {
       "id": "ee08d1a96bf6f91d",
       "title": "UGT Canarias firma el primer convenio regional de salvamento y socorrismo con subidas salariales de hasta el 62,76%",
       "source": "UGT Canarias — Noticias",
@@ -1110,6 +1131,11 @@
   ],
   "health": {
     "sources_checked": 7,
-    "failures": []
+    "failures": [
+      {
+        "source": "UGT Canarias — Noticias",
+        "error": "HTTP Error 415: Unsupported Media Type"
+      }
+    ]
   }
 }
