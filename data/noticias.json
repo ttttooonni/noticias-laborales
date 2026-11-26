@@ -1,6 +1,61 @@
 {
-  "updated_at": "2026-11-25T23:39+00:00",
+  "updated_at": "2026-11-26T08:26+00:00",
   "items": [
+    {
+      "id": "boe-a-2026-24889",
+      "title": "Resolución de 16 de noviembre de 2026, de la Dirección General de Trabajo, por la que se registra y publica la Adenda del II Convenio colectivo del Colegio de Ingenieros de Caminos, Canales y Puertos.",
+      "source": "BOE — Convenios colectivos",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-11-25T23:00:00+00:00",
+      "categories": [
+        "Convenios"
+      ],
+      "type": "noticia",
+      "summary": "Ministerio de Trabajo y Economía Social - Publicado el 26/11/2026 - Referencia: BOE-A-2026-24889",
+      "what_happened": "Ministerio de Trabajo y Economía Social - Publicado el 26/11/2026 - Referencia: BOE-A-2026-24889",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24889"
+    },
+    {
+      "id": "boe-a-2026-24888",
+      "title": "Resolución de 16 de noviembre de 2026, de la Dirección General de Trabajo, por la que se registra y publica el XII Convenio colectivo de Lufthansa Cargo AG.",
+      "source": "BOE — Convenios colectivos",
+      "source_type": "OFICIAL",
+      "source_label": "FUENTE OFICIAL",
+      "published": "2026-11-25T23:00:00+00:00",
+      "categories": [
+        "Convenios"
+      ],
+      "type": "noticia",
+      "summary": "Ministerio de Trabajo y Economía Social - Publicado el 26/11/2026 - Referencia: BOE-A-2026-24888",
+      "what_happened": "Ministerio de Trabajo y Economía Social - Publicado el 26/11/2026 - Referencia: BOE-A-2026-24888",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24888"
+    },
+    {
+      "id": "baa0afa3929d3a6a",
+      "title": "Servicio Canario de Empleo.- Resolución de 16 de noviembre de 2026, del Secretario General, por la que se ordena la publicación de la Declaración de Adhesión al Convenio Marco de Colaboración suscrito entre el Servicio Canario de Empleo, la Fundación Canaria General Universidad de La Laguna y la Confederación Provincial de Empresarios de Santa Cruz de Tenerife (CEOE-Tenerife) para la realización de prácticas no laborales en empresas de personas jóvenes con titulación y sin experiencia profesional, dentro del Proyecto “Cataliza VIII: Plan de fomento de la inserción laboral guiada a través de prácticas no laborales en empresas”, así como la relación de empresas adheridas al mismo con fecha 13 de noviembre de 2026.",
+      "source": "BOC — Otras resoluciones",
+      "source_type": "OFICIAL",
+      "source_label": "BOC",
+      "published": "2026-11-25T23:00:00+00:00",
+      "categories": [
+        "Canarias",
+        "Empleo"
+      ],
+      "type": "noticia",
+      "summary": "III. Otras Resoluciones - Consejería de Turismo y Empleo 4160 Servicio Canario de Empleo.- Resolución de 16 de noviembre de 2026, del Secretario General, por la que se ordena la publicación de la Declaración de Adhesión al Convenio Marco de Colaboración suscrito entre el Servicio Canario de Empleo, la Fundación Canaria General Universidad de La Laguna y la C",
+      "what_happened": "III. Otras Resoluciones - Consejería de Turismo y Empleo 4160 Servicio Canario de Empleo.- Resolución de 16 de noviembre de 2026, del Secretario General, por la que se ordena la publicación de la Declaración de Adhesión al Convenio Marco de Colaboración suscrito entre el Servicio Canario de Empleo, la Fundación Canaria General Universidad de La Laguna y la Confederación Provincial de Empresarios de Santa Cruz de Tenerife (CEOE-Tenerife) para la realización de prácticas no laborales en empresas de personas jóvenes con titulación y sin experiencia profesional, dentro del Proyecto “Cataliza VIII: Plan de fomento de la inserción laboral guiada a través de prácticas no laborales en empresas”, así",
+      "who_affected": "",
+      "impact": "",
+      "ugt_position": "",
+      "url": "https://gobiernodecanarias.org/boc/2026/238/016.html"
+    },
     {
       "id": "5ae36ed1e262e377",
       "title": "UGT Canarias reivindica en el 25N centros de trabajo libres de violencias machistas",
@@ -20,7 +75,8 @@
       "who_affected": "",
       "impact": "",
       "ugt_position": "",
-      "url": "https://canarias.ugt.org/index.php/noticias/ugt-canarias-reivindica-en-el-25n-centros-de-trabajo-libres-de-violencias-machistas"
+      "url": "https://canarias.ugt.org/index.php/noticias/ugt-canarias-reivindica-en-el-25n-centros-de-trabajo-libres-de-violencias-machistas",
+      "pin": false
     },
     {
       "id": "0ce31ead33d175fe",
